@@ -32,27 +32,27 @@
 
 </head>
 
-<body>
-<style>
+<body onload="zoomableScatterPlotForRatingsBySocialMedia()">
+<!--<style>-->
 
-.axis path,
-.axis line {
-    fill: none;
-    stroke: #000;
-    shape-rendering: crispEdges;
-}
+<!--.axis path,-->
+<!--.axis line {-->
+    <!--fill: none;-->
+    <!--stroke: #000;-->
+    <!--shape-rendering: crispEdges;-->
+<!--}-->
 
-.dot {
-    stroke: #000;
-}
+<!--.dot {-->
+    <!--stroke: #000;-->
+<!--}-->
 
-.tooltip {
-    position: absolute;
-    width: 200px;
-    height: 28px;
-    pointer-events: none;
-}
-</style>
+<!--.tooltip {-->
+    <!--position: absolute;-->
+    <!--width: 200px;-->
+    <!--height: 28px;-->
+    <!--pointer-events: none;-->
+<!--}-->
+<!--</style>-->
 
     <div id="wrapper">
 
@@ -73,10 +73,10 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li class="active">
-                       <button type="button" onclick="zoomableScatterPlotForRatingsBySocialMedia()"><i class="fa fa-fw fa-dashboard"></i>Ratings by Social Media</button>
+                       <a href="index.html" ><i class="fa fa-fw fa-dashboard"></i>Ratings by Social Media</a>
                     </li>
                     <li>
-                        <button type="button" onclick="zoomableScatterPlotForRatingsByIncome()"><i class="fa fa-fw fa-bar-chart-o"></i> Ratings By Income</button>
+                        <a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i> Ratings By Income</a>
                     </li>
                     <li>
                         <a href="tables.html"><i class="fa fa-fw fa-table"></i> Correlation</a>
@@ -264,7 +264,7 @@
     <!-- jQuery -->
 <script src="js/functions.js"></script>
     <script src="js/jquery.js"></script>
-<script src="js/d3.v4.min.js"></script>
+<script src="js/d3.v3.min.js"></script>
 <script src="js/d3.tip.v0.6.3.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
