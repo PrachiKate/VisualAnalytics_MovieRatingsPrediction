@@ -1,143 +1,17 @@
 /**
  * Created by prachikate on 12/4/16.
  */
-//function mainScoreScatterPlot(){
-//
-//
-//    var margin = {top: 20, right: 20, bottom: 30, left: 40},
-//        width = 960 - margin.left - margin.right,
-//        height = 500 - margin.top - margin.bottom;
-//
-//    /*
-//     * value accessor - returns the value to encode for a given data object.
-//     * scale - maps value to a visual display encoding, such as a pixel position.
-//     * map function - maps from data value to display value
-//     * axis - sets up axis
-//     */
-//    // add the graph canvas to the body of the webpage
-//    var svg = d3.select("#morris-area-chart").append("svg")
-//        .attr("width", width + margin.left + margin.right)
-//        .attr("height", height + margin.top + margin.bottom)
-//        .append("g")
-//        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-//
-//// setup x
-//    var xValue = function(d) { return d.imdb_score;}, // data -> value
-//        xScale = d3.scale.linear().range([0, width]), // value -> display
-//        xMap = function(d) { return xScale(xValue(d));}, // data -> display
-//        xAxis = d3.svg.axis().scale(xScale).orient("bottom");
-//
-//// setup y
-//    var yValue = function(d) { return d["movie_facebook_likes"];}, // data -> value
-//        yScale = d3.scale.linear().range([height, 0]), // value -> display
-//        yMap = function(d) { return yScale(yValue(d));}, // data -> display
-//        yAxis = d3.svg.axis().scale(yScale).orient("left");
-//
-//// setup fill color
-//    var cValue = function(d) { return d.title_year;},
-//        color = d3.scale.category10();
-//
-//
-//
-//// add the tooltip area to the webpage
-//    var tooltip = d3.select("#morris-area-chart").append("div")
-//        .attr("class", "tooltip")
-//        .style("opacity", 0);
-//
-//// load data
-//    d3.csv("movie_metadata.csv", function(error, data) {
-//
-//        // change string (from CSV) into number format
-//        data.forEach(function(d) {
-//            d.imdb_score = +d.imdb_score;
-//            d["movie_facebook_likes"] = +d["movie_facebook_likes"];
-////    console.log(d);
-//        });
-//
-//        // don't want dots overlapping axis, so add in buffer to data domain
-//        xScale.domain([d3.min(data, xValue)-1, d3.max(data, xValue)+1]);
-//        yScale.domain([d3.min(data, yValue)-1, d3.max(data, yValue)+1]);
-//
-//        // x-axis
-//        svg.append("g")
-//            .attr("class", "x axis")
-//            .attr("transform", "translate(0," + height + ")")
-//            .call(xAxis)
-//            .append("text")
-//            .attr("class", "label")
-//            .attr("x", width)
-//            .attr("y", -6)
-//            .style("text-anchor", "end")
-//            .text("Movie IMDB score");
-//
-//        // y-axis
-//        svg.append("g")
-//            .attr("class", "y axis")
-//            .call(yAxis)
-//            .append("text")
-//            .attr("class", "label")
-//            .attr("transform", "rotate(-90)")
-//            .attr("y", 6)
-//            .attr("dy", ".71em")
-//            .style("text-anchor", "end")
-//            .text("Movie FB likes");
-//
-//        // draw dots
-//        svg.selectAll(".dot")
-//            .data(data)
-//            .enter().append("circle")
-//            .attr("class", "dot")
-//            .attr("r", 5)
-//            .attr("cx", xMap)
-//            .attr("cy", yMap)
-//            .style("fill", function(d) { return color(cValue(d));})
-//            .on("mouseover", function(d) {
-//                tooltip.transition()
-//                    .duration(200)
-//                    .style("opacity", .9);
-//                tooltip.html(d["movie_title"] + "<br/> (" + xValue(d)
-//                        + ", " + yValue(d) + ")")
-//                    .style("left", (d3.event.pageX + 5) + "px")
-//                    .style("top", (d3.event.pageY - 28) + "px");
-//            })
-//            .on("mouseout", function(d) {
-//                tooltip.transition()
-//                    .duration(500)
-//                    .style("opacity", 0);
-//            });
-//
-//        // draw legend
-//        var legend = svg.selectAll(".legend")
-//            .data(color.domain())
-//            .enter().append("g")
-//            .attr("class", "legend")
-//            .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
-//
-//        // draw legend colored rectangles
-//        legend.append("rect")
-//            .attr("x", width - 18)
-//            .attr("width", 18)
-//            .attr("height", 18)
-//            .style("fill", color);
-//
-//        // draw legend text
-//        legend.append("text")
-//            .attr("x", width - 24)
-//            .attr("y", 9)
-//            .attr("dy", ".35em")
-//            .style("text-anchor", "end")
-//            .text(function(d) { return d;})
-//    });
-//
-//}
+
 
 function zoomableScatterPlotForRatingsByIncome(){
 
     var margin = { top: 50, right: 300, bottom: 50, left: 50 },
         outerWidth = 900,
-        outerHeight = 500,
+        outerHeight = 320,
         width = outerWidth - margin.left - margin.right,
         height = outerHeight - margin.top - margin.bottom;
+
+    var formatSi = (d3.format(".0s"));
 
     var x = d3.scale.linear()
         .range([0, width]).nice();
@@ -154,13 +28,13 @@ function zoomableScatterPlotForRatingsByIncome(){
         rCat = "imdb_score",
         colorCat = "color";
 
-    d3.csv("movie_metadata.csv", function(data) {
+    d3.csv("movie_metadata.csv", function(error, data) {
         data.forEach(function(d) {
             d.budget = +d.budget;
             d.gross = +d.gross;
-            d["movie_title"] = +d["movie_title"];
+            d.movie_title = +d.movie_title;
             d.imdb_score = +d.imdb_score;
-            d["color"] = +d["color"];
+            d.color = +d.color;
             /*d["Serving Size Weight"] = +d["Serving Size Weight"];
             d.Sodium = +d.Sodium;
             d.Sugars = +d.Sugars;
@@ -180,12 +54,14 @@ function zoomableScatterPlotForRatingsByIncome(){
         var xAxis = d3.svg.axis()
             .scale(x)
             .orient("bottom")
-            .tickSize(-height);
+            .tickSize(-height)
+            .tickFormat(formatSi);
 
         var yAxis = d3.svg.axis()
             .scale(y)
             .orient("left")
-            .tickSize(-width);
+            .tickSize(-width)
+            .tickFormat(formatSi);
 
         var color = d3.scale.category10();
 
@@ -193,7 +69,7 @@ function zoomableScatterPlotForRatingsByIncome(){
             .attr("class", "d3-tip")
             .offset([-10, 0])
             .html(function(d) {
-                return xCat + ": " + d[xCat] + "<br>" + yCat + ": " + d[yCat];
+                return xCat + ": " + d[xCat] + "<br>" + yCat + ": " + d[yCat] ;
             });
 
         var zoomBeh = d3.behavior.zoom()
@@ -225,7 +101,8 @@ function zoomableScatterPlotForRatingsByIncome(){
             .attr("x", width)
             .attr("y", margin.bottom - 10)
             .style("text-anchor", "end")
-            .text(xCat);
+            .text(xCat)
+
 
         svg.append("g")
             .classed("y axis", true)
@@ -262,28 +139,28 @@ function zoomableScatterPlotForRatingsByIncome(){
             .data(data)
             .enter().append("circle")
             .classed("dot", true)
-            //.attr("r", function (d) { return 6 * Math.sqrt(d[rCat] / Math.PI); })
-            .attr("r", 5)
+            .attr("r", function (d) { return 6 * Math.sqrt(d[rCat] / Math.PI); })
+            //.attr("r", 5)
             .attr("transform", transform)
             .style("fill", function(d) { return color(cValue(d));})
             .on("mouseover", tip.show)
             .on("mouseout", tip.hide);
 
-        var legend = svg.selectAll(".legend")
-            .data(color.domain())
-            .enter().append("g")
-            .classed("legend", true)
-            .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
-
-        legend.append("circle")
-            .attr("r", 3.5)
-            .attr("cx", width + 20)
-            .attr("fill", color);
-
-        legend.append("text")
-            .attr("x", width + 26)
-            .attr("dy", ".35em")
-            .text(function(d) { return d; });
+        //var legend = svg.selectAll(".legend")
+        //    .data(color.domain())
+        //    .enter().append("g")
+        //    .classed("legend", true)
+        //    .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+        //
+        //legend.append("circle")
+        //    .attr("r", 3.5)
+        //    .attr("cx", width + 20)
+        //    .attr("fill", color);
+        //
+        //legend.append("text")
+        //    .attr("x", width + 26)
+        //    .attr("dy", ".35em")
+        //    .text(function(d) { return d; });
 
         d3.select("input").on("click", change);
 
@@ -468,82 +345,6 @@ function scatterMatrix(){
     }
 }
 
-function actorDirectorLikesBarChart(movieTitle){
-
-    var margin = {top: 40, right: 20, bottom: 30, left: 40},
-        width = 960 - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
-
-    var formatPercent = d3.format(".0%");
-
-    var x = d3.scale.ordinal()
-        .rangeRoundBands([0, width], .1);
-
-    var y = d3.scale.linear()
-        .range([height, 0]);
-
-    var xAxis = d3.svg.axis()
-        .scale(x)
-        .orient("bottom");
-
-    var yAxis = d3.svg.axis()
-        .scale(y)
-        .orient("left")
-        .tickFormat(formatPercent);
-
-    var tip = d3.tip()
-        .attr('class', 'd3-tip')
-        .offset([-10, 0])
-        .html(function(d) {
-            return "<strong>Frequency:</strong> <span style='color:red'>" + d.frequency + "</span>";
-        })
-
-    var svg = d3.select("#morris-bar-chart").append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-    svg.call(tip);
-
-    d3.tsv("movie_metadata.csv", type, function(error, data) {
-
-        x.domain(data.map(function(d) { return d.letter; }));
-        y.domain([0, d3.max(data, function(d) { return d.actor_1_facebook_likes; })]);
-
-        svg.append("g")
-            .attr("class", "x axis")
-            .attr("transform", "translate(0," + height + ")")
-            .call(xAxis);
-
-        svg.append("g")
-            .attr("class", "y axis")
-            .call(yAxis)
-            .append("text")
-            .attr("transform", "rotate(-90)")
-            .attr("y", 6)
-            .attr("dy", ".71em")
-            .style("text-anchor", "end")
-            .text("Frequency");
-
-        svg.selectAll(".bar")
-            .data(data)
-            .enter().append("rect")
-            .attr("class", "bar")
-            .attr("x", function(d) { return x(d.letter); })
-            .attr("width", x.rangeBand())
-            .attr("y", function(d) { return y(d.frequency); })
-            .attr("height", function(d) { return height - y(d.frequency); })
-            .on('mouseover', tip.show)
-            .on('mouseout', tip.hide)
-
-    });
-
-    function type(d) {
-        d.frequency = +d.frequency;
-        return d;
-    }
-}
 
 
 function zoomableScatterPlotForRatingsBySocialMedia(){
@@ -566,14 +367,16 @@ function zoomableScatterPlotForRatingsBySocialMedia(){
 
     var xCat = "movie_facebook_likes",
         yCat = "imdb_score",
+        //zCat = "movie_title"
         rCat = "color",
         colorCat = "content_rating";
 
-    d3.csv("movie_metadata.csv", function(data) {
+    d3.csv("movie_metadata.csv", function(error, data) {
+        if (error) throw error;
         data.forEach(function(d) {
             d.imdb_score = +d.imdb_score;
             d.cast_total_facebook_likes = +d.cast_total_facebook_likes;
-            d["movie_title"] = +d["movie_title"];
+            d.movie_title = +d.movie_title;
             d.movie_facebook_likes = +d.movie_facebook_likes;
             d["content_rating"] = +d["content_rating"];
             /*d["Serving Size Weight"] = +d["Serving Size Weight"];
@@ -604,6 +407,12 @@ function zoomableScatterPlotForRatingsBySocialMedia(){
 
         var color = d3.scale.category10();
 
+        //var tip = d3.tip()
+        //    .attr("class", "d3-tip")
+        //    .offset([-10, 0])
+        //    .html(function(d) {
+        //        return xCat + ": " + d[xCat] + "<br>" + yCat + ": " + d[yCat];
+        //    });
         var tip = d3.tip()
             .attr("class", "d3-tip")
             .offset([-10, 0])
@@ -684,21 +493,21 @@ function zoomableScatterPlotForRatingsBySocialMedia(){
             .on("mouseover", tip.show)
             .on("mouseout", tip.hide);
 
-        var legend = svg.selectAll(".legend")
-            .data(color.domain())
-            .enter().append("g")
-            .classed("legend", true)
-            .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
-
-        legend.append("circle")
-            .attr("r", 3.5)
-            .attr("cx", width + 20)
-            .attr("fill", color);
-
-        legend.append("text")
-            .attr("x", width + 26)
-            .attr("dy", ".35em")
-            .text(function(d) { return d; });
+        //var legend = svg.selectAll(".legend")
+        //    .data(color.domain())
+        //    .enter().append("g")
+        //    .classed("legend", true)
+        //    .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+        //
+        //legend.append("circle")
+        //    .attr("r", 3.5)
+        //    .attr("cx", width + 20)
+        //    .attr("fill", color);
+        //
+        //legend.append("text")
+        //    .attr("x", width + 26)
+        //    .attr("dy", ".35em")
+        //    .text(function(d) { return d; });
 
         d3.select("input").on("click", change);
 
@@ -734,7 +543,8 @@ function zoomableScatterPlotForRatingsBySocialMedia(){
 function scatterMatrixForCorrelation(){
     var width = 960,
         size = 230,
-        padding = 40;
+        padding = 40,
+        formatSi = (d3.format(".0s"));
 
     var x = d3.scale.linear()
         .range([padding / 2, size - padding / 2]);
@@ -745,12 +555,15 @@ function scatterMatrixForCorrelation(){
     var xAxis = d3.svg.axis()
         .scale(x)
         .orient("bottom")
-        .ticks(6);
+        .ticks(6)
+        .tickFormat(formatSi);
+
 
     var yAxis = d3.svg.axis()
         .scale(y)
         .orient("left")
-        .ticks(6);
+        .ticks(6)
+        .tickFormat(formatSi);
 
     var color = d3.scale.category10();
     var xCat = "duration",
@@ -844,7 +657,7 @@ function scatterMatrixForCorrelation(){
                 .attr("cy", function(d) { return y(d[p.y]); })
                 .attr("r", 4)
                 //.style("fill", function(d) { return color(d.movie_title); })
-                .style("fill", "steelblue")
+                .style("fill", "green")
                 .on("mouseover", tip.show)
                 .on("mouseout", tip.hide);
         }
@@ -882,3 +695,499 @@ function scatterMatrixForCorrelation(){
         return c;
     }
 }
+
+
+function selectedMovieSocialMediaLikesDonut(movieTitle){
+
+    $('#morris-donut-chart').empty();
+    //d3.select("input[value=\"total\"]").property("checked", true);
+    d3.csv("SocialMediaLikes.csv", function (error, data) {
+        data.forEach(function (d) {
+            var movie = d.movie_title;
+            if ((movie).match(movieTitle)) {
+
+                directorLikes = +d["director_facebook_likes"];
+                actor1Likes = +d["actor_1_facebook_likes"];
+                actor2Likes = +d["actor_2_facebook_likes"];
+                actor3Likes = +d["actor_3_facebook_likes"];
+
+                var stateObject = [{"label": "Director", "value": directorLikes},
+                    {"label": "Actor1", "value": actor1Likes},
+                    {"label": "Actor2", "value": actor2Likes},
+                    {"label": "Actor3", "value": actor3Likes}];
+
+                var height = 500;
+                var svg = d3.select("#morris-donut-chart")
+                    .append("svg")
+                    .attr("height", height)
+                    .append("g")
+
+
+                svg.append("g")
+                    .attr("class", "slices");
+                svg.append("g")
+                    .attr("class", "labelName");
+                svg.append("g")
+                    .attr("class", "labelValue");
+                svg.append("g")
+                    .attr("class", "lines");
+
+                var width = 400,
+                    height = 400,
+                    radius = 300 / 2,
+                    donutWidth = 80;
+
+                var pie = d3.layout.pie()
+                    .sort(null)
+                    .value(function (d) {
+                        return d.value;
+                    });
+
+                var arc = d3.svg.arc()
+                    //.outerRadius(radius * 0.8)
+                    //.innerRadius(radius * 0.4);
+                    .outerRadius(radius)
+                    .innerRadius(radius - donutWidth);
+
+                var outerArc = d3.svg.arc()
+                    .innerRadius(radius * 0.9)
+                    .outerRadius(radius * 0.9);
+
+                var legendRectSize = (radius * 0.05);
+                var legendSpacing = radius * 0.02;
+
+
+                var div = d3.select("#morris-donut-chart").append("div").attr("class", "toolTip");
+
+                svg.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+                var colorRange = d3.scale.category20();
+                var color = d3.scale.ordinal()
+                    .range(colorRange.range());
+
+
+                change(stateObject);
+
+
+                //d3.selectAll("input")
+                //    .on("change", selectDataset);
+                //
+                //function selectDataset() {
+                //    var value = this.value;
+                //    if (value == "total") {
+                //        change(stateObject);
+                //    }
+                //    else if (value == "option1") {
+                //        change(stateObject);
+                //    }
+                //    else if (value == "option2") {
+                //        change(stateObject);
+                //    }
+                //}
+
+                function change(data) {
+
+                    /* ------- PIE SLICES -------*/
+                    var slice = svg.select(".slices").selectAll("path.slice")
+                        .data(pie(stateObject), function (d) {
+                            return d.data.label
+                        });
+
+                    slice.enter()
+                        .insert("path")
+                        .style("fill", function (d) {
+                            return color(d.data.label);
+                        })
+                        .attr("class", "slice");
+
+                    slice
+                        .transition().duration(1000)
+                        .attrTween("d", function (d) {
+                            this._current = this._current || d;
+                            var interpolate = d3.interpolate(this._current, d);
+                            this._current = interpolate(0);
+                            return function (t) {
+                                return arc(interpolate(t));
+                            };
+                        })
+                    slice
+                        .on("mousemove", function (d) {
+                            div.style("left", d3.event.pageX + 10 + "px");
+                            div.style("top", d3.event.pageY - 25 + "px");
+                            div.style("display", "inline-block");
+                            div.html((d.data.label) + "<br>" + (d.data.value) + "%");
+                        });
+                    slice
+                        .on("mouseout", function (d) {
+                            div.style("display", "none");
+                        });
+
+                    slice.exit()
+                        .remove();
+
+                    var legend = svg.selectAll('.legend')
+                        .data(color.domain())
+                        .enter()
+                        .append('g')
+                        .attr('class', 'legend')
+                        .attr('transform', function (d, i) {
+                            var height = legendRectSize + legendSpacing;
+                            var offset = height * color.domain().length / 2;
+                            var horz = -3 * legendRectSize;
+                            var vert = i * height - offset;
+                            return 'translate(' + horz + ',' + vert + ')';
+                        });
+
+                    legend.append('rect')
+                        .attr('width', legendRectSize)
+                        .attr('height', legendRectSize)
+                        .style('fill', color)
+                        .style('stroke', color);
+
+                    legend.append('text')
+                        .attr('x', legendRectSize + legendSpacing)
+                        .attr('y', legendRectSize - legendSpacing)
+                        .text(function (d) {
+                            return d;
+                        });
+
+                    /* ------- TEXT LABELS -------*/
+
+                    var text = svg.select(".labelName").selectAll("text")
+                        .data(pie(stateObject), function (d) {
+                            return d.data.label
+                        });
+
+                    text.enter()
+                        .append("text")
+                        .attr("dy", ".35em")
+                        .text(function (d) {
+                            return (d.data.label + ": " + d.value + "%");
+                        });
+
+                    function midAngle(d) {
+                        return d.startAngle + (d.endAngle - d.startAngle) / 2;
+                    }
+
+                    text
+                        .transition().duration(1000)
+                        .attrTween("transform", function (d) {
+                            this._current = this._current || d;
+                            var interpolate = d3.interpolate(this._current, d);
+                            this._current = interpolate(0);
+                            return function (t) {
+                                var d2 = interpolate(t);
+                                var pos = outerArc.centroid(d2);
+                                pos[0] = radius * (midAngle(d2) < Math.PI ? 1 : -1);
+                                return "translate(" + pos + ")";
+                            };
+                        })
+                        .styleTween("text-anchor", function (d) {
+                            this._current = this._current || d;
+                            var interpolate = d3.interpolate(this._current, d);
+                            this._current = interpolate(0);
+                            return function (t) {
+                                var d2 = interpolate(t);
+                                return midAngle(d2) < Math.PI ? "start" : "end";
+                            };
+                        })
+                        .text(function (d) {
+                            return (d.data.label + ": " + d.value );
+                        });
+
+
+                    text.exit()
+                        .remove();
+
+                    /* ------- SLICE TO TEXT POLYLINES -------*/
+
+                    var polyline = svg.select(".lines").selectAll("polyline")
+                        .data(pie(stateObject), function (d) {
+                            return d.data.label
+                        });
+
+                    polyline.enter()
+                        .append("polyline");
+
+                    polyline.transition().duration(1000)
+                        .attrTween("points", function (d) {
+                            this._current = this._current || d;
+                            var interpolate = d3.interpolate(this._current, d);
+                            this._current = interpolate(0);
+                            return function (t) {
+                                var d2 = interpolate(t);
+                                var pos = outerArc.centroid(d2);
+                                pos[0] = radius * 0.95 * (midAngle(d2) < Math.PI ? 1 : -1);
+                                return [arc.centroid(d2), outerArc.centroid(d2), pos];
+                            };
+                        });
+
+                    polyline.exit()
+                        .remove();
+                };
+            }
+        });
+    });
+}
+
+
+
+function selectedMovieReviewsDonut(movieTitle){
+
+    $('#morris-donut-chart1').empty();
+
+    //d3.select("input[value=\"total\"]").property("checked", true);
+    d3.csv("Reviews.csv", function (error, data) {
+        data.forEach(function (d) {
+            if (d.movie_title == movieTitle) {
+
+                criticReviews = +d["num_critic_for_reviews"];
+                userReviews = +d["num_user_for_reviews"];
+
+
+                var stateObject = [{"label": "Critics", "value": criticReviews},
+                    {"label": "Users", "value": userReviews}];
+
+                var height = 500;
+                var svg = d3.select("#morris-donut-chart1")
+                    .append("svg")
+                    .attr("height", height)
+                    .append("g")
+
+
+                svg.append("g")
+                    .attr("class", "slices");
+                svg.append("g")
+                    .attr("class", "labelName");
+                svg.append("g")
+                    .attr("class", "labelValue");
+                svg.append("g")
+                    .attr("class", "lines");
+
+                var width = 400,
+                    height = 400,
+                    radius = 300 / 2,
+                    donutWidth = 80;
+
+                var pie = d3.layout.pie()
+                    .sort(null)
+                    .value(function (d) {
+                        return d.value;
+                    });
+
+                var arc = d3.svg.arc()
+                    //.outerRadius(radius * 0.8)
+                    //.innerRadius(radius * 0.4);
+                    .outerRadius(radius)
+                    .innerRadius(radius - donutWidth);
+
+                var outerArc = d3.svg.arc()
+                    .innerRadius(radius * 0.9)
+                    .outerRadius(radius * 0.9);
+
+                var legendRectSize = (radius * 0.05);
+                var legendSpacing = radius * 0.02;
+
+
+                var div = d3.select("#morris-donut-chart1").append("div").attr("class", "toolTip");
+
+                svg.attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+                var colorRange = d3.scale.category20();
+                var color = d3.scale.ordinal()
+                    .range(colorRange.range());
+
+
+                change(stateObject);
+
+
+                //d3.selectAll("input")
+                //    .on("change", selectDataset);
+                //
+                //function selectDataset() {
+                //    var value = this.value;
+                //    if (value == "total") {
+                //        change(stateObject);
+                //    }
+                //    else if (value == "option1") {
+                //        change(stateObject);
+                //    }
+                //    else if (value == "option2") {
+                //        change(stateObject);
+                //    }
+                //}
+
+                function change(data) {
+
+                    /* ------- PIE SLICES -------*/
+                    var slice = svg.select(".slices").selectAll("path.slice")
+                        .data(pie(stateObject), function (d) {
+                            return d.data.label
+                        });
+
+                    slice.enter()
+                        .insert("path")
+                        .style("fill", function (d) {
+                            return color(d.data.label);
+                        })
+                        .attr("class", "slice");
+
+                    slice
+                        .transition().duration(1000)
+                        .attrTween("d", function (d) {
+                            this._current = this._current || d;
+                            var interpolate = d3.interpolate(this._current, d);
+                            this._current = interpolate(0);
+                            return function (t) {
+                                return arc(interpolate(t));
+                            };
+                        })
+                    slice
+                        .on("mousemove", function (d) {
+                            div.style("left", d3.event.pageX + 10 + "px");
+                            div.style("top", d3.event.pageY - 25 + "px");
+                            div.style("display", "inline-block");
+                            div.html((d.data.label) + "<br>" + (d.data.value) + "%");
+                        });
+                    slice
+                        .on("mouseout", function (d) {
+                            div.style("display", "none");
+                        });
+
+                    slice.exit()
+                        .remove();
+
+                    var legend = svg.selectAll('.legend')
+                        .data(color.domain())
+                        .enter()
+                        .append('g')
+                        .attr('class', 'legend')
+                        .attr('transform', function (d, i) {
+                            var height = legendRectSize + legendSpacing;
+                            var offset = height * color.domain().length / 2;
+                            var horz = -3 * legendRectSize;
+                            var vert = i * height - offset;
+                            return 'translate(' + horz + ',' + vert + ')';
+                        });
+
+                    legend.append('rect')
+                        .attr('width', legendRectSize)
+                        .attr('height', legendRectSize)
+                        .style('fill', color)
+                        .style('stroke', color);
+
+                    legend.append('text')
+                        .attr('x', legendRectSize + legendSpacing)
+                        .attr('y', legendRectSize - legendSpacing)
+                        .text(function (d) {
+                            return d;
+                        });
+
+                    /* ------- TEXT LABELS -------*/
+
+                    var text = svg.select(".labelName").selectAll("text")
+                        .data(pie(stateObject), function (d) {
+                            return d.data.label
+                        });
+
+                    text.enter()
+                        .append("text")
+                        .attr("dy", ".35em")
+                        .text(function (d) {
+                            return (d.data.label + ": " + d.value + "%");
+                        });
+
+                    function midAngle(d) {
+                        return d.startAngle + (d.endAngle - d.startAngle) / 2;
+                    }
+
+                    text
+                        .transition().duration(1000)
+                        .attrTween("transform", function (d) {
+                            this._current = this._current || d;
+                            var interpolate = d3.interpolate(this._current, d);
+                            this._current = interpolate(0);
+                            return function (t) {
+                                var d2 = interpolate(t);
+                                var pos = outerArc.centroid(d2);
+                                pos[0] = radius * (midAngle(d2) < Math.PI ? 1 : -1);
+                                return "translate(" + pos + ")";
+                            };
+                        })
+                        .styleTween("text-anchor", function (d) {
+                            this._current = this._current || d;
+                            var interpolate = d3.interpolate(this._current, d);
+                            this._current = interpolate(0);
+                            return function (t) {
+                                var d2 = interpolate(t);
+                                return midAngle(d2) < Math.PI ? "start" : "end";
+                            };
+                        })
+                        .text(function (d) {
+                            return (d.data.label + ": " + d.value );
+                        });
+
+
+                    text.exit()
+                        .remove();
+
+                    /* ------- SLICE TO TEXT POLYLINES -------*/
+
+                    var polyline = svg.select(".lines").selectAll("polyline")
+                        .data(pie(stateObject), function (d) {
+                            return d.data.label
+                        });
+
+                    polyline.enter()
+                        .append("polyline");
+
+                    polyline.transition().duration(1000)
+                        .attrTween("points", function (d) {
+                            this._current = this._current || d;
+                            var interpolate = d3.interpolate(this._current, d);
+                            this._current = interpolate(0);
+                            return function (t) {
+                                var d2 = interpolate(t);
+                                var pos = outerArc.centroid(d2);
+                                pos[0] = radius * 0.95 * (midAngle(d2) < Math.PI ? 1 : -1);
+                                return [arc.centroid(d2), outerArc.centroid(d2), pos];
+                            };
+                        });
+
+                    polyline.exit()
+                        .remove();
+                };
+            }
+        });
+    });
+}
+
+function countyDropdownload() {
+
+    var dataset = []
+    d3.csv("Movies.csv", function (data) {
+        dataset = data.map(function (d) {
+            return d["movie_title"]
+        });
+        //console.log(dataset)
+        $.each(dataset, function (i, option) {
+            $('#movieSelectionWidget').append($('<option></option>').val(option).html(option));
+            $('#movieSelectionWidget1').append($('<option></option>').val(option).html(option));
+        });
+    });
+}
+
+function onDropdownSelect(){
+    var movieTitle = $("#movieSelectionWidget option:selected").text();
+    //var state2 = $("#stateSelectionWidget2 option:selected").text();
+
+    selectedMovieSocialMediaLikesDonut(movieTitle);
+}
+
+function onDropdownSelect1(){
+    var movieTitle = $("#movieSelectionWidget1 option:selected").text();
+    //var state2 = $("#stateSelectionWidget2 option:selected").text();
+
+    selectedMovieReviewsDonut(movieTitle);
+}
+
