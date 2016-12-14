@@ -1,0 +1,5044 @@
+movie_title,num_critic_for_reviews,num_user_for_reviews
+Avatar,723,3054
+Pirates of the Caribbean: At Worlds End,302,1238
+Spectre,602,994
+The Dark Knight Rises,813,2701
+Star Wars: Episode VII - The Force Awakens        ,,
+John Carter,462,738
+Spider-Man 3Ê,392,1902
+Tangled,324,387
+Avengers: Age of UltronÊ,635,1117
+Harry Potter and the Half-Blood Prince,375,973
+Batman v Superman: Dawn of JusticeÊ,673,3018
+Superman Returns,434,2367
+Quantum of SolaceÊ,403,1243
+Pirates of the Caribbean: Dead Man's ChestÊ,313,1832
+The Lone Ranger,450,711
+Man of SteelÊ,733,2536
+The Chronicles of Narnia: Prince CaspianåÊ,258,438
+The AvengersåÊ,703,1722
+Pirates of the Caribbean: On Stranger TidesåÊ,448,484
+Men in Black 3åÊ,451,341
+The Hobbit: The Battle of the Five ArmiesåÊ,422,802
+The Amazing Spider-ManåÊ,599,1225
+Robin HoodåÊ,343,546
+The Hobbit: The Desolation of SmaugåÊ,509,951
+The Golden CompassåÊ,251,666
+King KongåÊ,446,2618
+TitanicåÊ,315,2528
+Captain America: Civil WaråÊ,516,1022
+BattleshipåÊ,377,751
+Jurassic WorldåÊ,644,1290
+SkyfallåÊ,750,1498
+Spider-Man 2åÊ,300,1303
+Iron Man 3åÊ,608,1187
+Alice in WonderlandåÊ,451,736
+X-Men: The Last StandåÊ,334,1912
+Monsters UniversityåÊ,376,265
+Transformers: Revenge of the FallenåÊ,366,1439
+Transformers: Age of ExtinctionåÊ,378,918
+Oz the Great and PowerfulåÊ,525,511
+The Amazing Spider-Man 2åÊ,495,1067
+TRON: LegacyåÊ,469,665
+Cars 2åÊ,304,283
+Green LanternåÊ,436,550
+Toy Story 3åÊ,453,733
+Terminator SalvationåÊ,422,974
+Furious 7åÊ,424,657
+World War ZåÊ,654,995
+X-Men: Days of Future PaståÊ,539,752
+Star Trek Into DarknessåÊ,590,1171
+Jack the Giant SlayeråÊ,338,205
+The Great GatsbyåÊ,490,753
+Prince of Persia: The Sands of TimeåÊ,306,453
+Pacific RimåÊ,575,1106
+Transformers: Dark of the MoonåÊ,428,899
+Indiana Jones and the Kingdom of the Crystal SkullåÊ,470,2054
+The Good DinosauråÊ,298,345
+BraveåÊ,488,428
+Star Trek BeyondåÊ,322,432
+WALLåáEåÊ,421,1043
+Rush Hour 3åÊ,162,221
+2012åÊ,367,1055
+A Christmas CarolåÊ,240,249
+Jupiter AscendingåÊ,384,720
+The Legend of TarzanåÊ,248,239
+"The Chronicles of Narnia: The Lion, the Witch and the WardrobeåÊ",284,1463
+X-Men: ApocalypseåÊ,396,622
+The Dark KnightåÊ,645,4667
+UpåÊ,408,704
+Monsters vs. AliensåÊ,219,187
+Iron ManåÊ,486,1055
+HugoåÊ,682,678
+Wild Wild WeståÊ,85,648
+The Mummy: Tomb of the Dragon EmperoråÊ,264,501
+Suicide SquadåÊ,418,971
+Evan AlmightyåÊ,186,257
+Edge of TomorrowåÊ,585,741
+WaterworldåÊ,91,309
+G.I. Joe: The Rise of CobraåÊ,250,534
+Inside OutåÊ,536,773
+The Jungle BookåÊ,370,398
+Iron Man 2åÊ,453,723
+Snow White and the HuntsmanåÊ,416,710
+MaleficentåÊ,401,634
+Dawn of the Planet of the ApesåÊ,521,620
+The LoversåÊ,10,15
+47 RoninåÊ,218,324
+Captain America: The Winter SoldieråÊ,576,742
+Shrek Forever AfteråÊ,226,173
+TomorrowlandåÊ,443,497
+Big Hero 6åÊ,384,433
+Wreck-It RalphåÊ,377,345
+The Polar ExpressåÊ,188,444
+Independence Day: ResurgenceåÊ,286,520
+How to Train Your DragonåÊ,288,492
+Terminator 3: Rise of the MachinesåÊ,280,1676
+Guardians of the GalaxyåÊ,653,1097
+InterstellaråÊ,712,2725
+InceptionåÊ,642,2803
+Godzilla ResurgenceåÊ,1,13
+The Hobbit: An Unexpected JourneyåÊ,645,1367
+The Fast and the FuriousåÊ,187,988
+The Curious Case of Benjamin ButtonåÊ,362,822
+X-Men: First ClassåÊ,500,698
+The Hunger Games: Mockingjay - Part 2åÊ,389,383
+The Sorcerer's ApprenticeåÊ,235,238
+PoseidonåÊ,231,629
+Alice Through the Looking GlassåÊ,218,131
+Shrek the ThirdåÊ,227,326
+WarcraftåÊ,275,781
+Terminator GenisysåÊ,474,867
+The Chronicles of Narnia: The Voyage of the Dawn TreaderåÊ,228,227
+Pearl HarboråÊ,191,1999
+TransformersåÊ,396,1782
+AlexanderåÊ,248,1390
+Harry Potter and the Order of the PhoenixåÊ,329,1108
+Harry Potter and the Goblet of FireåÊ,295,1896
+HancockåÊ,318,590
+I Am LegendåÊ,323,1413
+Charlie and the Chocolate FactoryåÊ,276,1361
+RatatouilleåÊ,318,626
+Batman BeginsåÊ,478,2685
+Madagascar: Escape 2 AfricaåÊ,167,119
+Night at the Museum: Battle of the SmithsonianåÊ,185,209
+X-Men Origins: WolverineåÊ,350,641
+The Matrix RevolutionsåÊ,245,2121
+FrozenåÊ,406,904
+The Matrix ReloadedåÊ,275,2789
+Thor: The Dark WorldåÊ,486,532
+Mad Max: Fury RoadåÊ,739,1588
+Angels & DemonsåÊ,298,435
+ThoråÊ,516,738
+BoltåÊ,225,178
+G-ForceåÊ,145,90
+Wrath of the TitansåÊ,310,253
+Dark ShadowsåÊ,526,479
+Mission: Impossible - Rogue NationåÊ,465,440
+The WolfmanåÊ,357,432
+The Legend of TarzanåÊ,248,239
+Bee MovieåÊ,194,206
+Kung Fu Panda 2åÊ,284,209
+The Last AirbenderåÊ,280,1382
+Mission: Impossible IIIåÊ,310,871
+White House DownåÊ,339,434
+Mars Needs MomsåÊ,132,112
+Flushed AwayåÊ,135,122
+PanåÊ,256,186
+Mr. Peabody & ShermanåÊ,196,130
+TroyåÊ,220,1694
+Madagascar 3: Europe's Most WantedåÊ,211,154
+Die Another DayåÊ,264,1185
+GhostbustersåÊ,464,1211
+ArmageddonåÊ,167,1171
+Men in Black IIåÊ,208,606
+BeowulfåÊ,287,505
+Kung Fu Panda 3åÊ,210,145
+Mission: Impossible - Ghost ProtocolåÊ,432,512
+Rise of the GuardiansåÊ,256,174
+Fun with Dick and JaneåÊ,135,258
+The Last SamuraiåÊ,190,928
+Exodus: Gods and KingsåÊ,314,657
+Star TrekåÊ,518,1559
+Spider-ManåÊ,291,2012
+How to Train Your Dragon 2åÊ,292,343
+Gods of EgyptåÊ,184,273
+StealthåÊ,145,388
+WatchmenåÊ,451,1229
+Lethal Weapon 4åÊ,141,287
+HulkåÊ,267,1445
+G.I. Joe: RetaliationåÊ,351,288
+SaharaåÊ,163,463
+Final Fantasy: The Spirits WithinåÊ,166,788
+Captain America: The First AvengeråÊ,510,679
+The World Is Not EnoughåÊ,197,683
+Master and Commander: The Far Side of the WorldåÊ,244,684
+The Twilight Saga: Breaking Dawn - Part 2åÊ,322,329
+Happy Feet 2åÊ,156,79
+The Incredible HulkåÊ,354,643
+Miami ViceåÊ            ,21,74
+The BFGåÊ,252,106
+The RevenantåÊ,556,1188
+TurboåÊ,166,90
+RangoåÊ,362,337
+Penguins of MadagascaråÊ,153,118
+The Bourne UltimatumåÊ,329,820
+Kung Fu PandaåÊ,266,360
+Ant-ManåÊ,517,549
+The Hunger Games: Catching FireåÊ,502,706
+The Twilight Saga: Breaking Dawn - Part 2åÊ,322,329
+HomeåÊ,165,214
+War of the WorldsåÊ,401,2741
+Bad Boys IIåÊ,94,511
+Puss in BootsåÊ,246,137
+SaltåÊ,330,514
+NoahåÊ,434,1240
+The Adventures of TintinåÊ,440,447
+Harry Potter and the Prisoner of AzkabanåÊ,274,1504
+AustraliaåÊ,245,450
+After EarthåÊ,349,744
+DinosauråÊ,145,241
+Harry Potter and the Deathly Hallows: Part IIåÊ,1,2
+Night at the Museum: Secret of the TombåÊ,154,126
+MegamindåÊ,233,187
+Harry Potter and the Sorcerer's StoneåÊ,258,1571
+R.I.P.D.åÊ,208,210
+Godzilla ResurgenceåÊ,1,13
+Pirates of the Caribbean: The Curse of the Black PearlåÊ,271,2113
+Harry Potter and the Deathly Hallows: Part IåÊ,4,2
+The Hunger Games: Mockingjay - Part 1åÊ,403,591
+The Da Vinci CodeåÊ,294,1966
+Rio 2åÊ,159,99
+X-Men 2åÊ,289,1055
+Fast FiveåÊ,342,366
+Sherlock Holmes: A Game of ShadowsåÊ,382,412
+Clash of the TitansåÊ,344,637
+Total RecallåÊ,196,391
+The 13th WarrioråÊ,85,546
+The Bourne LegacyåÊ,436,504
+Batman & RobinåÊ,183,1018
+How the Grinch Stole ChristmasåÊ,175,482
+The Day After TomorrowåÊ,239,1159
+Mission: Impossible IIåÊ,237,1426
+The Perfect StormåÊ,231,779
+Fantastic 4: Rise of the Silver SurferåÊ,262,436
+Life of PiåÊ,552,755
+Ghost RideråÊ,276,681
+Jason BourneåÊ,267,297
+Charlie's Angels: Full ThrottleåÊ,102,554
+PrometheusåÊ,775,2326
+Stuart Little 2åÊ,71,69
+ElysiumåÊ,476,814
+The Chronicles of RiddickåÊ,207,666
+RoboCopåÊ,492,630
+Speed RaceråÊ,284,414
+How Do You KnowåÊ,168,196
+Knight and DayåÊ,283,348
+OblivionåÊ,539,892
+Star Wars: Episode III - Revenge of the SithåÊ,359,3286
+Star Wars: Episode II - Attack of the ClonesåÊ,284,3516
+"Monsters, Inc.åÊ",250,593
+The WolverineåÊ,440,533
+Star Wars: Episode I - The Phantom MenaceåÊ,320,3597
+The CroodsåÊ,257,195
+Asterix at the Olympic GamesåÊ,33,36
+WindtalkersåÊ,152,454
+The Huntsman: Winter's WaråÊ,231,134
+Teenage Mutant Ninja TurtlesåÊ,348,491
+GravityåÊ,738,1885
+Dante's PeakåÊ,93,277
+Teenage Mutant Ninja Turtles: Out of the ShadowsåÊ,181,115
+Fantastic FouråÊ,369,695
+Night at the MuseumåÊ,179,444
+San AndreasåÊ,358,499
+Tomorrow Never DiesåÊ,160,328
+The PatriotåÊ,192,1144
+Ocean's TwelveåÊ,198,627
+Mr. & Mrs. SmithåÊ,233,798
+InsurgentåÊ,263,258
+The AviatoråÊ,267,799
+Gulliver's TravelsåÊ,184,121
+The Green HornetåÊ,447,443
+The A-TeamåÊ            ,29,97
+300: Rise of an EmpireåÊ,366,523
+The SmurfsåÊ,172,153
+Home on the RangeåÊ,104,88
+AllegiantåÊ,181,144
+Real SteelåÊ,327,426
+The Smurfs 2åÊ,125,59
+Speed 2: Cruise ControlåÊ,79,248
+Ender's GameåÊ,326,554
+Live Free or Die HardåÊ,354,782
+The Lord of the Rings: The Fellowship of the RingåÊ,297,5060
+Around the World in 80 DaysåÊ,188,191
+AliåÊ,174,386
+The Cat in the HatåÊ,109,456
+"I, RobotåÊ",225,789
+Kingdom of HeavenåÊ,239,942
+Stuart LittleåÊ,101,179
+The Princess and the FrogåÊ,228,214
+The MartianåÊ,568,1023
+"10,000 B.C.åÊ            ",,
+The IslandåÊ,257,899
+Town & CountryåÊ,62,89
+Gone in Sixty SecondsåÊ,175,498
+GladiatoråÊ,265,2368
+Minority ReportåÊ,252,1331
+Harry Potter and the Chamber of SecretsåÊ,232,858
+Casino RoyaleåÊ,400,2301
+Planet of the ApesåÊ,230,1368
+Terminator 2: Judgment DayåÊ,210,983
+Public EnemiesåÊ,357,585
+American GangsteråÊ,300,458
+True LiesåÊ,94,351
+The Taking of Pelham 1 2 3åÊ,267,285
+Little FockersåÊ,180,152
+The Other GuysåÊ,265,316
+EraseråÊ,81,131
+Django UnchainedåÊ,765,1193
+The Hunchback of Notre DameåÊ,80,230
+The Emperor's New GrooveåÊ,141,297
+The Expendables 2åÊ,383,474
+National TreasureåÊ,193,692
+EragonåÊ,170,1690
+Where the Wild Things AreåÊ,333,388
+PanåÊ,256,186
+EpicåÊ,203,113
+The TouriståÊ,321,374
+End of DaysåÊ,174,524
+Blood DiamondåÊ,166,657
+The Wolf of Wall StreetåÊ,606,1138
+Batman ForeveråÊ,144,539
+Starship TroopersåÊ,192,1049
+Cloud AtlasåÊ,511,828
+Legend of the Guardians: The Owls of Ga'HooleåÊ,188,160
+CatwomanåÊ,212,660
+HerculesåÊ,245,269
+Treasure PlanetåÊ,127,217
+Land of the LoståÊ,167,224
+The Expendables 3åÊ,320,351
+Point BreakåÊ,163,163
+Son of the MaskåÊ,78,239
+In the Heart of the SeaåÊ,289,161
+The Adventures of Pluto NashåÊ,66,164
+Green ZoneåÊ,266,261
+The Peanuts MovieåÊ,208,155
+The Spanish PrisoneråÊ,97,263
+The Mummy ReturnsåÊ,202,890
+Gangs of New YorkåÊ,233,1166
+The Flowers of WaråÊ,136,130
+Surf's UpåÊ,154,112
+The Stepford WivesåÊ,169,407
+Black Hawk DownåÊ,200,1103
+The CampaignåÊ,255,177
+The Fifth ElementåÊ,173,742
+Sex and the City 2åÊ,221,293
+The Road to El DoradoåÊ,82,139
+Ice Age: Continental DriftåÊ,233,139
+CinderellaåÊ,343,322
+The Lovely BonesåÊ,308,593
+Finding NemoåÊ,301,866
+The Lord of the Rings: The Return of the KingåÊ,328,3189
+The Lord of the Rings: The Two TowersåÊ,294,2417
+Seventh SonåÊ,175,154
+Lara Croft: Tomb RaideråÊ,199,824
+TranscendenceåÊ,355,462
+Jurassic Park IIIåÊ,198,1236
+Rise of the Planet of the ApesåÊ,529,646
+The Spiderwick ChroniclesåÊ,198,125
+A Good Day to Die HardåÊ,412,503
+The AlamoåÊ,106,267
+The IncrediblesåÊ,283,815
+Cutthroat IslandåÊ,61,169
+Percy Jackson & the Olympians: The Lightning ThiefåÊ,217,419
+Men in BlackåÊ,175,289
+Toy Story 2åÊ,191,515
+UnstoppableåÊ,316,326
+Rush Hour 2åÊ,127,394
+What Lies BeneathåÊ,185,683
+Cloudy with a Chance of MeatballsåÊ,191,156
+Ice Age: Dawn of the DinosaursåÊ,188,132
+The Secret Life of Walter MittyåÊ,362,515
+Charlie's AngelsåÊ,181,643
+The DepartedåÊ,352,2054
+MulanåÊ,143,222
+Tropic ThunderåÊ,308,577
+The Girl with the Dragon TattooåÊ,517,632
+Die Hard with a VengeanceåÊ,148,346
+Sherlock HolmesåÊ,415,621
+Ben-HuråÊ,1,1
+Atlantis: The Lost EmpireåÊ,146,289
+Alvin and the Chipmunks: The Road ChipåÊ,70,53
+ValkyrieåÊ,269,440
+You Don't Mess with the ZohanåÊ,198,380
+PixelsåÊ,253,342
+A.I. Artificial IntelligenceåÊ,281,2153
+The Haunted MansionåÊ,122,179
+ContactåÊ,159,611
+Hollow ManåÊ,180,628
+The InterpreteråÊ,227,411
+Percy Jackson: Sea of MonstersåÊ,183,204
+Lara Croft Tomb Raider: The Cradle of LifeåÊ,157,316
+Now You See Me 2åÊ,196,139
+The SaintåÊ,64,184
+Spy GameåÊ,142,361
+Mission to MarsåÊ,181,949
+RioåÊ,240,186
+Bicentennial ManåÊ,93,362
+VolcanoåÊ,84,181
+The Devil's OwnåÊ,66,114
+K-19: The WidowmakeråÊ,136,278
+Fantastic FouråÊ,369,695
+Conan the BarbarianåÊ,166,337
+Cinderella ManåÊ,201,529
+The Nutcracker in 3DåÊ,47,24
+SeabiscuitåÊ,175,455
+TwisteråÊ,114,395
+The Fast and the FuriousåÊ,187,988
+Cast AwayåÊ,221,1051
+Happy FeetåÊ,206,548
+The Bourne SupremacyåÊ,239,806
+Air Force OneåÊ,142,393
+Ocean's ElevenåÊ,186,845
+The Three MusketeersåÊ,228,254
+Hotel TransylvaniaåÊ,256,168
+EnchantedåÊ,222,399
+HannibalåÊ            ,103,270
+Safe HouseåÊ,298,276
+102 DalmatiansåÊ,84,77
+Tower HeiståÊ,236,194
+The HolidayåÊ,157,483
+Enemy of the StateåÊ,81,415
+It's ComplicatedåÊ,187,214
+Ocean's ThirteenåÊ,238,288
+Open SeasonåÊ,107,100
+DivergentåÊ,459,713
+Enemy at the GatesåÊ,187,662
+The RundownåÊ,151,255
+Last Action HeroåÊ,80,257
+Memoirs of a GeishaåÊ,229,548
+The Fast and the Furious: Tokyo DriftåÊ,158,378
+Arthur ChristmasåÊ,190,78
+Meet Joe BlackåÊ,98,703
+Collateral DamageåÊ,135,339
+All That JazzåÊ,84,146
+Mirror MirroråÊ,382,208
+Scott Pilgrim vs. the WorldåÊ,393,522
+The CoreåÊ,149,466
+Nutty Professor II: The KlumpsåÊ,94,171
+Scooby-DooåÊ,138,521
+DreddåÊ,432,588
+ClickåÊ,173,685
+CreepshowåÊ,127,211
+Cats & Dogs: The Revenge of Kitty GaloreåÊ,91,63
+JumperåÊ,238,488
+Hellboy II: The Golden ArmyåÊ,345,342
+ZodiacåÊ,377,589
+The 6th DayåÊ,170,289
+Bruce AlmightyåÊ,191,604
+The ExpendablesåÊ,424,741
+Mission: ImpossibleåÊ,154,378
+The Hunger GamesåÊ,673,1959
+The Hangover Part IIåÊ,383,402
+Batman ReturnsåÊ,153,610
+Over the HedgeåÊ,166,250
+Lilo & StitchåÊ,180,367
+Charlotte's WebåÊ,120,102
+Deep ImpactåÊ,125,493
+RED 2åÊ,234,205
+The Longest YardåÊ,134,316
+Alvin and the Chipmunks: ChipwreckedåÊ,91,56
+Grown Ups 2åÊ,139,255
+Get SmartåÊ,265,380
+Something's Gotta GiveåÊ,145,402
+Shutter IslandåÊ,490,964
+Four ChristmasesåÊ,141,124
+RobotsåÊ,163,269
+Face/OffåÊ,155,535
+Bedtime StoriesåÊ,144,116
+Road to PerditionåÊ,226,1009
+Just Go with ItåÊ,204,203
+DaredevilåÊ            ,95,394
+Con AiråÊ,139,339
+Eagle EyeåÊ,215,318
+Cold MountainåÊ,198,674
+The Book of EliåÊ,325,560
+FlubberåÊ,53,64
+The HauntingåÊ,167,805
+Space JamåÊ,46,123
+The Pink PantheråÊ,147,424
+The Day the Earth Stood StillåÊ,276,698
+Conspiracy TheoryåÊ,80,162
+FuryåÊ,406,701
+Six Days Seven NightsåÊ,97,164
+Yogi BearåÊ,143,100
+Spirit: Stallion of the CimarronåÊ,106,216
+ZookeeperåÊ,178,127
+Lost in SpaceåÊ,102,370
+The Manchurian CandidateåÊ,209,363
+DÌ©jÌÊ VuåÊ,19,40
+Hotel Transylvania 2åÊ,152,97
+BewitchedåÊ            ,31,71
+Fantasia 2000åÊ,129,186
+The Time MachineåÊ,124,615
+Mighty Joe YoungåÊ,35,88
+SwordfishåÊ,166,543
+The Legend of ZorroåÊ,137,244
+What Dreams May ComeåÊ,121,619
+Little NickyåÊ,87,237
+The Brothers GrimmåÊ,233,492
+Mars Attacks!åÊ,132,405
+EvolutionåÊ,63,3
+The EdgeåÊ,95,182
+SurrogatesåÊ,258,252
+Thirteen DaysåÊ,162,315
+DaylightåÊ,61,101
+Walking with Dinosaurs 3DåÊ,113,66
+Battlefield EarthåÊ,174,1308
+Looney Tunes: Back in ActionåÊ,101,160
+NineåÊ,205,232
+TimelineåÊ,123,457
+The PostmanåÊ,79,376
+Babe: Pig in the CityåÊ,61,216
+The Last Witch HunteråÊ,202,117
+Red PlanetåÊ,145,348
+Arthur and the InvisiblesåÊ,101,64
+OceansåÊ,113,42
+A Sound of ThunderåÊ,113,301
+PompeiiåÊ,272,308
+Top Cat BeginsåÊ,3,1
+A Beautiful MindåÊ,205,1171
+The Lion KingåÊ,186,656
+Journey 2: The Mysterious IslandåÊ,178,133
+Cloudy with a Chance of Meatballs 2åÊ,169,85
+Red DragonåÊ,210,764
+HidalgoåÊ,140,345
+Jack and JillåÊ,156,264
+2 Fast 2 FuriousåÊ,150,370
+The Little PrinceåÊ,119,64
+The InvasionåÊ,232,273
+The Adventures of Rocky & BullwinkleåÊ,49,197
+The Secret Life of PetsåÊ,165,155
+The League of Extraordinary GentlemenåÊ,202,786
+Despicable Me 2åÊ,306,284
+Independence DayåÊ,185,856
+The Lost World: Jurassic ParkåÊ,177,552
+MadagascaråÊ,181,385
+Children of MenåÊ,372,1206
+X-MenåÊ,290,1401
+WantedåÊ,316,713
+The RockåÊ,122,415
+Ice Age: The MeltdownåÊ,164,253
+50 First DatesåÊ,147,456
+HairsprayåÊ,219,401
+Exorcist: The BeginningåÊ,167,308
+Inspector GadgetåÊ,70,231
+Now You See MeåÊ,384,629
+Grown UpsåÊ,179,311
+The TerminalåÊ,151,596
+ConstantineåÊ            ,12,94
+Hotel for DogsåÊ,107,57
+Vertical LimitåÊ,134,379
+Charlie Wilson's WaråÊ,269,289
+Shark TaleåÊ,143,288
+DreamgirlsåÊ,241,503
+LifeåÊ            ,12,67
+Be CoolåÊ,161,323
+MunichåÊ,298,824
+Tears of the SunåÊ,89,394
+KillersåÊ,140,120
+The Man from U.N.C.L.E.åÊ,362,360
+SpanglishåÊ,124,342
+Monster HouseåÊ,190,229
+BanditsåÊ,132,261
+First KnightåÊ,53,180
+Anna and the KingåÊ,91,217
+ImmortalsåÊ,284,405
+HostageåÊ,152,288
+Titan A.E.åÊ,131,377
+Hollywood HomicideåÊ,132,254
+SoldieråÊ,67,373
+CarriersåÊ,130,119
+MonkeyboneåÊ,74,171
+Flight of the PhoenixåÊ,114,222
+UnbreakableåÊ,294,1344
+MinionsåÊ,308,275
+Sucker PunchåÊ,435,918
+Snake EyesåÊ,117,241
+SphereåÊ,108,274
+The Angry Birds MovieåÊ,141,126
+Fool's GoldåÊ,176,138
+Funny PeopleåÊ,230,301
+The KingdomåÊ,234,289
+Talladega Nights: The Ballad of Ricky BobbyåÊ,164,437
+Dr. Dolittle 2åÊ,91,79
+BraveheartåÊ,132,1065
+JarheadåÊ,262,657
+The Simpsons MovieåÊ,299,763
+The MajesticåÊ,128,376
+DrivenåÊ,109,346
+Two BrothersåÊ,88,124
+The VillageåÊ,261,2003
+Doctor DolittleåÊ,73,98
+SignsåÊ,208,2335
+Shrek 2åÊ,205,483
+CarsåÊ,256,584
+Runaway BrideåÊ,103,255
+xXxåÊ,191,737
+The SpongeBob Movie: Sponge Out of WateråÊ,147,133
+RansomåÊ,79,158
+Inglourious BasterdsåÊ,486,1527
+HookåÊ,75,363
+HerculesåÊ,245,269
+Die Hard 2åÊ,142,316
+S.W.A.T.åÊ,144,340
+Sleepy HollowåÊ            ,39,110
+Vanilla SkyåÊ,153,1248
+Lady in the WateråÊ,284,1040
+AVP: Alien vs. PredatoråÊ,247,1283
+Alvin and the Chipmunks: The SqueakquelåÊ,107,98
+We Were SoldiersåÊ,141,742
+Olympus Has FallenåÊ,358,698
+Star Trek: InsurrectionåÊ,160,515
+Battle Los AngelesåÊ,355,800
+Big FishåÊ,235,816
+WolfåÊ,59,137
+War HorseåÊ,388,488
+The Monuments MenåÊ,371,403
+The AbyssåÊ,82,380
+Wall Street: Money Never SleepsåÊ,297,245
+Dracula UntoldåÊ,261,423
+The SiegeåÊ,120,281
+StarduståÊ,228,492
+Seven Years in TibetåÊ,76,119
+The DilemmaåÊ,185,141
+Bad CompanyåÊ,128,189
+DoomåÊ,237,814
+I SpyåÊ,105,141
+Underworld: AwakeningåÊ,242,271
+Rock of AgesåÊ,360,356
+Hart's WaråÊ,112,196
+Killer EliteåÊ,189,157
+RollerballåÊ,151,289
+Ballistic: Ecks vs. SeveråÊ,92,277
+Hard RainåÊ,79,126
+Osmosis JonesåÊ,81,123
+Legends of Oz: Dorothy's ReturnåÊ,51,54
+BlackhatåÊ,261,207
+Sky Captain and the World of TomorrowåÊ,197,618
+Basic Instinct 2åÊ,159,313
+Escape PlanåÊ,286,279
+The Legend of HerculesåÊ,156,202
+The Sum of All FearsåÊ,176,568
+The Twilight Saga: EclipseåÊ,293,498
+The ScoreåÊ,141,445
+Despicable MeåÊ,304,296
+Money TrainåÊ,40,62
+Ted 2åÊ,280,229
+AgoraåÊ,180,172
+Mystery MenåÊ,125,435
+Hall PassåÊ,237,143
+The InsideråÊ,209,521
+The Finest HoursåÊ,178,113
+Body of LiesåÊ,238,263
+Dinner for SchmucksåÊ,190,264
+Abraham Lincoln: Vampire HunteråÊ,393,348
+EntrapmentåÊ,138,274
+Last Man StandingåÊ            ,4,87
+The X FilesåÊ,142,297
+The Last LegionåÊ,90,174
+Saving Private RyanåÊ,219,2277
+Need for SpeedåÊ,327,346
+What Women WantåÊ,149,395
+Ice AgeåÊ,193,467
+DreamcatcheråÊ,175,662
+LincolnåÊ,538,720
+The MatrixåÊ,313,3646
+Apollo 13åÊ,159,296
+Total RecallåÊ,196,391
+The Santa Clause 2åÊ,80,116
+Les MisÌ©rablesåÊ,488,845
+You've Got MailåÊ,153,556
+Step BrothersåÊ,173,277
+The Mask of ZorroåÊ,156,318
+Due DateåÊ,307,285
+UnbrokenåÊ,322,351
+Space CowboysåÊ,169,326
+CliffhangeråÊ,74,172
+Broken ArrowåÊ,72,189
+The KidåÊ,86,139
+World Trade CenteråÊ,242,564
+Mona Lisa SmileåÊ,141,264
+The DictatoråÊ,313,310
+Eyes Wide ShutåÊ,280,1500
+AnnieåÊ,176,213
+FocusåÊ,279,221
+This Means WaråÊ,241,238
+Blade: TrinityåÊ,185,514
+Red DawnåÊ,97,383
+Primary ColorsåÊ,117,157
+Resident Evil: RetributionåÊ,239,423
+Death RaceåÊ,230,211
+The Long Kiss GoodnightåÊ,94,285
+Proof of LifeåÊ,134,265
+Zathura: A Space AdventureåÊ,136,202
+Fight ClubåÊ,315,2968
+We Are MarshallåÊ,96,175
+The MissingåÊ            ,14,28
+Hudson HawkåÊ,60,249
+Lucky NumbersåÊ,60,69
+"I, FrankensteinåÊ",308,194
+Oliver TwiståÊ,127,138
+ElektraåÊ,196,380
+Sin City: A Dame to Kill ForåÊ,339,239
+Random HeartsåÊ,96,290
+EvereståÊ,361,265
+Perfume: The Story of a MurdereråÊ,226,482
+Austin Powers in GoldmemberåÊ,194,795
+Astro BoyåÊ,138,77
+Jurassic ParkåÊ,308,895
+Wyatt EarpåÊ,40,145
+Clear and Present DangeråÊ,42,133
+Dragon BladeåÊ,68,86
+LittlemanåÊ,78,187
+U-571åÊ,178,602
+The American PresidentåÊ,75,214
+The Love GuruåÊ,150,250
+3000 Miles to GracelandåÊ,113,399
+The Hateful EightåÊ,596,1018
+Blades of GloryåÊ,191,246
+HopåÊ,156,82
+300åÊ,460,2073
+Meet the FockersåÊ,141,428
+Marley & MeåÊ,180,320
+The Green MileåÊ,186,1377
+Wild HogsåÊ,177,255
+Chicken LittleåÊ,161,251
+Gone GirlåÊ,568,1127
+The Bourne IdentityåÊ,249,849
+GoldenEyeåÊ,137,416
+The General's DaughteråÊ,113,274
+The Truman ShowåÊ,213,877
+The Prince of EgyptåÊ,120,353
+Daddy Day CareåÊ,81,116
+2 GunsåÊ,265,172
+Cats & DogsåÊ,105,235
+The Italian JobåÊ,155,497
+Two Weeks NoticeåÊ,118,269
+AntzåÊ,131,289
+Couples RetreatåÊ,166,144
+Days of ThunderåÊ,60,97
+Cheaper by the Dozen 2åÊ,77,128
+The Scorch TrialsåÊ,249,360
+Eat Pray LoveåÊ,213,302
+The Family ManåÊ,121,322
+REDåÊ,315,328
+Any Given SundayåÊ,171,452
+The Horse WhispereråÊ,96,263
+CollateralåÊ,299,836
+The Scorpion KingåÊ,167,432
+Ladder 49åÊ,125,323
+Jack ReacheråÊ,387,448
+Deep Blue SeaåÊ,199,643
+This Is ItåÊ,136,223
+ContagionåÊ,436,411
+Kangaroo JackåÊ,73,181
+CoralineåÊ,310,279
+The HappeningåÊ,323,1264
+Man on FireåÊ,171,690
+The Shaggy DogåÊ,76,83
+Starsky & HutchåÊ,173,308
+Jingle All the WayåÊ,81,162
+HellboyåÊ,242,597
+A Civil ActionåÊ,110,181
+ParaNormanåÊ,328,176
+The JackalåÊ,83,227
+PaycheckåÊ,196,347
+Up Close & PersonalåÊ,34,54
+The Tale of DespereauxåÊ,118,106
+Rules of EngagementåÊ            ,8,41
+The TuxedoåÊ,81,207
+Under Siege 2: Dark TerritoryåÊ,47,126
+Jack Ryan: Shadow RecruitåÊ,313,289
+JoyåÊ,315,256
+London Has FallenåÊ,225,323
+Alien: ResurrectionåÊ,223,656
+ShooteråÊ,198,338
+The BoxtrollsåÊ,219,122
+Practical MagicåÊ,92,257
+The Lego MovieåÊ,435,471
+Miss Congeniality 2: Armed and FabulousåÊ,111,156
+Reign of FireåÊ,138,569
+Gangster SquadåÊ,415,264
+Year OneåÊ,170,203
+InvictusåÊ,306,259
+State of PlayåÊ,252,235
+DuplicityåÊ,211,184
+My Favorite MartianåÊ,49,73
+The SentinelåÊ,161,213
+Planet 51åÊ,156,72
+Star Trek: NemesisåÊ,172,842
+Intolerable CrueltyåÊ,161,322
+Trouble with the CurveåÊ,239,150
+Edge of DarknessåÊ,258,256
+The RelicåÊ,95,165
+Analyze ThatåÊ,105,138
+Righteous KillåÊ,198,248
+Mercury RisingåÊ,79,127
+The SoloiståÊ,210,143
+The Legend of Bagger VanceåÊ,125,267
+Almost FamousåÊ,149,822
+Garfield 2åÊ,77,74
+xXx: State of the UnionåÊ,77,213
+PrieståÊ,225,233
+Sinbad: Legend of the Seven SeasåÊ,98,91
+Event HorizonåÊ,172,857
+The AvengersåÊ,703,1722
+DragonflyåÊ,117,243
+The Black DahliaåÊ,240,644
+FlyboysåÊ,123,247
+The Last CastleåÊ,110,281
+SupernovaåÊ,100,282
+Winter's TaleåÊ,189,126
+The Mortal Instruments: City of BonesåÊ,212,457
+Meet DaveåÊ,127,109
+Dark WateråÊ,196,411
+EdtvåÊ,115,195
+InkheartåÊ,161,110
+The SpiritåÊ,223,290
+MortdecaiåÊ,181,188
+In the Name of the King: A Dungeon Siege TaleåÊ,140,368
+Beyond BordersåÊ,54,156
+Xi you ji zhi: Sun Wukong san da Baigu JingåÊ,14,9
+The Great RaidåÊ,81,183
+DeadpoolåÊ,579,1058
+Holy ManåÊ,56,88
+American SniperåÊ,490,916
+GoosebumpsåÊ,218,154
+"Sabrina, the Teenage WitchåÊ            ",20,94
+Just Like HeavenåÊ,142,263
+The Flintstones in Viva Rock VegasåÊ,57,85
+Rambo IIIåÊ,84,171
+LeatherheadsåÊ,186,120
+The Ridiculous 6åÊ,53,143
+Did You Hear About the Morgans?åÊ,133,121
+The InternshipåÊ,246,281
+Resident Evil: AfterlifeåÊ,253,410
+Red TailsåÊ,144,273
+Sex and the CityåÊ            ,46,238
+The Devil's AdvocateåÊ,117,431
+That's My BoyåÊ,157,198
+DragonHeartåÊ,60,139
+After the SunsetåÊ,117,147
+Ghost Rider: Spirit of VengeanceåÊ,287,331
+Captain Corelli's MandolinåÊ,96,220
+Anger ManagementåÊ            ,26,54
+The PacifieråÊ,125,225
+Walking TallåÊ,117,221
+Forrest GumpåÊ,149,1398
+Alvin and the ChipmunksåÊ,131,146
+Meet the ParentsåÊ,150,507
+PocahontasåÊ,92,216
+SupermanåÊ,169,497
+The Nutty ProfessoråÊ,57,99
+HitchåÊ,171,372
+George of the JungleåÊ,53,103
+American WeddingåÊ,153,332
+Captain PhillipsåÊ,491,527
+Date NightåÊ,247,207
+CasperåÊ,26,92
+The EqualizeråÊ,292,436
+Maid in ManhattanåÊ,114,242
+Crimson TideåÊ,82,194
+The Pursuit of HappynessåÊ,201,611
+FlightplanåÊ,231,600
+DisclosureåÊ,55,95
+City of AngelsåÊ,110,322
+Kill Bill: Vol. 1åÊ,354,2105
+BowfingeråÊ,140,358
+Stargate SG-1åÊ            ,77,181
+Kill Bill: Vol. 2åÊ,304,935
+Tango & CashåÊ,45,149
+Death Becomes HeråÊ,49,173
+Shanghai NoonåÊ,146,293
+Executive DecisionåÊ,60,144
+Mr. Popper's PenguinsåÊ,189,108
+The Forbidden KingdomåÊ,206,279
+Free BirdsåÊ,118,73
+Alien 3åÊ,210,776
+EvitaåÊ,76,194
+RoninåÊ,149,572
+The Ghost and the DarknessåÊ,62,155
+PaddingtonåÊ,224,174
+The WatchåÊ,265,207
+The HuntedåÊ,135,321
+InstinctåÊ,100,232
+Stuck on YouåÊ,123,154
+Semi-ProåÊ,164,119
+The Pirates! Band of MisfitsåÊ,238,101
+ChangelingåÊ,264,387
+Chain ReactionåÊ,47,95
+The FanåÊ,50,89
+The Phantom of the OperaåÊ,153,2047
+Elizabeth: The Golden AgeåÊ,202,216
+Ì on FluxåÊ,178,532
+Gods and GeneralsåÊ,84,497
+TurbulenceåÊ,44,84
+Imagine ThatåÊ,93,39
+Muppets Most WantedåÊ,277,110
+ThunderbirdsåÊ,76,229
+BurlesqueåÊ,197,222
+A Very Long EngagementåÊ,186,239
+LolitaåÊ,103,207
+Eye See YouåÊ,66,142
+Blade IIåÊ,224,559
+Seven PoundsåÊ,202,599
+Bullet to the HeadåÊ,279,131
+The Godfather: Part IIIåÊ,110,545
+ElizabethtownåÊ,190,495
+"You, Me and DupreeåÊ",136,195
+Superman IIåÊ,121,269
+GigliåÊ,131,418
+All the King's MenåÊ,127,178
+ShaftåÊ,160,301
+AnastasiaåÊ,78,191
+Moulin Rouge!åÊ,209,2319
+Domestic DisturbanceåÊ,98,190
+Black MassåÊ,391,289
+Flags of Our FathersåÊ,279,415
+Law Abiding CitizenåÊ,216,429
+GrindhouseåÊ,250,532
+BelovedåÊ,78,207
+Lucky YouåÊ,106,63
+Catch Me If You CanåÊ,194,667
+Zero Dark ThirtyåÊ,558,640
+The Break-UpåÊ,183,483
+Mamma Mia!åÊ,238,611
+Valentine's DayåÊ,186,211
+The Dukes of HazzardåÊ,144,612
+The Thin Red LineåÊ,156,1448
+The Change-UpåÊ,215,149
+Man on the MoonåÊ,140,549
+CasinoåÊ,133,533
+From Paris with LoveåÊ,203,211
+Bulletproof MonkåÊ,127,180
+"Me, Myself & IreneåÊ",155,481
+BarnyardåÊ,98,155
+Deck the HallsåÊ,71,110
+The Twilight Saga: New MoonåÊ,299,919
+ShrekåÊ,212,945
+The Adjustment BureauåÊ,413,407
+Robin Hood: Prince of ThievesåÊ,67,322
+Jerry MaguireåÊ,109,318
+TedåÊ,457,623
+As Good as It GetsåÊ,156,470
+Patch AdamsåÊ,55,375
+Anchorman 2: The Legend ContinuesåÊ,272,346
+Mr. DeedsåÊ,117,309
+Super 8åÊ,539,849
+Erin BrockovichåÊ,169,498
+How to Lose a Guy in 10 DaysåÊ,140,357
+22 Jump StreetåÊ,330,322
+Interview with the Vampire: The Vampire ChroniclesåÊ,120,406
+Yes ManåÊ,190,243
+Central IntelligenceåÊ,177,110
+StepmomåÊ,65,252
+Daddy's HomeåÊ,145,130
+Into the WoodsåÊ,321,779
+Inside ManåÊ,230,646
+PaybackåÊ,143,394
+CongoåÊ,55,147
+We Bought a ZooåÊ,257,199
+KnowingåÊ,279,791
+Failure to LaunchåÊ,143,242
+The Ring TwoåÊ,196,560
+"Crazy, Stupid, Love.åÊ",310,292
+GarfieldåÊ,116,232
+Christmas with the KranksåÊ,105,209
+MoneyballåÊ,419,312
+OutbreakåÊ,64,130
+Non-StopåÊ,359,384
+Race to Witch MountainåÊ,166,110
+V for VendettaåÊ,525,2042
+Shanghai KnightsåÊ,165,192
+UnforgottenåÊ            ,2,9
+Curious GeorgeåÊ,87,118
+Herbie Fully LoadedåÊ,117,168
+Don't Say a WordåÊ,113,248
+Hansel & Gretel: Witch HuntersåÊ,349,304
+UnfaithfulåÊ,152,533
+I Am Number FouråÊ,288,329
+SyrianaåÊ,358,625
+13 HoursåÊ,204,219
+The Book of LifeåÊ,156,102
+FirewallåÊ,171,306
+Absolute PoweråÊ,76,142
+G.I. JaneåÊ,97,142
+The GameåÊ,157,506
+Silent HillåÊ,267,1740
+The ReplacementsåÊ,118,261
+American ReunionåÊ,291,181
+The NegotiatoråÊ,68,279
+Into the StormåÊ,228,210
+Beverly Hills Cop IIIåÊ,36,114
+Gremlins 2: The New BatchåÊ,105,148
+The JudgeåÊ,276,275
+The PeacemakeråÊ,93,156
+Resident Evil: ApocalypseåÊ,191,672
+Bridget Jones: The Edge of ReasonåÊ,143,259
+Out of TimeåÊ,124,157
+On Deadly GroundåÊ,47,140
+The Adventures of Sharkboy and Lavagirl 3-DåÊ,66,177
+The BeachåÊ,118,548
+Raising HelenåÊ,93,106
+Ninja AssassinåÊ,235,194
+For Love of the GameåÊ,113,226
+A Touch of FroståÊ            ,14,33
+StripteaseåÊ,51,118
+MarmadukeåÊ,98,65
+HereafteråÊ,315,323
+Murder by NumbersåÊ,136,302
+AssassinsåÊ,61,84
+Hannibal RisingåÊ,209,392
+The Story of UsåÊ,99,150
+The HoståÊ,298,347
+BasicåÊ,131,286
+Blood WorkåÊ,146,260
+The InternationalåÊ,245,190
+Escape from L.A.åÊ,104,227
+TwistedåÊ            ,4,22
+The Iron GiantåÊ,162,514
+The Life Aquatic with Steve ZissouåÊ,259,632
+Free State of JonesåÊ,79,47
+The Life of David GaleåÊ,141,420
+Man of the HouseåÊ,59,94
+Run All NightåÊ,236,205
+Eastern PromisesåÊ,356,398
+Into the BlueåÊ,120,208
+The Messenger: The Story of Joan of ArcåÊ,111,390
+Your HighnessåÊ,208,274
+Dream HouseåÊ,174,137
+Mad CityåÊ,59,73
+Baby's Day OutåÊ,22,78
+The Scarlet LetteråÊ,34,90
+Fair GameåÊ,214,127
+DefianceåÊ            ,28,149
+DominoåÊ,186,374
+JadeåÊ,50,70
+GameråÊ,180,245
+Beautiful CreaturesåÊ,231,258
+Death to SmoochyåÊ,105,341
+Zoolander 2åÊ,226,150
+The Big BounceåÊ,75,93
+What Planet Are You From?åÊ,82,91
+Drive AngryåÊ,296,211
+Street Fighter: The Legend of Chun-LiåÊ,103,179
+The OneåÊ,98,294
+OutlanderåÊ            ,30,148
+The Adventures of Ford FairlaneåÊ,48,113
+Pirate RadioåÊ,195,209
+TrafficåÊ,223,867
+Indiana Jones and the Last CrusadeåÊ,149,477
+Anna KareninaåÊ,324,226
+ChappieåÊ,371,627
+The Bone CollectoråÊ,75,397
+Panic RoomåÊ,233,850
+The Tooth FairyåÊ,32,32
+Three KingsåÊ,150,560
+Child 44åÊ,172,185
+Rat RaceåÊ,103,497
+K-PAXåÊ,140,537
+Kate & LeopoldåÊ,125,316
+BedazzledåÊ,125,254
+The Cotton ClubåÊ,36,84
+3:10 to YumaåÊ,295,560
+Taken 3åÊ,222,323
+Out of SightåÊ,158,307
+The Cable GuyåÊ,72,345
+EarthåÊ,34,55
+Dick TracyåÊ,72,164
+The Thomas Crown AffairåÊ,152,419
+Riding in Cars with BoysåÊ,89,210
+First BloodåÊ,145,376
+SolarisåÊ,144,236
+Happily N'Ever AfteråÊ,93,71
+Mary ReillyåÊ,46,97
+My Best Friend's WeddingåÊ,84,169
+America's SweetheartsåÊ,142,343
+InsomniaåÊ,185,651
+Star Trek: First ContactåÊ,143,286
+Jonah HexåÊ,178,176
+Courage Under FireåÊ,65,107
+Liar LiaråÊ,73,243
+The InfiltratoråÊ,72,29
+InchonåÊ,10,16
+The FlintstonesåÊ,35,85
+Taken 2åÊ,358,461
+Scary Movie 3åÊ,151,347
+Miss CongenialityåÊ,140,370
+Journey to the Center of the EarthåÊ,201,212
+The Princess Diaries 2: Royal EngagementåÊ,77,152
+The Pelican BriefåÊ,43,89
+The ClientåÊ,39,94
+The Bucket ListåÊ,207,310
+Patriot GamesåÊ,47,137
+Monster-in-LawåÊ,132,228
+PrisonersåÊ,454,620
+Training DayåÊ,109,633
+Galaxy QueståÊ,213,609
+Scary Movie 2åÊ,127,548
+The MuppetsåÊ,398,252
+BladeåÊ,184,582
+Coach CarteråÊ,127,209
+Changing LanesåÊ,167,350
+AnacondaåÊ,119,271
+Coyote UglyåÊ,155,379
+Love ActuallyåÊ,218,1004
+A Bug's LifeåÊ,117,317
+From HellåÊ,208,541
+The SpecialiståÊ,38,116
+Tin CupåÊ,48,73
+"Yours, Mine and OursåÊ",8,61
+Kicking & ScreamingåÊ,94,118
+The Hitchhiker's Guide to the GalaxyåÊ,276,1053
+Fat AlbertåÊ,59,91
+Resident Evil: ExtinctionåÊ,216,348
+BlendedåÊ,173,184
+Last HolidayåÊ,99,116
+The River WildåÊ,42,69
+The Indian in the CupboardåÊ,25,47
+SavagesåÊ,339,269
+CellularåÊ,127,355
+Johnny EnglishåÊ,122,285
+The Ant BullyåÊ,105,70
+DuneåÊ,144,569
+Across the UniverseåÊ,156,524
+Revolutionary RoadåÊ,323,414
+16 BlocksåÊ,199,305
+Babylon A.D.åÊ,164,214
+The Glimmer ManåÊ,39,80
+MultiplicityåÊ,43,81
+Aliens in the AtticåÊ,82,55
+The PledgeåÊ,150,531
+The ProducersåÊ,168,409
+DreddåÊ,432,588
+The PhantomåÊ,60,148
+All the Pretty HorsesåÊ,85,183
+NixonåÊ,83,161
+The Ghost WriteråÊ,343,349
+Deep RisingåÊ,106,273
+Miracle at St. AnnaåÊ,158,182
+Curse of the Golden FloweråÊ,189,229
+Bangkok DangerousåÊ,125,154
+Big TroubleåÊ,87,186
+Love in the Time of CholeraåÊ,115,115
+The ReturnedåÊ            ,23,47
+Shadow ConspiracyåÊ,24,41
+Johnny English RebornåÊ,152,142
+Foodfight!åÊ,12,66
+ArgoåÊ,656,695
+The FugitiveåÊ,119,270
+The Bounty HunteråÊ,161,135
+SleepersåÊ,73,259
+Rambo: First Blood Part IIåÊ,96,217
+The JuroråÊ,28,62
+PinocchioåÊ,105,147
+Heaven's GateåÊ,102,189
+Underworld: EvolutionåÊ,206,502
+Victor FrankensteinåÊ,159,91
+Finding ForresteråÊ,137,297
+28 DaysåÊ,116,194
+UnleashedåÊ,177,303
+The Sweetest ThingåÊ,99,403
+The FirmåÊ,56,142
+Charlie St. CloudåÊ,117,75
+The MechanicåÊ,252,181
+21 Jump StreetåÊ,375,345
+Notting HillåÊ,150,602
+Chicken RunåÊ,187,358
+Along Came PollyåÊ,108,268
+BoomerangåÊ,21,41
+The HeatåÊ,270,380
+CleopatraåÊ,72,192
+Here Comes the BoomåÊ,154,112
+High CrimesåÊ,114,175
+The Mirror Has Two FacesåÊ,27,71
+The Mothman PropheciesåÊ,166,460
+BrÌ_noåÊ,288,396
+Licence to KillåÊ,117,317
+Red Riding HoodåÊ,291,283
+15 MinutesåÊ,151,265
+Super Mario Bros.åÊ,36,290
+Lord of WaråÊ,168,437
+HeroåÊ,283,841
+One for the MoneyåÊ,127,169
+The InterviewåÊ,293,835
+The Warrior's WayåÊ,95,102
+McHale's NavyåÊ            ,4,18
+MicmacsåÊ,213,71
+8 MileåÊ,119,564
+Animal Kingdom: Let's go ApeåÊ,9,5
+A Knight's TaleåÊ,167,658
+The MedallionåÊ,98,132
+The Sixth SenseåÊ,234,2073
+Man on a LedgeåÊ,258,153
+The Big YearåÊ,108,125
+The Karate KidåÊ,81,235
+American HustleåÊ,538,751
+The ProposalåÊ,224,273
+Double JeopardyåÊ,129,336
+Back to the Future Part IIåÊ,125,327
+LucyåÊ,433,918
+Fifty Shades of GreyåÊ,362,1360
+Spy Kids 3-D: Game OveråÊ,93,188
+A Time to KillåÊ,71,236
+Cheaper by the DozenåÊ,104,288
+Lone SurvivoråÊ,319,420
+A League of Their OwnåÊ,41,166
+The Conjuring 2åÊ,300,279
+The Social NetworkåÊ,556,696
+He's Just Not That Into YouåÊ,161,203
+Scary Movie 4åÊ,151,410
+Scream 3åÊ,212,734
+Back to the Future Part IIIåÊ,111,263
+Get HardåÊ,173,144
+Bram Stoker's DraculaåÊ,181,654
+Julie & JuliaåÊ,252,277
+42åÊ,216,200
+The Talented Mr. RipleyåÊ,203,696
+Dumb and Dumber ToåÊ,218,285
+Eight BelowåÊ,118,263
+The InternåÊ,241,304
+Ride Along 2åÊ,119,58
+The Last of the MohicansåÊ,89,382
+RayåÊ,209,433
+Sin CityåÊ,374,1732
+Vantage PointåÊ,235,422
+"I Love You, ManåÊ",215,215
+Shallow HalåÊ,109,426
+JFKåÊ,125,442
+Big Momma's House 2åÊ,65,82
+The MexicanåÊ,125,344
+UnbrokenåÊ,322,351
+17 AgainåÊ,191,185
+The Other WomanåÊ,191,189
+The Final DestinationåÊ,221,290
+Bridge of SpiesåÊ,459,355
+Behind Enemy LinesåÊ,131,411
+Get Him to the GreekåÊ,222,197
+Shall We DanceåÊ,118,211
+Small SoldiersåÊ,100,139
+SpawnåÊ,70,209
+The Count of Monte CristoåÊ,138,544
+The Lincoln LawyeråÊ,274,203
+UnknownåÊ,349,332
+The PrestigeåÊ,341,1100
+Horrible Bosses 2åÊ,196,187
+Escape from Planet EarthåÊ,83,44
+ApocalyptoåÊ,283,1043
+The Living DaylightsåÊ,105,271
+PredatorsåÊ,351,619
+Legal EaglesåÊ,16,34
+Secret WindowåÊ,195,531
+The Lake HouseåÊ,175,548
+The Skeleton KeyåÊ,193,371
+The Odd Life of Timothy GreenåÊ,169,110
+Made of HonoråÊ,128,101
+Jersey BoysåÊ,249,190
+The RainmakeråÊ,91,141
+GothikaåÊ,207,376
+AmistadåÊ,77,227
+Medicine ManåÊ,25,56
+Aliens vs. Predator: RequiemåÊ,211,998
+Riå¢hie Riå¢håÊ,19,39
+Autumn in New YorkåÊ,101,180
+Music and LyricsåÊ,175,291
+PaulåÊ,342,334
+The Guilt TripåÊ,147,103
+Scream 4åÊ,420,518
+8MMåÊ,138,587
+The DoorsåÊ,82,209
+Sex TapeåÊ,201,158
+Hanging UpåÊ,82,130
+Final Destination 5åÊ,277,227
+Mickey Blue EyesåÊ,90,117
+Pay It ForwardåÊ,157,660
+Fever PitchåÊ,124,208
+ArthuråÊ            ,3,43
+Drillbit TayloråÊ,146,101
+A Million Ways to Die in the WeståÊ,303,416
+The ShadowåÊ,70,146
+Extremely Loud & Incredibly CloseåÊ,283,341
+Morning GloryåÊ,212,156
+Get Rich or Die Tryin'åÊ,98,284
+The Art of WaråÊ,110,167
+RentåÊ,146,754
+Bless the ChildåÊ,100,188
+The Out-of-TownersåÊ,62,105
+The Island of Dr. MoreauåÊ,70,164
+The MusketeeråÊ,107,291
+The Other Boleyn GirlåÊ,169,252
+Sweet NovemberåÊ,94,274
+The ReapingåÊ,190,178
+Mean StreetsåÊ,112,223
+Renaissance ManåÊ,12,61
+ColombianaåÊ,201,203
+The Magic Sword: Quest for CamelotåÊ,34,67
+City by the SeaåÊ,104,166
+At First SightåÊ,55,106
+TorqueåÊ,86,207
+City HallåÊ,50,60
+ShowgirlsåÊ,181,450
+Marie AntoinetteåÊ,260,619
+Kiss of DeathåÊ,40,60
+Get CarteråÊ,102,284
+The ImpossibleåÊ,371,322
+IshtaråÊ,49,126
+Fantastic Mr. FoxåÊ,335,245
+Life or Something Like ItåÊ,86,128
+Memoirs of an Invisible ManåÊ,40,66
+AmÌ©lieåÊ,242,1314
+New York MinuteåÊ,70,111
+AlfieåÊ,135,146
+Big MiracleåÊ,125,66
+The Deep End of the OceanåÊ,54,111
+FeardotcomåÊ,104,388
+Cirque du Freak: The Vampire's AssistantåÊ,157,157
+Victor FrankensteinåÊ,159,91
+DuplexåÊ,78,147
+Soul MenåÊ,88,25
+Raise the TitanicåÊ,32,70
+Universal Soldier: The ReturnåÊ,75,162
+PandorumåÊ,219,310
+ImpostoråÊ,83,207
+Extreme OpsåÊ,53,82
+Just VisitingåÊ,61,98
+SunshineåÊ,308,801
+A Thousand WordsåÊ,70,93
+DelgoåÊ,41,26
+The GunmanåÊ,224,110
+Alex Rider: Operation StormbreakeråÊ,66,187
+DisturbiaåÊ,253,491
+HackersåÊ,79,223
+The Hunting PartyåÊ,94,90
+The Hudsucker ProxyåÊ,77,211
+The WarlordsåÊ,106,61
+Nomad: The WarrioråÊ,30,32
+SnowpierceråÊ,488,514
+A Monster in ParisåÊ,63,40
+The Last ShotåÊ,42,39
+The CrowåÊ,118,545
+Baahubali: The BeginningåÊ,44,410
+The Time Traveler's WifeåÊ,214,234
+Because I Said SoåÊ,110,184
+The Fast and the FuriousåÊ,187,988
+FrankenweenieåÊ,370,165
+SerenityåÊ,276,1594
+Against the RopesåÊ,76,50
+Superman IIIåÊ,95,224
+Grudge MatchåÊ,211,115
+Red CliffåÊ,160,105
+Sweet Home AlabamaåÊ,97,392
+The Ugly TruthåÊ,174,169
+Sgt. BilkoåÊ,23,73
+Spy Kids 2: Island of Lost DreamsåÊ,103,107
+Star Trek: GenerationsåÊ,98,249
+The GrandmasteråÊ,273,111
+Water for ElephantsåÊ,279,260
+3rd Rock from the SunåÊ            ,22,86
+Dragon Nest: Warriors' DawnåÊ,4,18
+The HurricaneåÊ,65,265
+EnoughåÊ,98,234
+HeartbreakersåÊ,116,216
+Paul Blart: Mall Cop 2åÊ,76,123
+Angel EyesåÊ,106,180
+Joe SomebodyåÊ,55,85
+The Ninth GateåÊ,172,638
+Extreme MeasuresåÊ,47,75
+Rock StaråÊ,107,191
+PreciousåÊ,323,275
+White SquallåÊ,37,89
+The ThingåÊ,297,911
+RiddickåÊ,302,343
+SwitchbackåÊ,38,81
+Texas RangersåÊ,31,67
+City of EmberåÊ,118,102
+The MasteråÊ,546,405
+Virgin TerritoryåÊ,21,28
+The ExpressåÊ,86,45
+The 5th WaveåÊ,194,266
+CreedåÊ,437,362
+The TownåÊ,378,420
+What to Expect When You're ExpectingåÊ,170,89
+Burn After ReadingåÊ,341,545
+Nim's IslandåÊ,139,110
+RushåÊ,393,475
+MagnoliaåÊ,224,1437
+Cop OutåÊ,203,176
+How to Be SingleåÊ,148,83
+Dolphin TaleåÊ,131,86
+TwilightåÊ,350,1535
+John QåÊ,129,394
+Blue StreakåÊ,40,144
+We're the MillersåÊ,289,301
+Obitaemyy ostrovåÊ,14,21
+BreakdownåÊ,72,218
+Never Say Never AgainåÊ,89,214
+Hot Tub Time MachineåÊ,265,243
+Dolphin Tale 2åÊ,54,33
+Reindeer GamesåÊ,126,212
+A Man ApartåÊ,110,135
+AlohaåÊ,138,172
+Ghosts of MississippiåÊ,31,57
+Snow Falling on CedarsåÊ,95,194
+The RiteåÊ,267,197
+GattacaåÊ,175,641
+Isn't She GreatåÊ,63,64
+Space ChimpsåÊ,85,45
+Head of StateåÊ,44,80
+The HangoveråÊ,334,626
+Ip Man 3åÊ,78,45
+Austin Powers: The Spy Who Shagged MeåÊ,199,784
+BatmanåÊ,186,817
+There Be DragonsåÊ,77,53
+Lethal Weapon 3åÊ,68,136
+The Blind SideåÊ,261,420
+Rush HouråÊ            ,5,30
+Spy KidsåÊ,122,205
+Horrible BossesåÊ,340,387
+True GritåÊ,493,724
+The Devil Wears PradaåÊ,208,631
+Star Trek: The Motion PictureåÊ,134,405
+Identity ThiefåÊ,275,232
+Cape FearåÊ,120,261
+21åÊ,144,278
+TrainwreckåÊ,332,309
+Guess WhoåÊ,104,160
+The English PatientåÊ,116,457
+L.A. ConfidentialåÊ,177,625
+Sky HighåÊ,127,217
+In & OutåÊ,83,138
+SpeciesåÊ,97,140
+A Nightmare on Elm StreetåÊ,256,668
+The CellåÊ,225,677
+The Man in the Iron MaskåÊ,83,244
+SecretariatåÊ,160,136
+TMNTåÊ,191,211
+RadioåÊ,74,196
+Friends with BenefitsåÊ,238,194
+Neighbors 2: Sorority RisingåÊ,177,111
+Saving Mr. BanksåÊ,405,306
+Malcolm XåÊ,61,156
+This Is 40åÊ,285,248
+Old DogsåÊ,124,120
+Underworld: Rise of the LycansåÊ,164,169
+License to WedåÊ,120,119
+The BenchwarmersåÊ,90,209
+Must Love DogsåÊ,120,262
+Donnie BrascoåÊ,117,234
+Resident EvilåÊ,226,1138
+PoltergeiståÊ,223,321
+The LadykillersåÊ,193,400
+Max PayneåÊ,228,398
+In TimeåÊ,360,463
+The Back-up PlanåÊ,148,97
+Something BorrowedåÊ,128,153
+Hit the FlooråÊ            ,3,11
+Black KnightåÊ,46,164
+The Bad News BearsåÊ,40,91
+Street FighteråÊ,63,282
+The PianiståÊ,193,761
+From HellåÊ,208,541
+The Nativity StoryåÊ,122,203
+House of WaxåÊ,228,576
+CloseråÊ,212,903
+J. EdgaråÊ,392,279
+MirrorsåÊ,208,232
+Queen of the DamnedåÊ,137,695
+Predator 2åÊ,119,291
+UntraceableåÊ,195,245
+Blast from the PaståÊ,95,239
+Flash GordonåÊ,100,247
+Jersey GirlåÊ,164,358
+Alex CrossåÊ,211,151
+Midnight in the Garden of Good and EvilåÊ,91,216
+HeiståÊ,44,57
+Nanny McPhee ReturnsåÊ,97,59
+HoffaåÊ,32,68
+The X Files: I Want to BelieveåÊ,270,492
+Ella EnchantedåÊ,89,244
+ConcussionåÊ,219,138
+AbductionåÊ,180,173
+ValiantåÊ,93,80
+Wonder BoysåÊ,173,335
+Superhero MovieåÊ,121,173
+Broken CityåÊ,298,134
+CursedåÊ,158,325
+Premium RushåÊ,248,178
+Hot PursuitåÊ,155,118
+The Four FeathersåÊ,105,215
+ParkeråÊ,224,141
+WimbledonåÊ,129,173
+Furry VengeanceåÊ,101,84
+BaitåÊ,145,82
+KrullåÊ,57,178
+Lions for LambsåÊ,227,298
+Flight of the IntruderåÊ,13,39
+Walk Hard: The Dewey Cox StoryåÊ,171,200
+The Shipping NewsåÊ,119,208
+American OutlawsåÊ,44,162
+The Young VictoriaåÊ,188,100
+WhiteoutåÊ,166,142
+The Tree of LifeåÊ,584,975
+Knock OffåÊ,67,141
+SabotageåÊ,233,212
+The OrderåÊ,112,204
+Punisher: War ZoneåÊ,151,280
+ZoomåÊ,63,113
+The WalkåÊ,335,195
+Warriors of VirtueåÊ,24,31
+A Good YearåÊ,147,196
+LutheråÊ            ,51,105
+Radio FlyeråÊ,10,71
+"Blood In, Blood OutåÊ",12,129
+Smilla's Sense of SnowåÊ,50,99
+Femme FataleåÊ,149,232
+Lion of the DesertåÊ,24,55
+The Horseman on the RoofåÊ,28,25
+Ride with the DevilåÊ,95,159
+BiutifulåÊ,288,127
+The LoversåÊ,10,15
+BandidasåÊ,58,76
+Black Water TransitåÊ,,
+The Maze RunneråÊ,297,524
+Unfinished BusinessåÊ,90,89
+The Age of InnocenceåÊ,56,150
+The FountainåÊ,274,915
+Chill FactoråÊ,68,94
+StolenåÊ,98,86
+PonyoåÊ,256,144
+The Longest RideåÊ,117,116
+The Astronaut's WifeåÊ,107,260
+I Dreamed of AfricaåÊ,52,61
+Playing for KeepsåÊ,135,50
+Mandela: Long Walk to FreedomåÊ,211,108
+RedsåÊ,57,127
+A Few Good MenåÊ,81,319
+Exit WoundsåÊ,107,232
+Big Momma's HouseåÊ,100,148
+Thunder and the House of MagicåÊ,60,16
+The Darkest HouråÊ,195,211
+Step Up RevolutionåÊ,121,72
+Snakes on a PlaneåÊ,285,1033
+The WatcheråÊ,103,181
+The PunisheråÊ,192,622
+Goal! The Dream BeginsåÊ,90,114
+SafeåÊ,258,134
+Pushing TinåÊ,56,175
+Star Wars: Episode VI - Return of the JediåÊ,197,647
+DoomsdayåÊ,254,396
+The ReaderåÊ,299,370
+WanderluståÊ,163,139
+ElfåÊ,152,395
+PhenomenonåÊ,53,118
+Snow DogsåÊ,67,100
+ScroogedåÊ,88,159
+Nacho LibreåÊ,163,441
+BridesmaidsåÊ,371,485
+This Is the EndåÊ,418,669
+StigmataåÊ,131,398
+Men of HonoråÊ,98,224
+TakersåÊ,119,132
+The Big WeddingåÊ,133,108
+"Big Mommas: Like Father, Like SonåÊ",88,47
+Source CodeåÊ,522,571
+AliveåÊ,43,112
+The Number 23åÊ,224,383
+The Young and Prodigious T.S. SpivetåÊ,122,28
+1941åÊ,56,217
+Dreamer: Inspired by a True StoryåÊ,75,108
+A History of ViolenceåÊ,441,1125
+Transporter 2åÊ,163,340
+The Quick and the DeadåÊ,63,216
+Laws of AttractionåÊ,90,102
+Bringing Out the DeadåÊ,163,382
+Repo MenåÊ,197,187
+Dragon Wars: D-WaråÊ,93,364
+BogusåÊ,15,30
+The Incredible Burt WonderstoneåÊ,260,158
+Cats Don't DanceåÊ,18,49
+Cradle Will RockåÊ,70,161
+The Good GermanåÊ,183,175
+George and the DragonåÊ,12,31
+Apocalypse NowåÊ,261,983
+Going the DistanceåÊ,167,113
+Mr. Holland's OpusåÊ,42,154
+CriminalåÊ,130,100
+Out of AfricaåÊ,66,200
+FlightåÊ,449,491
+MoonrakeråÊ,121,294
+The Grand Budapest HotelåÊ,536,644
+Hearts in AtlantisåÊ,135,268
+ArachnophobiaåÊ,74,136
+FrequencyåÊ,168,510
+GhostbustersåÊ,464,1211
+VacationåÊ,204,219
+Get ShortyåÊ,96,150
+ChicagoåÊ,223,1017
+Big DaddyåÊ,112,289
+American Pie 2åÊ,142,431
+Toy StoryåÊ,166,391
+SpeedåÊ,114,373
+The VowåÊ,214,164
+Extraordinary MeasuresåÊ,126,64
+Remember the TitansåÊ,157,402
+The Hunt for Red OctoberåÊ,104,241
+Lee Daniels' The ButleråÊ,304,323
+Dodgeball: A True Underdog StoryåÊ,191,392
+The Addams FamilyåÊ,55,125
+Ace Ventura: When Nature CallsåÊ,59,178
+The Princess DiariesåÊ,108,301
+The First Wives ClubåÊ,50,117
+Se7enåÊ,216,1080
+District 9åÊ,472,1262
+The SpongeBob SquarePants MovieåÊ,89,186
+Mystic RiveråÊ,229,935
+Million Dollar BabyåÊ,268,1106
+Analyze ThisåÊ,145,337
+The NotebookåÊ,177,1111
+27 DressesåÊ,175,154
+Hannah Montana: The MovieåÊ,131,140
+Rugrats in Paris: The MovieåÊ,41,49
+The Prince of TidesåÊ,30,109
+Legends of the FallåÊ,57,329
+Up in the AiråÊ,391,452
+About SchmidtåÊ,217,612
+Warm BodiesåÊ,452,326
+LooperåÊ,589,667
+Down to EarthåÊ,61,122
+BabeåÊ,79,182
+Hope SpringsåÊ,234,178
+Forgetting Sarah MarshallåÊ,253,325
+Friday Night LightsåÊ            ,51,257
+Four BrothersåÊ,123,340
+Baby MamaåÊ,145,97
+Hope FloatsåÊ,65,162
+Bride WarsåÊ,152,129
+Without a PaddleåÊ,94,152
+13 Going on 30åÊ,119,339
+Midnight in ParisåÊ,487,509
+The Nut JobåÊ,121,64
+BlowåÊ,147,426
+Message in a BottleåÊ,85,223
+Star Trek V: The Final FrontieråÊ,98,293
+Like MikeåÊ,39,72
+Naked Gun 33 1/3: The Final InsultåÊ,43,85
+A View to a KillåÊ,108,300
+The Curse of the Were-RabbitåÊ,209,307
+P.S. I Love YouåÊ,131,243
+Racing StripesåÊ,73,86
+AtonementåÊ,316,581
+Letters to JulietåÊ,159,156
+Black RainåÊ,63,119
+The Three StoogesåÊ,162,189
+Corpse BrideåÊ,267,467
+Glory RoadåÊ,95,145
+SicarioåÊ,478,461
+SouthpawåÊ,305,277
+Drag Me to HellåÊ,397,691
+The Age of AdalineåÊ,214,209
+Secondhand LionsåÊ,82,292
+Step Up 3DåÊ,138,86
+Blue CrushåÊ,69,216
+Stranger Than FictionåÊ,253,529
+30 Days of NightåÊ,304,527
+The Cabin in the WoodsåÊ,634,986
+Meet the SpartansåÊ,111,409
+Midnight RunåÊ,77,215
+The Running ManåÊ,120,226
+Little Shop of HorrorsåÊ,63,165
+HannaåÊ,417,438
+The FamilyåÊ            ,9,30
+Mortal Kombat: AnnihilationåÊ,59,256
+Larry CrowneåÊ,218,184
+CarrieåÊ,359,371
+Take the LeadåÊ,101,127
+EntourageåÊ            ,52,145
+Gridiron GangåÊ,85,134
+What's the Worst That Could Happen?åÊ,64,84
+9åÊ,263,245
+Side EffectsåÊ,450,274
+The Prince and MeåÊ,85,154
+Winnie the PoohåÊ,162,55
+Dumb and Dumberer: When Harry Met LloydåÊ,85,267
+BulworthåÊ,110,227
+Get on UpåÊ,165,104
+One True ThingåÊ,64,112
+VirtuosityåÊ,44,88
+My Super Ex-GirlfriendåÊ,147,203
+Deliver Us from EvilåÊ,242,201
+SanctumåÊ,244,215
+Little Black BookåÊ,73,116
+The Five-Year EngagementåÊ,232,141
+Mr 3000åÊ,63,63
+The Next Three DaysåÊ,239,237
+UltravioletåÊ,158,830
+Assault on Precinct 13åÊ,152,220
+The Replacement KillersåÊ,105,167
+FledåÊ,36,29
+Eight Legged FreaksåÊ,181,291
+Love & Other DrugsåÊ,219,215
+88 MinutesåÊ,158,262
+North CountryåÊ,155,214
+The Whole Ten YardsåÊ,74,112
+SpliceåÊ,368,354
+Howard the DuckåÊ,81,269
+Pride and GloryåÊ,154,132
+The CaveåÊ,140,262
+Alex & EmmaåÊ,73,105
+Wicker ParkåÊ,98,298
+Fright NightåÊ,358,242
+The New WorldåÊ,222,671
+Wing CommanderåÊ,85,338
+In DreamsåÊ,62,148
+Dragonball: EvolutionåÊ,130,524
+The Last StandåÊ,376,258
+GodsendåÊ,130,191
+Chasing LibertyåÊ,65,129
+Hoodwinked Too! Hood vs. EvilåÊ,77,38
+An Unfinished LifeåÊ,107,152
+The Imaginarium of Doctor ParnassusåÊ,292,210
+Barney's VersionåÊ,193,87
+TrappedåÊ            ,16,19
+Runner RunneråÊ,184,95
+AntitruståÊ,123,221
+GloryåÊ,60,365
+Once Upon a Time in AmericaåÊ,111,495
+Dead Man DownåÊ,217,127
+The Merchant of VeniceåÊ,117,161
+The Good ThiefåÊ,105,103
+SupercrossåÊ,41,38
+Miss PotteråÊ,124,142
+The PromiseåÊ,90,132
+DOA: Dead or AliveåÊ,110,180
+The Assassination of Jesse James by the Coward Robert FordåÊ,273,415
+1911åÊ,63,27
+Little NicholasåÊ,56,17
+Wild CardåÊ,130,114
+Machine Gun PreacheråÊ,134,124
+Animals UnitedåÊ,36,44
+The Color of FreedomåÊ,46,23
+United PassionsåÊ,7,22
+Grace of MonacoåÊ,132,62
+A Warrior's TailåÊ,5,7
+Ripley's GameåÊ,56,108
+Sausage PartyåÊ,65,14
+Pitch Perfect 2åÊ,221,185
+Walk the LineåÊ,291,815
+12 MonkeysåÊ            ,13,56
+Keeping the FaithåÊ,148,259
+The BorrowersåÊ,42,39
+Frost/NixonåÊ,302,241
+Confessions of a Dangerous MindåÊ,181,276
+Serving SaraåÊ,64,101
+The BossåÊ,154,96
+Cry FreedomåÊ,17,51
+MumfordåÊ,65,123
+Seed of ChuckyåÊ,148,214
+The JacketåÊ,161,263
+AladdinåÊ,124,244
+Straight Outta ComptonåÊ,349,331
+Indiana Jones and the Temple of DoomåÊ,148,524
+The Rugrats MovieåÊ,45,67
+Along Came a SpideråÊ,133,317
+Florence Foster JenkinsåÊ,87,32
+Once Upon a Time in MexicoåÊ,178,471
+Die HardåÊ,233,722
+Role ModelsåÊ,173,170
+The Big ShortåÊ,426,374
+Taking WoodstockåÊ,210,71
+MiracleåÊ,129,289
+Dawn of the DeadåÊ,287,1057
+The Wedding PlanneråÊ,108,229
+Harlock: Space PirateåÊ,62,28
+The Royal TenenbaumsåÊ,220,962
+IdentityåÊ,136,714
+Last VegasåÊ,222,173
+For Your Eyes OnlyåÊ,112,263
+SerendipityåÊ,122,374
+TimecopåÊ,62,115
+ZoolanderåÊ,135,523
+Safe HavenåÊ,184,160
+Hocus PocusåÊ,36,132
+No ReservationsåÊ,171,128
+Kick-AssåÊ,447,801
+30 Minutes or LessåÊ,220,122
+Dracula 2000åÊ,122,365
+"Alexander and the Terrible, Horrible, No Good, Very Bad DayåÊ",119,85
+Pride & PrejudiceåÊ,177,1058
+Blade RunneråÊ,302,1168
+Rob RoyåÊ,44,126
+3 Days to KillåÊ,211,211
+We Own the NightåÊ,222,199
+Lost SoulsåÊ,100,167
+Winged MigrationåÊ,100,153
+Just My LuckåÊ,98,149
+"Mystery, AlaskaåÊ",74,123
+The Spy Next DooråÊ,97,71
+A Simple WishåÊ,21,21
+Ghosts of MarsåÊ,156,460
+Our Brand Is CrisisåÊ,125,50
+Pride and Prejudice and ZombiesåÊ,225,134
+KundunåÊ,85,117
+How to Lose Friends & Alienate PeopleåÊ,135,98
+Kick-Ass 2åÊ,350,378
+Captain Alatriste: The Spanish MusketeeråÊ,31,84
+Brick MansionsåÊ,177,112
+OctopussyåÊ,106,225
+Knocked UpåÊ,251,559
+My Sister's KeeperåÊ,148,184
+"Welcome Home, Roscoe JenkinsåÊ",76,39
+A Passage to IndiaåÊ,52,89
+Notes on a ScandalåÊ,220,281
+RenditionåÊ,131,197
+LimitlessåÊ            ,7,131
+Star Trek VI: The Undiscovered CountryåÊ,112,188
+Divine Secrets of the Ya-Ya SisterhoodåÊ,93,199
+The Jungle BookåÊ,370,398
+Kiss the GirlsåÊ,83,143
+The Blues BrothersåÊ,125,319
+The Sisterhood of the Traveling Pants 2åÊ,73,33
+Joyful NoiseåÊ,98,71
+About a BoyåÊ,158,391
+Lake PlacidåÊ,152,366
+Lucky Number SlevinåÊ,202,507
+The Right StuffåÊ,80,170
+AnonymousåÊ,288,136
+The NeverEnding StoryåÊ,99,284
+Dark CityåÊ,222,624
+The DuchessåÊ,194,140
+The HoneymoonersåÊ            ,15,31
+Return to OzåÊ,56,208
+The Newton BoysåÊ,63,39
+Case 39åÊ,167,174
+Suspect ZeroåÊ,101,139
+Martian ChildåÊ,118,71
+Spy Kids: All the Time in the World in 4DåÊ,76,83
+Money MonsteråÊ,268,103
+Formula 51åÊ,95,167
+FlawlessåÊ,78,105
+MindhuntersåÊ,127,226
+What Just HappenedåÊ,137,111
+The StatementåÊ,54,52
+The Magic FluteåÊ,38,19
+Paul Blart: Mall CopåÊ,167,201
+Freaky FridayåÊ,129,271
+The 40-Year-Old VirginåÊ,217,546
+Shakespeare in LoveåÊ,134,752
+A Walk Among the TombstonesåÊ,253,207
+Kindergarten CopåÊ,46,109
+Pineapple ExpressåÊ,232,374
+Ever After: A Cinderella StoryåÊ,92,345
+Open RangeåÊ,153,494
+FlatlinersåÊ,49,148
+It's Always Sunny in PhiladelphiaåÊ            ,79,151
+A Bridge Too FaråÊ,56,210
+Red EyeåÊ,224,673
+Final Destination 2åÊ,175,472
+"O Brother, Where Art Thou?åÊ",197,862
+LegionåÊ,226,315
+Pain & GainåÊ,335,287
+In Good CompanyåÊ,157,214
+ClockstoppersåÊ,69,94
+SilveradoåÊ,46,149
+BrothersåÊ,217,201
+Agent Cody Banks 2: Destination LondonåÊ,55,44
+New Year's EveåÊ,200,134
+Original SinåÊ,93,181
+The RavenåÊ,265,190
+Welcome to MooseportåÊ,82,95
+Highlander: The Final DimensionåÊ,32,79
+Blood and WineåÊ,42,55
+Snow White: A Tale of TerroråÊ,22,69
+The Curse of the Jade ScorpionåÊ,116,178
+Accidental LoveåÊ,56,28
+FlipperåÊ,23,26
+Self/lessåÊ,178,126
+The Constant GardeneråÊ,226,568
+The Passion of the ChriståÊ,406,2814
+Mrs. DoubtfireåÊ,57,223
+Rain ManåÊ,100,331
+Gran TorinoåÊ,366,871
+W.åÊ,242,320
+TakenåÊ,309,974
+The Best of MeåÊ,85,99
+The BodyguardåÊ,48,126
+Schindler's ListåÊ,174,1273
+The HelpåÊ,373,460
+The Fifth EstateåÊ,224,105
+Scooby-Doo 2: Monsters UnleashedåÊ,94,149
+ViyåÊ,25,18
+Freddy vs. JasonåÊ,273,885
+The Face of an AngelåÊ,78,25
+Jimmy Neutron: Boy GeniusåÊ,66,118
+CloverfieldåÊ,459,2192
+Teenage Mutant Ninja Turtles II: The Secret of the OozeåÊ,68,93
+The UntouchablesåÊ,123,418
+No Country for Old MenåÊ,488,1518
+Ride AlongåÊ,146,109
+Bridget Jones's DiaryåÊ,168,571
+ChocolatåÊ,152,498
+"Legally Blonde 2: Red, White & BlondeåÊ",133,297
+Parental GuidanceåÊ,139,107
+No Strings AttachedåÊ,245,178
+TombstoneåÊ,84,439
+Romeo Must DieåÊ,70,365
+The OmenåÊ,154,310
+Final Destination 3åÊ,216,571
+The Lucky OneåÊ,170,106
+Bridge to TerabithiaåÊ,181,522
+Finding NeverlandåÊ,226,632
+A Madea ChristmasåÊ,24,27
+The GreyåÊ,408,755
+Hide and SeekåÊ,180,450
+Anchorman: The Legend of Ron BurgundyåÊ,181,577
+GoodfellasåÊ,192,989
+Agent Cody BanksåÊ,79,104
+Nanny McPheeåÊ,128,181
+ScarfaceåÊ,147,851
+Nothing to LoseåÊ,49,92
+The Last EmperoråÊ,75,133
+ContrabandåÊ,270,161
+Money TalksåÊ,29,41
+There Will Be BloodåÊ,398,1107
+The Wild Thornberrys MovieåÊ,38,33
+Rugrats Go WildåÊ,45,35
+Undercover BrotheråÊ,81,179
+The Sisterhood of the Traveling PantsåÊ,88,223
+Kiss of the DragonåÊ,116,254
+The House BunnyåÊ,129,126
+Beauty ShopåÊ,72,59
+Million Dollar ArmåÊ,151,96
+The GiveråÊ,198,260
+What a Girl WantsåÊ,66,194
+Jeepers Creepers IIåÊ,167,316
+Good Luck ChuckåÊ,127,150
+Cradle 2 the GraveåÊ,109,185
+The HoursåÊ,174,660
+She's the ManåÊ,91,261
+Mr. Bean's HolidayåÊ,151,235
+Anacondas: The Hunt for the Blood OrchidåÊ,94,144
+Blood TiesåÊ,91,41
+August RushåÊ,148,364
+ElizabethåÊ,141,409
+Bride of ChuckyåÊ,114,292
+Tora! Tora! Tora!åÊ,79,159
+Spice WorldåÊ,33,261
+The SitteråÊ,146,114
+Dance FlickåÊ,83,50
+The Shawshank RedemptionåÊ,199,4144
+Crocodile Dundee in Los AngelesåÊ,71,119
+KingpinåÊ,62,185
+The GambleråÊ,175,145
+August: Osage CountyåÊ,322,285
+Ice PrincessåÊ,67,81
+A Lot Like LoveåÊ,112,161
+Eddie the EagleåÊ,216,119
+He Got GameåÊ,48,109
+Don Juan DeMarcoåÊ,44,117
+Shaun the SheepåÊ            ,12,12
+Dear JohnåÊ,162,186
+The LosersåÊ,213,165
+Don't Be Afraid of the DarkåÊ,298,250
+WaråÊ,119,166
+Punch-Drunk LoveåÊ,251,888
+EuroTripåÊ,92,316
+Half Past DeadåÊ,58,132
+Unaccompanied MinorsåÊ,73,56
+"Bright Lights, Big CityåÊ",28,37
+The Adventures of PinocchioåÊ,19,22
+The Greatest Game Ever PlayedåÊ,86,106
+The BoxåÊ,287,376
+The RuinsåÊ,233,351
+The Next Best ThingåÊ,86,162
+My Soul to TakeåÊ,160,136
+The Girl Next DooråÊ,126,513
+Maximum RiskåÊ,50,68
+Stealing HarvardåÊ,52,92
+LegendåÊ,260,174
+Hot RodåÊ,111,149
+Shark Night 3DåÊ,231,130
+Angela's AshesåÊ,99,163
+Draft DayåÊ,159,113
+LifeforceåÊ,159,189
+The Powerpuff GirlsåÊ            ,7,60
+The ConspiratoråÊ,199,135
+Lords of DogtownåÊ,119,194
+The 33åÊ,120,56
+Big Trouble in Little ChinaåÊ,180,331
+A Perfect PlanåÊ,58,11
+WarrioråÊ,317,514
+Michael CollinsåÊ,44,93
+GettysburgåÊ,22,256
+Stop-LossåÊ,143,99
+AbandonåÊ,72,157
+Brokedown PalaceåÊ,70,187
+The PossessionåÊ,264,162
+Mrs. WinterbourneåÊ,20,50
+Straw DogsåÊ,190,140
+The HoaxåÊ,142,74
+Stone ColdåÊ,27,62
+The RoadåÊ,355,504
+SheenaåÊ,21,52
+UnderclassmanåÊ,31,26
+Say It Isn't SoåÊ,87,91
+The World's Fastest IndianåÊ,126,251
+Snakes on a PlaneåÊ,285,1033
+Tank GirlåÊ,60,173
+King's RansomåÊ,23,20
+BlindnessåÊ,229,300
+BloodRayneåÊ,143,471
+CarnageåÊ,376,181
+Where the Truth LiesåÊ,97,128
+Cirque du Soleil: Worlds AwayåÊ,73,35
+Without LimitsåÊ,28,57
+Me and Orson WellesåÊ,160,69
+The Best OfferåÊ,124,131
+Bad Lieutenant: Port of Call New OrleansåÊ,280,212
+A Turtle's Tale: Sammy's AdventuresåÊ,56,22
+Little White LiesåÊ,118,48
+Love RanchåÊ,49,17
+The True Story of Puss'N BootsåÊ,4,24
+Space DogsåÊ,16,8
+The CounseloråÊ,336,431
+IroncladåÊ,91,103
+WaterlooåÊ,16,76
+Kung Fu KilleråÊ,65,26
+Red SkyåÊ,7,11
+Dangerous LiaisonsåÊ,51,143
+On the RoadåÊ,252,128
+Star Trek IV: The Voyage HomeåÊ,106,219
+Rocky BalboaåÊ,285,962
+Point BreakåÊ,163,163
+Scream 2åÊ,195,488
+Jane Got a GunåÊ,123,56
+Think Like a Man TooåÊ,52,38
+The Whole Nine YardsåÊ,129,318
+FootlooseåÊ,60,113
+Old SchoolåÊ,123,404
+The Fisher KingåÊ,84,170
+I Still Know What You Did Last SummeråÊ,125,418
+Return to MeåÊ,106,275
+Zack and Miri Make a PornoåÊ,247,243
+Nurse BettyåÊ,156,263
+The Men Who Stare at GoatsåÊ,271,268
+Double TakeåÊ,45,50
+"Girl, InterruptedåÊ",133,385
+Win a Date with Tad Hamilton!åÊ,84,140
+Muppets from SpaceåÊ,70,100
+The WizåÊ,32,150
+Ready to RumbleåÊ,51,101
+Play It to the BoneåÊ,73,59
+I Don't Know How She Does ItåÊ,169,68
+Piranha 3DåÊ,365,374
+Beyond the SeaåÊ,113,248
+Meet the DeedlesåÊ,18,37
+The Princess and the CobbleråÊ,10,47
+The Bridge of San Luis ReyåÊ,16,50
+FasteråÊ,196,157
+Howl's Moving CastleåÊ,212,330
+ZombielandåÊ,445,553
+King KongåÊ,446,2618
+The WaterboyåÊ,108,300
+Star Wars: Episode V - The Empire Strikes BackåÊ,223,900
+Bad BoysåÊ,63,203
+The Naked Gun 2å_: The Smell of FearåÊ,43,87
+Final DestinationåÊ,211,674
+The Ides of MarchåÊ,421,288
+Pitch BlackåÊ,214,805
+Someone Like You...åÊ,92,167
+HeråÊ,574,748
+Eddie the EagleåÊ,216,119
+Joy RideåÊ,140,339
+The Adventurer: The Curse of the Midas BoxåÊ,28,32
+Anywhere But HereåÊ,36,103
+Chasing LibertyåÊ,65,129
+The CrewåÊ,53,47
+HaywireåÊ,394,397
+Jaws: The RevengeåÊ,80,383
+Marvin's RoomåÊ,45,71
+The LongshotsåÊ,47,19
+The End of the AffairåÊ,90,165
+Harley Davidson and the Marlboro ManåÊ,30,81
+In the Valley of ElahåÊ,232,224
+Coco Before ChanelåÊ,165,65
+ForsakenåÊ,45,49
+ChÌ©riåÊ,155,43
+RogueåÊ            ,6,23
+Vanity FairåÊ,118,148
+Bodyguards and AssassinsåÊ,55,33
+1408åÊ,314,580
+SpaceballsåÊ,103,273
+The Water DivineråÊ,183,185
+GhoståÊ,77,252
+There's Something About MaryåÊ,171,611
+The Santa ClauseåÊ,64,111
+The RookieåÊ,92,174
+The Game PlanåÊ,112,83
+The Bridges of Madison CountyåÊ,69,192
+The AnimalåÊ,75,132
+GandhiåÊ,95,256
+The Hundred-Foot JourneyåÊ,180,185
+The NetåÊ,53,166
+I Am SamåÊ,129,431
+Son of GodåÊ,61,174
+UnderworldåÊ,226,806
+DerailedåÊ,116,375
+The Informant!åÊ,248,175
+ShadowlandsåÊ,23,87
+Deuce Bigalow: European GigoloåÊ,98,166
+Delivery ManåÊ,168,95
+Victor FrankensteinåÊ,159,91
+Our Kind of TraitoråÊ,134,21
+Saving SilvermanåÊ,97,201
+Diary of a Wimpy Kid: Dog DaysåÊ,88,35
+Summer of SamåÊ,85,354
+Jay and Silent Bob Strike BackåÊ,181,867
+The IslandåÊ,257,899
+The Glass HouseåÊ,95,200
+"Hail, Caesar!åÊ",423,302
+Josie and the PussycatsåÊ,93,242
+HomefrontåÊ,203,154
+The Little VampireåÊ,38,38
+I Heart HuckabeesåÊ,183,381
+RoboCop 3åÊ,75,180
+Megiddo: The Omega Code 2åÊ,18,111
+Darling LiliåÊ,22,50
+Dudley Do-RightåÊ,41,77
+The Transporter RefueledåÊ,148,121
+The LibertineåÊ,111,260
+Black BookåÊ,231,232
+Joyeux NoelåÊ,115,147
+Hit and RunåÊ,176,104
+Mad MoneyåÊ,98,54
+Before I Go to SleepåÊ,149,105
+SorcereråÊ,84,116
+StoneåÊ,138,135
+MoliÌ¬reåÊ,78,27
+Out of the FurnaceåÊ,288,231
+Michael ClaytonåÊ,299,363
+My Fellow AmericansåÊ,27,71
+Arlington RoadåÊ,155,591
+UnderdogsåÊ,82,22
+To Rome with LoveåÊ,275,163
+FirefoxåÊ,43,98
+South Park: Bigger Longer & UncutåÊ,163,928
+Death at a FuneralåÊ,168,199
+Teenage Mutant Ninja Turtles IIIåÊ,60,87
+HardballåÊ,85,131
+Silver Linings PlaybookåÊ,539,692
+Freedom WritersåÊ,84,235
+For Colored GirlsåÊ,75,73
+The TransporteråÊ,171,460
+Never Back DownåÊ,140,184
+The Rage: Carrie 2åÊ,85,253
+The BacheloråÊ            ,5,33
+Away We GoåÊ,217,115
+Swing VoteåÊ,131,79
+Moonlight MileåÊ,111,147
+Tinker Tailor Soldier SpyåÊ,466,517
+MollyåÊ,16,40
+The BeaveråÊ,276,148
+The Best Little Whorehouse in TexasåÊ,11,48
+eXistenZåÊ,196,527
+Raiders of the Lost ArkåÊ,234,771
+Home Alone 2: Lost in New YorkåÊ,37,189
+Close Encounters of the Third KindåÊ,171,339
+PulseåÊ,148,258
+Beverly Hills Cop IIåÊ,50,95
+Bringing Down the HouseåÊ,121,236
+The Silence of the LambsåÊ,185,916
+Wayne's WorldåÊ,61,176
+Jackass 3DåÊ,156,81
+Jaws 2åÊ,75,265
+Beverly Hills ChihuahuaåÊ,100,99
+The ConjuringåÊ,511,807
+Are We There Yet?åÊ,75,149
+TammyåÊ,148,144
+DisturbiaåÊ,253,491
+School of RockåÊ,204,479
+Mortal KombatåÊ,72,283
+Wicker ParkåÊ,98,298
+White ChicksåÊ,62,251
+The DescendantsåÊ,549,439
+HolesåÊ,106,331
+The Last SongåÊ,123,185
+12 Years a SlaveåÊ,597,695
+DrumlineåÊ,64,185
+Why Did I Get Married Too?åÊ,40,68
+Edward ScissorhandsåÊ,111,588
+Me Before YouåÊ,151,130
+Madea's Witness ProtectionåÊ,31,50
+The French ConnectionåÊ,138,280
+Bad MomsåÊ,81,46
+Date MovieåÊ,99,613
+Return to Never LandåÊ,80,79
+SelmaåÊ,364,212
+The Jungle Book 2åÊ,85,58
+BoogeymanåÊ,140,389
+PremonitionåÊ,184,337
+The Tigger MovieåÊ,89,53
+OrphanåÊ,265,383
+MaxåÊ,61,87
+Meet the BrownsåÊ            ,3,20
+Epic MovieåÊ,112,666
+Conan the BarbarianåÊ,166,337
+SpotlightåÊ,474,409
+Lakeview TerraceåÊ,165,135
+The Grudge 2åÊ,131,284
+How Stella Got Her Groove BackåÊ,29,51
+Bill & Ted's Bogus JourneyåÊ,43,117
+Man of the YearåÊ,111,236
+The Black HoleåÊ,90,230
+The AmericanåÊ,333,463
+SelenaåÊ,37,155
+Vampires SuckåÊ,122,187
+BabelåÊ,285,908
+This Is Where I Leave YouåÊ,156,145
+DoubtåÊ,293,321
+Team America: World PoliceåÊ,233,700
+Texas Chainsaw 3DåÊ,282,255
+CopycatåÊ,57,140
+Scary Movie 5åÊ,153,177
+Paint Your WagonåÊ,20,106
+MilkåÊ,324,281
+RisenåÊ,122,117
+Ghost ShipåÊ,156,474
+A Very Harold & Kumar 3D ChristmasåÊ,161,93
+Wild ThingsåÊ,69,389
+The StepfatheråÊ,121,119
+The DebtåÊ,258,165
+High FidelityåÊ,174,602
+One Missed CallåÊ,141,189
+Eye for an EyeåÊ,31,77
+The Bank JobåÊ,222,189
+Eternal Sunshine of the Spotless MindåÊ,273,1514
+You AgainåÊ,91,136
+Street KingsåÊ,190,189
+The World's EndåÊ,427,401
+Nancy DrewåÊ,93,102
+DaybreakersåÊ,292,281
+She's Out of My LeagueåÊ,180,131
+Monte CarloåÊ,94,44
+Stay AliveåÊ,112,281
+Quigley Down UnderåÊ,20,97
+Alpha and OmegaåÊ,84,84
+The CovenantåÊ,120,334
+Stick ItåÊ,90,124
+ShortsåÊ,103,37
+To Die ForåÊ,59,162
+NerveåÊ,86,35
+AppaloosaåÊ,190,202
+VampiresåÊ,114,403
+Yu-Gi-Oh! Duel MonstersåÊ            ,6,51
+PsychoåÊ,290,1040
+My Best Friend's GirlåÊ,80,100
+Endless LoveåÊ,98,76
+Georgia RuleåÊ,88,125
+Under the RainbowåÊ,13,34
+LadyhawkeåÊ,52,185
+Simon BirchåÊ,60,219
+Reign Over MeåÊ,154,231
+Into the WildåÊ,274,760
+School for ScoundrelsåÊ,110,97
+Silent Hill: Revelation 3DåÊ,173,220
+From Dusk Till DawnåÊ,165,592
+Pooh's Heffalump MovieåÊ,45,32
+Home for the HolidaysåÊ,45,76
+Kung Fu HustleåÊ,377,354
+Fired UpåÊ            ,,6
+The Country BearsåÊ,43,75
+The Kite RunneråÊ,201,230
+21 GramsåÊ,192,559
+PaparazziåÊ,77,138
+TwilightåÊ,350,1535
+A Guy ThingåÊ,81,92
+LoseråÊ,81,158
+Capitalism: A Love StoryåÊ,222,188
+The Greatest Story Ever ToldåÊ,27,100
+Secret in Their EyesåÊ,155,81
+Disaster MovieåÊ,111,359
+ArmoredåÊ,107,110
+The Man Who Knew Too LittleåÊ,34,100
+What's Your Number?åÊ,151,91
+LockoutåÊ,289,236
+EnvyåÊ,76,176
+Crank: High VoltageåÊ,150,223
+Bullets Over BroadwayåÊ,67,86
+One Night with the KingåÊ,36,177
+The Quiet AmericanåÊ,149,199
+The Weather ManåÊ,156,316
+UndisputedåÊ,64,88
+Ghost TownåÊ,210,147
+12 RoundsåÊ,113,113
+Let Me InåÊ,390,366
+3 Ninjas Kick BackåÊ,5,26
+Be Kind RewindåÊ,248,235
+Mrs Henderson PresentsåÊ,137,180
+Triple 9åÊ,214,106
+Deconstructing HarryåÊ,104,131
+Three to TangoåÊ,81,121
+BurntåÊ,175,129
+We're No AngelsåÊ,20,42
+Everyone Says I Love YouåÊ,69,140
+Death at a FuneralåÊ,168,199
+Death SentenceåÊ,166,299
+Everybody's FineåÊ,160,117
+Superbabies: Baby Geniuses 2åÊ,32,129
+The ManåÊ,72,76
+Code Name: The CleaneråÊ,53,26
+Connie and CarlaåÊ,76,117
+Sweet CharityåÊ,15,64
+Inherent ViceåÊ,401,242
+DoogalåÊ,31,114
+Battle of the YearåÊ,65,25
+PerceptionåÊ            ,26,29
+An American CarolåÊ,45,205
+Machete KillsåÊ,260,164
+WillardåÊ,129,213
+Strange WildernessåÊ,58,120
+Topsy-TurvyåÊ,103,202
+Little BoyåÊ,45,122
+A Dangerous MethodåÊ,345,190
+A Scanner DarklyåÊ,232,293
+Chasing MavericksåÊ,116,75
+Alone in the DarkåÊ,148,521
+BandslamåÊ,79,39
+BirthåÊ,167,361
+A Most Violent YearåÊ,350,180
+PasschendaeleåÊ,25,102
+Flash of GeniusåÊ,99,45
+I'm Not There.åÊ,231,230
+The Cold Light of DayåÊ,119,113
+The Brothers BloomåÊ,182,105
+"Synecdoche, New YorkåÊ",245,274
+Princess MononokeåÊ,174,570
+Bon voyageåÊ,69,53
+Can't Stop the MusicåÊ,26,74
+The PropositionåÊ,168,232
+CourageåÊ,27,20
+Marci XåÊ,28,66
+EquilibriumåÊ,146,1137
+The Children of Huang ShiåÊ,67,33
+The YardsåÊ,93,138
+The Oogieloves in the Big Balloon AdventureåÊ,28,83
+By the SeaåÊ,131,61
+SteamboyåÊ,105,79
+The Game of Their LivesåÊ,21,46
+All Good ThingsåÊ,140,67
+Rapa NuiåÊ,9,25
+CJ7åÊ,83,66
+Les couloirs du temps: Les visiteurs IIåÊ,8,16
+Dylan Dog: Dead of NightåÊ,138,75
+People I KnowåÊ,42,81
+The Doombolt ChaseåÊ            ,,
+The TempeståÊ,92,36
+RegressionåÊ,140,62
+The TouchåÊ,,
+Three Kingdoms: Resurrection of the DragonåÊ,29,29
+ShatteredåÊ,29,118
+ZambeziaåÊ,39,11
+RamanujanåÊ,2,1
+Dwegons and LeprechaunsåÊ,2,3
+Hands of StoneåÊ,,1
+SurvivoråÊ,64,101
+The Frozen GroundåÊ,120,133
+The Painted VeilåÊ,143,220
+The Baader Meinhof ComplexåÊ,160,110
+Dances with WolvesåÊ,92,382
+Bad TeacheråÊ,286,296
+Sea of LoveåÊ,43,112
+A Cinderella StoryåÊ,69,232
+ScreamåÊ,242,869
+Thir13en GhostsåÊ,149,478
+The ShiningåÊ,253,1320
+Back to the FutureåÊ,198,809
+House on Haunted HillåÊ,147,536
+I Can Do Bad All by MyselfåÊ,36,59
+Fight ValleyåÊ,6,6
+The SwitchåÊ,181,120
+Just MarriedåÊ,97,205
+The Devil's DoubleåÊ,167,125
+"Gone, Baby, GoneåÊ            ",,
+Thomas and the Magic RailroadåÊ,47,119
+The CraziesåÊ,308,251
+Spirited AwayåÊ,246,902
+FirestormåÊ,23,12
+The BountyåÊ,29,95
+The Book ThiefåÊ,252,236
+Sex DriveåÊ,102,103
+Leap YearåÊ,134,181
+The Fall of the Roman EmpireåÊ,30,91
+Take Me Home TonightåÊ,136,83
+Won't Back DownåÊ,102,37
+The NutcrackeråÊ,10,15
+Kansas CityåÊ,31,44
+IndignationåÊ,63,3
+The Amityville HorroråÊ,220,518
+Adaptation.åÊ,241,710
+Land of the DeadåÊ,252,662
+Out of InfernoåÊ,23,4
+Fear and Loathing in Las VegasåÊ,156,648
+The Invention of LyingåÊ,192,287
+NeighborsåÊ,351,397
+The MaskåÊ,57,213
+BigåÊ,99,204
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of KazakhstanåÊ,343,1198
+Legally BlondeåÊ,163,548
+Star Trek III: The Search for SpockåÊ,110,192
+The Exorcism of Emily RoseåÊ,233,522
+Deuce Bigalow: Male GigoloåÊ,91,202
+Left BehindåÊ,169,374
+The Family StoneåÊ,142,475
+Barbershop 2: Back in BusinessåÊ,50,69
+Bad SantaåÊ,195,485
+Austin Powers: International Man of MysteryåÊ,129,425
+My Big Fat Greek Wedding 2åÊ,156,103
+Diary of a Wimpy Kid: Rodrick RulesåÊ,103,45
+PredatoråÊ,217,629
+AmadeusåÊ,134,549
+Prom NightåÊ,146,260
+Mean GirlsåÊ,159,554
+Under the Tuscan SunåÊ,111,317
+Gosford ParkåÊ,187,651
+The O.C.åÊ            ,20,281
+Peggy Sue Got MarriedåÊ,44,96
+Birdman or (The Unexpected Virtue of Ignorance)åÊ,588,1101
+Blue JasmineåÊ,415,384
+United 93åÊ,279,828
+HoneyåÊ,97,144
+GloryåÊ,60,365
+Spy HardåÊ,27,76
+The FogåÊ,212,335
+Soul SurferåÊ,110,114
+Catch-22åÊ,45,124
+Observe and ReportåÊ,190,248
+Conan the DestroyeråÊ,77,109
+Raging BullåÊ,151,494
+Love HappensåÊ,111,77
+Young Sherlock HolmesåÊ,64,86
+FameåÊ,134,82
+127 HoursåÊ,450,440
+Small Time CrooksåÊ,128,192
+Center StageåÊ,68,210
+Love the CoopersåÊ,97,68
+Catch That KidåÊ,54,49
+Life as a HouseåÊ,99,359
+Steve JobsåÊ,412,307
+"I Love You, Beth CooperåÊ",107,80
+Youth in RevoltåÊ,192,105
+The Legend of the Lone RangeråÊ,25,41
+The Tailor of PanamaåÊ,104,213
+Blow OutåÊ,120,149
+GetawayåÊ,146,109
+The Ice StormåÊ,124,287
+And So It GoesåÊ,107,48
+Troop Beverly HillsåÊ,11,35
+Being JuliaåÊ,93,112
+9å_ WeeksåÊ,38,118
+DragonslayeråÊ,60,102
+The Last StationåÊ,184,82
+Ed WoodåÊ,148,420
+Labor DayåÊ,217,111
+Mongol: The Rise of Genghis KhanåÊ,160,165
+RocknRollaåÊ,209,192
+MegaforceåÊ,40,54
+HamletåÊ,85,224
+Mao's Last DanceråÊ,83,53
+Midnight SpecialåÊ,263,156
+Anything ElseåÊ,128,155
+The Railway ManåÊ,186,119
+UnforgettableåÊ            ,14,44
+The White RibbonåÊ,292,193
+RestorationåÊ,15,6
+The WraithåÊ,70,100
+The Salton SeaåÊ,79,180
+Metallica Through the NeveråÊ,103,56
+The InformersåÊ,97,93
+CarlosåÊ            ,108,36
+I Come with the RainåÊ,59,20
+One Man's HeroåÊ,10,42
+Day of the DeadåÊ,184,419
+I Am WrathåÊ,23,50
+RenaissanceåÊ,112,90
+ForsakenåÊ,45,49
+Red SonjaåÊ,59,95
+Red LightsåÊ,195,140
+SuperbadåÊ,256,555
+Madea Goes to JailåÊ,44,45
+WolvesåÊ,59,34
+Step Up 2: The StreetsåÊ,97,108
+Hoodwinked!åÊ,142,247
+Hotel RwandaåÊ,187,609
+HitmanåÊ,193,376
+Black NativityåÊ,40,17
+The PrinceåÊ,46,101
+City of GhostsåÊ,38,67
+The OthersåÊ,239,1109
+AliensåÊ,250,1076
+My Fair LadyåÊ,82,258
+I Know What You Did Last SummeråÊ,140,419
+Let's Be CopsåÊ,129,147
+SidewaysåÊ,285,835
+BeerfeståÊ,91,177
+HalloweenåÊ,318,1191
+HeroåÊ,283,841
+Good Boy!åÊ,52,48
+The Best Man HolidayåÊ,56,64
+Smokin' AcesåÊ,186,482
+Saw 3D: The Final ChapteråÊ,178,279
+40 Days and 40 NightsåÊ,140,207
+TRON: LegacyåÊ,469,665
+A Night at the RoxburyåÊ,63,239
+BeastlyåÊ,148,129
+The Hills Have EyesåÊ,265,855
+Dickie Roberts: Former Child StaråÊ,75,117
+"McFarland, USAåÊ",113,83
+Lottery TicketåÊ,62,30
+ATLåÊ,54,92
+Pitch PerfectåÊ,223,250
+Summer CatchåÊ,50,107
+A Simple PlanåÊ,125,416
+TheyåÊ,81,271
+Larry the Cable Guy: Health InspectoråÊ,37,112
+The Adventures of Elmo in GrouchlandåÊ,44,37
+Brooklyn's FineståÊ,197,138
+55 Days at PekingåÊ,15,50
+Evil DeadåÊ,543,789
+My Life in RuinsåÊ,112,75
+American DreamzåÊ,153,217
+Superman IV: The Quest for PeaceåÊ,94,259
+How She MoveåÊ,62,18
+Running ScaredåÊ,157,419
+Bobby Jones: Stroke of GeniusåÊ,35,64
+Shanghai SurpriseåÊ,21,28
+The IllusioniståÊ,236,645
+RoaråÊ,50,27
+Veronica GuerinåÊ,106,113
+Escobar: Paradise LoståÊ,106,39
+Southland TalesåÊ,173,238
+Dragon HuntersåÊ,41,39
+Damnation AlleyåÊ,41,71
+The ApparitionåÊ,145,108
+My GirlåÊ,31,115
+Fur: An Imaginary Portrait of Diane ArbusåÊ,105,97
+The IllusioniståÊ,236,645
+Wall StreetåÊ,114,219
+Sense and SensibilityåÊ,69,196
+Becoming JaneåÊ,150,151
+Sydney WhiteåÊ,72,50
+House of Sand and FogåÊ,158,469
+Dead Poets SocietyåÊ,96,491
+Dumb & DumberåÊ,84,438
+When Harry Met Sally...åÊ,114,273
+The VerdictåÊ,79,154
+Road TripåÊ,103,302
+Varsity BluesåÊ,67,267
+The ArtiståÊ,576,583
+The UnbornåÊ,178,230
+Moonrise KingdomåÊ,487,377
+The Texas Chainsaw Massacre: The BeginningåÊ,196,366
+The Young MessiahåÊ,24,30
+The Master of DisguiseåÊ,56,307
+Pan's LabyrinthåÊ,406,1083
+The MessengersåÊ            ,3,57
+See Spot RunåÊ,51,53
+Baby BoyåÊ,41,81
+The RoommateåÊ,138,115
+Joe DirtåÊ,78,205
+Double ImpactåÊ,40,72
+Hot FuzzåÊ,285,687
+The WomenåÊ,124,125
+Vicky Cristina BarcelonaåÊ,275,365
+Arn: The Knight TemplaråÊ,34,54
+Bad MomsåÊ,81,46
+Boys and GirlsåÊ,67,134
+White OleanderåÊ,103,171
+Jennifer's BodyåÊ,300,294
+Drowning MonaåÊ,84,148
+Radio DaysåÊ,64,91
+Left BehindåÊ,169,374
+Remember MeåÊ,158,361
+How to DealåÊ,46,95
+My Stepmother Is an AlienåÊ,15,55
+PhiladelphiaåÊ,68,261
+The Thirteenth FlooråÊ,111,302
+The CookoutåÊ,21,20
+MeteoråÊ,42,90
+DuetsåÊ,65,123
+Hollywood EndingåÊ,109,148
+Detroit Rock CityåÊ,42,194
+HighlanderåÊ,112,316
+Things We Lost in the FireåÊ,146,88
+SteelåÊ,36,62
+The ImmigrantåÊ,230,70
+The White CountessåÊ,64,78
+TranceåÊ,393,212
+Soul PlaneåÊ,75,150
+Welcome to the SticksåÊ,78,49
+GoodåÊ,67,42
+Enter the VoidåÊ,216,192
+VampsåÊ,54,42
+Hachi: A Dog's TaleåÊ,84,304
+ZuluåÊ,69,43
+The HomesmanåÊ,208,132
+Juwanna MannåÊ,32,40
+LilyhammeråÊ            ,20,79
+AraratåÊ,78,180
+MadisonåÊ,21,26
+Slow BurnåÊ,40,24
+WasabiåÊ,40,91
+SlitheråÊ,251,352
+Beverly Hills CopåÊ,94,175
+Home AloneåÊ,102,305
+3 Men and a BabyåÊ,21,42
+TootsieåÊ,94,194
+Top GunåÊ,173,388
+"Crouching Tiger, Hidden DragonåÊ",287,1641
+American BeautyåÊ,176,2715
+The King's SpeechåÊ,479,636
+TwinsåÊ,27,79
+Scream: The TV SeriesåÊ            ,20,68
+The Yellow HandkerchiefåÊ,60,36
+The Color PurpleåÊ,70,199
+Tidal WaveåÊ,43,25
+Ben-HuråÊ,1,1
+The Imitation GameåÊ,454,608
+Private BenjaminåÊ,25,60
+Coal Miner's DaughteråÊ,46,84
+Diary of a Wimpy KidåÊ,111,103
+MamaåÊ,393,304
+HalloweenåÊ,318,1191
+National Lampoon's VacationåÊ,55,183
+Bad GrandpaåÊ,157,162
+The QueenåÊ,280,421
+BeetlejuiceåÊ,109,306
+Why Did I Get Married?åÊ,41,100
+Little WomenåÊ,27,132
+The Woman in BlackåÊ,462,509
+When a Stranger CallsåÊ,152,468
+Big Fat LiaråÊ,69,99
+The Deer HunteråÊ,140,1026
+Wag the DogåÊ,130,218
+The Lizzie McGuire MovieåÊ,66,172
+SnitchåÊ,238,122
+KrampusåÊ,198,181
+The FacultyåÊ,154,502
+What's Love Got to Do with ItåÊ,19,59
+Cop LandåÊ,131,207
+Not Another Teen MovieåÊ,97,393
+End of WatchåÊ,355,336
+AlohaåÊ,138,172
+The SkullsåÊ,102,193
+The Theory of EverythingåÊ,419,388
+Malibu's Most WantedåÊ,37,87
+Where the Heart IsåÊ,78,240
+Lawrence of ArabiaåÊ,181,559
+Halloween IIåÊ,220,491
+WildåÊ,349,252
+The Last House on the LeftåÊ,241,279
+The Wedding DateåÊ,103,250
+Halloween: ResurrectionåÊ,151,614
+Clash of the TitansåÊ,344,637
+The Princess BrideåÊ,185,718
+The Great DebatersåÊ,112,118
+DriveåÊ,676,1264
+Confessions of a Teenage Drama QueenåÊ,74,105
+The Object of My AffectionåÊ,65,132
+28 Weeks LateråÊ,274,713
+When the Game Stands TallåÊ,50,64
+Because of Winn-DixieåÊ,96,88
+Love & BasketballåÊ,68,116
+Grosse Pointe BlankåÊ,111,296
+All About SteveåÊ,128,143
+Book of Shadows: Blair Witch 2åÊ,160,457
+The CraftåÊ,93,195
+Match PointåÊ,278,735
+Ramona and BeezusåÊ,81,52
+The Remains of the DayåÊ,58,156
+Boogie NightsåÊ,153,560
+Nowhere to RunåÊ,25,55
+FlickaåÊ,46,76
+The Hills Have Eyes IIåÊ,161,211
+Urban Legends: Final CutåÊ,108,227
+Tuck EverlastingåÊ,69,127
+The MarineåÊ,78,284
+KeanuåÊ,129,84
+Country StrongåÊ,135,114
+Disturbing BehavioråÊ,96,237
+The Place Beyond the PinesåÊ,417,376
+The November ManåÊ,172,152
+Eye of the BeholderåÊ,88,415
+The Hurt LockeråÊ,388,876
+FirestarteråÊ,45,96
+Killing Them SoftlyåÊ,414,369
+A Most Wanted ManåÊ,291,158
+Freddy Got FingeredåÊ,97,619
+The Pirates Who Don't Do Anything: A VeggieTales MovieåÊ,37,22
+U2 3DåÊ,68,31
+Highlander: EndgameåÊ,90,355
+IdlewildåÊ,81,91
+One DayåÊ,221,181
+Whip ItåÊ,230,118
+Knockaround GuysåÊ,57,135
+ConfidenceåÊ,119,144
+The MuseåÊ,97,140
+De-LovelyåÊ,119,226
+New York StoriesåÊ,42,55
+Barney's Great AdventureåÊ,24,53
+The Man with the Iron FistsåÊ,208,224
+Home FriesåÊ,42,88
+Here on EarthåÊ,44,162
+BrazilåÊ,230,513
+Raise Your VoiceåÊ,46,212
+The Dead ZoneåÊ            ,18,77
+The Big LebowskiåÊ,249,1028
+Black Snake MoanåÊ,197,200
+Dark BlueåÊ,71,125
+A Mighty HeartåÊ,190,118
+Whatever It TakesåÊ,50,89
+Boat TripåÊ,63,132
+The Importance of Being EarneståÊ,104,141
+The Love LetteråÊ,,56
+HootåÊ,49,66
+In BrugesåÊ,300,513
+PeeplesåÊ,43,33
+The RockeråÊ,132,104
+Post GradåÊ,97,53
+Promised LandåÊ,242,102
+Whatever WorksåÊ,218,169
+The In CrowdåÊ,49,85
+Three BurialsåÊ,172,199
+Jakob the LiaråÊ,68,89
+Kiss Kiss Bang BangåÊ,223,336
+Idle HandsåÊ,59,198
+Mulholland DriveåÊ,252,1768
+Blood and ChocolateåÊ,106,190
+You Will Meet a Tall Dark StrangeråÊ,223,108
+Never Let Me GoåÊ,328,320
+The CompanyåÊ            ,9,39
+TranssiberianåÊ,150,162
+The Clan of the Cave BearåÊ,21,62
+Crazy in AlabamaåÊ,28,71
+Funny GamesåÊ,250,436
+ListeningåÊ,17,13
+Felicia's JourneyåÊ,95,83
+MetropolisåÊ,260,413
+District B13åÊ,141,157
+Things to Do in Denver When You're DeadåÊ,52,144
+The AssassinåÊ,205,87
+Buffalo SoldiersåÊ,109,111
+The ReturnåÊ,103,172
+Ong-bak 2åÊ,110,72
+CenturionåÊ,195,201
+Silent TriggeråÊ,14,29
+The Midnight Meat TrainåÊ,177,209
+Winnie MandelaåÊ,17,15
+The Son of No OneåÊ,62,41
+All the Queen's MenåÊ,19,40
+The Good NightåÊ,50,39
+Bathory: Countess of BloodåÊ,25,32
+KhumbaåÊ,39,12
+AutomataåÊ,136,134
+Dungeons & Dragons: Wrath of the Dragon GodåÊ,26,108
+Chiamatemi Francesco - Il Papa della genteåÊ,4,4
+Shinjuku IncidentåÊ,53,53
+PandaemoniumåÊ,22,32
+Groundhog DayåÊ,147,609
+Magic Mike XXLåÊ,222,135
+Romeo + JulietåÊ,106,506
+Sarah's KeyåÊ,136,73
+FreedomåÊ,5,13
+UnforgivenåÊ,131,495
+ManderlayåÊ,140,81
+Slumdog MillionaireåÊ,418,1017
+Fatal AttractionåÊ,94,201
+Pretty WomanåÊ,82,271
+Towering InfernoåÊ            ,,
+Crocodile Dundee IIåÊ,32,62
+Broken HorsesåÊ,22,20
+Born on the Fourth of JulyåÊ,72,173
+Cool RunningsåÊ,39,97
+My Bloody ValentineåÊ,264,268
+The PossessionåÊ,264,162
+First BloodåÊ,145,376
+Stomp the YardåÊ,86,162
+The Spy Who Loved MeåÊ,112,275
+Ghost HuntersåÊ            ,17,57
+Urban LegendåÊ,101,426
+Dangerous LiaisonsåÊ,51,143
+Good DeedsåÊ,42,43
+White FangåÊ,10,31
+SuperstaråÊ,43,160
+The Iron LadyåÊ,331,350
+Jonah: A VeggieTales MovieåÊ,38,78
+Poetic JusticeåÊ,12,31
+All About the BenjaminsåÊ,40,33
+Vampire in BrooklynåÊ,34,53
+Exorcist II: The HereticåÊ,82,252
+An American HauntingåÊ,125,747
+My Boss's DaughteråÊ,56,123
+A Perfect GetawayåÊ,160,215
+Our Family WeddingåÊ,71,20
+Dead Man on CampusåÊ,37,106
+Tea with MussoliniåÊ,62,157
+ThinneråÊ,73,122
+"New York, New YorkåÊ",59,75
+CrooklynåÊ,25,39
+I Think I Love My WifeåÊ,97,55
+Jason XåÊ,205,673
+Big Fat LiaråÊ,69,99
+BobbyåÊ,195,270
+Head Over HeelsåÊ,61,104
+Fun SizeåÊ,77,32
+The Diving Bell and the ButterflyåÊ,259,175
+Little ChildrenåÊ,251,320
+GossipåÊ,63,112
+A Walk on the MoonåÊ,47,114
+Catch a FireåÊ,108,59
+Soul SurvivorsåÊ,64,181
+Jefferson in ParisåÊ,20,27
+Easy VirtueåÊ,135,79
+CaravansåÊ,2,8
+Mr. TurneråÊ,262,165
+Wild GrassåÊ,129,31
+Amen.åÊ,69,55
+Reign of AssassinsåÊ,50,34
+The Lucky OnesåÊ,57,36
+MargaretåÊ,116,119
+Stan HelsingåÊ,45,66
+FlippedåÊ,87,104
+Brokeback MountainåÊ,357,2254
+Teenage Mutant Ninja TurtlesåÊ,348,491
+CluelessåÊ,88,248
+Far from HeavenåÊ,181,378
+Hot Tub Time Machine 2åÊ,107,96
+DekalogåÊ            ,53,37
+QuillsåÊ,132,314
+Seven PsychopathsåÊ,401,284
+The Caveman's ValentineåÊ,58,59
+The BorderåÊ            ,1,2
+DownfallåÊ,192,564
+The Sea InsideåÊ,157,140
+Under the SkinåÊ,454,616
+"Good Morning, VietnamåÊ",62,131
+The Last GodfatheråÊ,4,17
+Justin Bieber: Never Say NeveråÊ,84,233
+Black SwanåÊ,669,1140
+RoboCopåÊ,492,630
+The Godfather: Part IIåÊ,149,650
+Save the Last DanceåÊ,101,320
+A Nightmare on Elm Street 4: The Dream MasteråÊ,102,260
+Miracles from HeavenåÊ,63,55
+"Dude, Where's My Car?åÊ",106,469
+Young GunsåÊ,50,120
+St. VincentåÊ,275,171
+About Last NightåÊ,90,42
+10 Things I Hate About YouåÊ,133,549
+The New GuyåÊ,49,159
+Loaded Weapon 1åÊ,19,72
+The ShallowsåÊ,186,139
+The Butterfly EffectåÊ,185,1100
+Snow DayåÊ,42,91
+This ChristmasåÊ,37,32
+Baby GeniusesåÊ,45,168
+The Big HitåÊ,57,168
+Harriet the SpyåÊ,25,42
+Child's Play 2åÊ,59,166
+No Good DeedåÊ,58,84
+The MiståÊ,330,1066
+Ex MachinaåÊ,489,611
+Being John MalkovichåÊ,242,840
+Two Can Play That GameåÊ,40,31
+Earth to EchoåÊ,112,149
+Crazy/BeautifulåÊ,84,169
+Letters from Iwo JimaåÊ,251,316
+The Astronaut FarmeråÊ,113,128
+WooåÊ,23,20
+RoomåÊ,421,351
+Dirty WorkåÊ,32,117
+Serial MomåÊ,52,107
+DickåÊ,81,210
+Del 1 - MÌ_n som hatar kvinnoråÊ            ,,
+Light It UpåÊ,39,39
+54åÊ,63,181
+Bubble BoyåÊ,47,181
+Birthday GirlåÊ,111,159
+21 & OveråÊ,168,84
+"Paris, je t'aimeåÊ",165,123
+Resurrecting the ChampåÊ,104,59
+AdmissionåÊ,150,87
+The Widow of Saint-PierreåÊ,61,69
+ChloeåÊ,226,166
+FaithfulåÊ,21,19
+BrothersåÊ,217,201
+Find Me GuiltyåÊ,94,108
+The Perks of Being a WallfloweråÊ,364,457
+Excessive ForceåÊ,19,23
+InfamousåÊ,129,102
+The ClaimåÊ,71,92
+The Vatican TapesåÊ,93,53
+Attack the BlockåÊ,399,297
+In the Land of Blood and HoneyåÊ,110,180
+The CallåÊ,285,266
+Operation ChromiteåÊ,2,1
+The Crocodile Hunter: Collision CourseåÊ,61,106
+I Love You Phillip MorrisåÊ,242,162
+Quest for FireåÊ,62,96
+Antwone FisheråÊ,121,159
+The Emperor's ClubåÊ,83,139
+True RomanceåÊ,122,460
+WombåÊ,88,35
+Glengarry Glen RossåÊ,120,365
+The Killer Inside MeåÊ,225,176
+Cat PeopleåÊ,130,106
+Sorority RowåÊ,167,126
+The Prisoner of ZendaåÊ,7,44
+Lars and the Real GirlåÊ,226,299
+The Boy in the Striped PajamasåÊ,185,398
+Dancer in the DarkåÊ,177,690
+Oscar and LucindaåÊ,28,50
+The FuneralåÊ,48,48
+Solitary ManåÊ,116,60
+MacheteåÊ,391,392
+Casino JackåÊ,117,51
+The Land Before TimeåÊ,24,133
+Tae Guk Gi: The Brotherhood of WaråÊ,86,224
+The Perfect GameåÊ,41,33
+The ExorciståÊ,304,1058
+JawsåÊ,385,962
+American PieåÊ,145,789
+Ernest & CelestineåÊ,99,32
+The Golden ChildåÊ,29,69
+Think Like a ManåÊ,77,62
+BarbershopåÊ,91,156
+Star Trek II: The Wrath of KhanåÊ,148,359
+Ace Ventura: Pet DetectiveåÊ,61,242
+WarGamesåÊ,84,152
+WitnessåÊ,83,175
+Act of ValoråÊ,216,349
+Step UpåÊ,107,271
+Beavis and Butt-Head Do AmericaåÊ,63,154
+Jackie BrownåÊ,140,462
+Harold & Kumar Escape from Guantanamo BayåÊ,153,165
+ChronicleåÊ,414,471
+YentlåÊ,16,68
+Time BanditsåÊ,139,177
+CrossroadsåÊ,111,578
+Project XåÊ,229,261
+PattonåÊ,112,258
+One Hour PhotoåÊ,207,605
+QuarantineåÊ,198,369
+The EyeåÊ,172,156
+Johnson Family VacationåÊ,45,49
+How HighåÊ,34,102
+The Muppet Christmas CarolåÊ,75,147
+Casino RoyaleåÊ,400,2301
+FridaåÊ,128,271
+Katy Perry: Part of MeåÊ,68,50
+The Fault in Our StarsåÊ,326,548
+RoundersåÊ,128,290
+Top FiveåÊ,161,93
+ProphecyåÊ,70,75
+Stir of EchoesåÊ,164,374
+Spartacus: War of the DamnedåÊ            ,68,302
+PhilomenaåÊ,354,233
+The Upside of AngeråÊ,125,219
+The Boys from BrazilåÊ,55,123
+AquamarineåÊ,66,150
+Paper TownsåÊ,191,160
+My Baby's DaddyåÊ,33,18
+NebraskaåÊ,433,274
+Tales from the Crypt: Demon KnightåÊ,66,104
+Max Keeble's Big MoveåÊ,37,69
+Young AdultåÊ,325,203
+CrankåÊ,170,444
+How to Be a PlayeråÊ,11,15
+Living Out LoudåÊ,24,88
+Just WrightåÊ,70,36
+Rachel Getting MarriedåÊ,232,281
+The Postman Always Rings TwiceåÊ,34,48
+Girl with a Pearl EarringåÊ,160,296
+Das BootåÊ,96,426
+The AlamoåÊ,106,267
+Sorority BoysåÊ,53,105
+About TimeåÊ,274,391
+House of Flying DaggersåÊ,248,420
+ArbitrageåÊ,288,145
+Project AlmanacåÊ,177,177
+Cadillac RecordsåÊ,81,90
+ScrewedåÊ,29,69
+FortressåÊ,58,68
+For Your ConsiderationåÊ,144,150
+CelebrityåÊ,114,161
+Running with ScissorsåÊ,132,188
+From Justin to KellyåÊ,60,304
+Girl 6åÊ,30,33
+In the CutåÊ,138,354
+Two LoversåÊ,190,98
+Last OrdersåÊ,61,99
+The HoståÊ,363,279
+The Pursuit of D.B. CooperåÊ,2,10
+RavenousåÊ,131,316
+Charlie BartlettåÊ,146,124
+The Great BeautyåÊ,280,124
+The Dangerous Lives of Altar BoysåÊ,78,122
+StokeråÊ,469,235
+2046åÊ,194,210
+Married LifeåÊ,121,50
+DumaåÊ,38,43
+OndineåÊ,123,57
+BrotheråÊ,81,133
+Welcome to CollinwoodåÊ,72,90
+Critical CareåÊ,25,12
+The Life Before Her EyesåÊ,78,78
+Darling CompanionåÊ,57,25
+TradeåÊ,69,75
+FatelessåÊ,73,45
+Breakfast of ChampionsåÊ,42,133
+"A Woman, a Gun and a Noodle ShopåÊ",101,20
+CypheråÊ,82,124
+City of Life and DeathåÊ,149,62
+HomeåÊ,165,214
+Legend of Kung Fu RabbitåÊ,5,12
+Space Battleship YamatoåÊ,44,49
+5 Days of WaråÊ,74,61
+TriangleåÊ,156,293
+10 Days in a MadhouseåÊ,1,10
+Heaven Is for RealåÊ,82,153
+SnatchåÊ,151,726
+Dancin' It's OnåÊ,3,7
+Pet SemataryåÊ,98,248
+MadadayoåÊ,25,40
+The Cry of the OwlåÊ,35,27
+A Tale of Three CitiesåÊ,6,6
+GremlinsåÊ,183,245
+Star Wars: Episode IV - A New HopeåÊ,282,1470
+Dirty GrandpaåÊ,158,166
+Doctor ZhivagoåÊ,89,255
+TrashåÊ,101,26
+High School Musical 3: Senior YearåÊ,128,171
+The FighteråÊ,410,389
+Jackass Number TwoåÊ,104,196
+My Cousin VinnyåÊ,54,201
+If I StayåÊ,141,132
+Drive HardåÊ,30,33
+Major LeagueåÊ,57,97
+St. Trinian'såÊ,56,102
+Phone BoothåÊ,216,629
+A Walk to RememberåÊ,80,962
+Dead Man WalkingåÊ,77,190
+Cruel IntentionsåÊ,101,749
+Saw VIåÊ,156,194
+History of the World: Part IåÊ,48,131
+The Secret Life of BeesåÊ,109,56
+Corky RomanoåÊ,62,100
+Raising CainåÊ,33,80
+F.I.S.T.åÊ,20,35
+Invaders from MarsåÊ,52,64
+BrooklynåÊ,351,212
+Barry LyndonåÊ,124,369
+Out ColdåÊ,37,90
+The Ladies ManåÊ,58,79
+QuartetåÊ,175,126
+TomcatsåÊ,75,121
+FrailtyåÊ,161,463
+Woman in GoldåÊ,203,147
+KinseyåÊ,188,204
+Army of DarknessåÊ,221,604
+SlackersåÊ,66,107
+What's Eating Gilbert GrapeåÊ,80,292
+The Visual Bible: The Gospel of JohnåÊ,25,74
+Vera DrakeåÊ,169,165
+The GuruåÊ,70,128
+The Perez FamilyåÊ,15,19
+Inside Llewyn DavisåÊ,535,313
+OåÊ,92,153
+Return to the Blue LagoonåÊ,14,39
+The Molly MaguiresåÊ,13,36
+Romance & CigarettesåÊ,87,69
+Copying BeethovenåÊ,78,86
+PoltergeiståÊ,223,321
+Brighton RockåÊ,136,59
+Saw VåÊ,160,262
+Machine Gun McCainåÊ,28,12
+LOLåÊ,54,111
+JindabyneåÊ,75,115
+Kabhi Alvida Naa KehnaåÊ,20,264
+An Ideal HusbandåÊ,105,132
+The Last Days on MarsåÊ,120,160
+DarknessåÊ,108,349
+2001: A Space OdysseyåÊ,285,1736
+E.T. the Extra-TerrestrialåÊ,215,515
+In the Land of WomenåÊ,81,74
+The Blue ButterflyåÊ,17,28
+There Goes My BabyåÊ,5,31
+LovesickåÊ            ,3,18
+HousefullåÊ,10,43
+September DawnåÊ,43,111
+For Greater Glory: The True Story of CristiadaåÊ,43,57
+La Famille BÌ©lieråÊ,94,27
+Good Will HuntingåÊ,161,682
+MisconductåÊ,38,50
+Saw IIIåÊ,210,614
+StripesåÊ,52,134
+Bring It OnåÊ,139,385
+The Purge: Election YearåÊ,165,94
+She's All ThatåÊ,96,389
+PreciousåÊ,323,275
+Saw IVåÊ,190,319
+White NoiseåÊ,173,403
+Madea's Family ReunionåÊ,46,137
+The Color of MoneyåÊ,59,115
+The Longest DayåÊ,53,192
+The Mighty DucksåÊ,22,46
+The GrudgeåÊ,203,911
+Happy GilmoreåÊ,77,289
+Jeepers CreepersåÊ,190,985
+Bill & Ted's Excellent AdventureåÊ,81,181
+Oliver!åÊ,56,138
+The Best Exotic Marigold HotelåÊ,264,266
+Recess: School's OutåÊ,44,38
+Mad Max Beyond ThunderdomeåÊ,117,193
+CommandoåÊ,124,437
+The BoyåÊ,159,155
+DevilåÊ,273,319
+Friday After NextåÊ,26,66
+Insidious: Chapter 3åÊ,242,183
+The Last DragonåÊ,55,109
+SnatchåÊ,151,726
+The Lawnmower ManåÊ,48,96
+Nick and Norah's Infinite PlayliståÊ,166,129
+DogmaåÊ,206,1015
+The Banger SistersåÊ,92,147
+Twilight Zone: The MovieåÊ,78,121
+Road HouseåÊ,83,201
+A Low Down Dirty ShameåÊ,8,26
+SwimfanåÊ,86,217
+Employee of the MonthåÊ,85,151
+Can't Hardly WaitåÊ,76,247
+The OutsidersåÊ,60,308
+Pete's DragonåÊ,78,6
+The Dead ZoneåÊ,112,182
+Sinister 2åÊ,189,126
+SparkleåÊ,82,48
+ValentineåÊ,120,371
+The Fourth KindåÊ,183,330
+A Prairie Home CompanionåÊ,211,280
+Sugar HillåÊ,14,35
+Invasion U.S.A.åÊ,54,90
+Roll BounceåÊ,55,75
+RushmoreåÊ,179,640
+SkylineåÊ,221,944
+The Second Best Exotic Marigold HotelåÊ,158,100
+Kit Kittredge: An American GirlåÊ,73,24
+The Perfect ManåÊ,65,104
+Mo' Better BluesåÊ,23,30
+Kung Pow: Enter the FiståÊ,63,518
+TremorsåÊ,132,248
+Wrong TurnåÊ,191,540
+The Long RidersåÊ,52,78
+The CorruptoråÊ,91,131
+MudåÊ,368,261
+Reno 911!: MiamiåÊ,89,73
+One Direction: This Is UsåÊ,83,68
+"The Goods: Live Hard, Sell HardåÊ",83,59
+Hey Arnold! The MovieåÊ,33,43
+My Week with MarilynåÊ,386,216
+The MatadoråÊ,191,234
+Love JonesåÊ,16,28
+The GiftåÊ,297,279
+End of the SpearåÊ,47,148
+Get Over ItåÊ,63,180
+Office SpaceåÊ,144,621
+Drop Dead GorgeousåÊ,77,321
+Big EyesåÊ,325,147
+Very Bad ThingsåÊ,100,481
+SleepoveråÊ,52,75
+Body DoubleåÊ,98,178
+MacGruberåÊ,163,125
+Dirty Pretty ThingsåÊ,137,203
+Movie 43åÊ,180,352
+The TouriståÊ,321,374
+Over Her Dead BodyåÊ,100,53
+Seeking a Friend for the End of the WorldåÊ,265,221
+Cedar RapidsåÊ,212,85
+BonesåÊ            ,68,173
+American History XåÊ,162,1420
+The CollectionåÊ,147,99
+Teacher's PetåÊ,33,26
+The Red ViolinåÊ,94,247
+The Straight StoryåÊ,143,414
+Deuces WildåÊ,38,92
+Bad WordsåÊ,126,119
+"Run, Fatboy, RunåÊ",168,143
+HeartbeepsåÊ,19,31
+Black or WhiteåÊ,91,57
+On the LineåÊ,46,79
+Rescue DawnåÊ,198,205
+Danny CollinsåÊ,139,100
+"Jeff, Who Lives at HomeåÊ",182,112
+I Am LoveåÊ,181,114
+Atlas Shrugged II: The StrikeåÊ,23,122
+Romeo Is BleedingåÊ,30,88
+The LimeyåÊ,111,240
+CrashåÊ,287,1624
+The House of MirthåÊ,96,181
+MaloneåÊ,27,37
+Peaceful WarrioråÊ,44,175
+Bucky Larson: Born to Be a StaråÊ,49,64
+BamboozledåÊ,57,186
+The ForeståÊ,185,127
+SphinxåÊ,2,21
+While We're YoungåÊ,270,96
+A Better LifeåÊ,94,81
+SpideråÊ,157,213
+Gun ShyåÊ,49,91
+Nicholas NicklebyåÊ,80,103
+The IcemanåÊ,221,144
+DekalogåÊ            ,53,37
+KrrishåÊ,20,110
+Cecil B. DeMentedåÊ,90,150
+Killer JoeåÊ,376,216
+The JonesesåÊ,144,88
+Owning MahownyåÊ,82,83
+The Brothers SolomonåÊ,51,46
+My Blueberry NightsåÊ,192,117
+IlluminataåÊ,36,40
+Swept AwayåÊ,71,215
+"War, Inc.åÊ",79,112
+Shaolin SocceråÊ,246,243
+The Brown BunnyåÊ,115,226
+The SwindleåÊ,34,21
+RosewateråÊ,129,37
+The Chambermaid on the TitanicåÊ,22,14
+CoriolanusåÊ,196,118
+Imaginary HeroesåÊ,73,56
+High Heels and Low LifesåÊ,43,44
+World's Greatest DadåÊ,129,129
+SeveranceåÊ,200,194
+EdmondåÊ,79,119
+Welcome to the RileysåÊ,112,56
+Police Academy: Mission to MoscowåÊ,17,103
+Blood Done Sign My NameåÊ,20,3
+"Cinco de Mayo, La BatallaåÊ",12,3
+Elsa & FredåÊ,59,18
+An Alan Smithee Film: Burn Hollywood BurnåÊ,29,85
+The Open RoadåÊ,23,11
+The Good GuyåÊ,22,20
+MotherhoodåÊ,43,23
+Free StyleåÊ,16,4
+StrangerlandåÊ,84,57
+The Janky PromotersåÊ,4,10
+Blonde AmbitionåÊ,20,34
+The Oxford MurdersåÊ,71,94
+The ReefåÊ,102,89
+EulogyåÊ,27,68
+White Noise 2: The LightåÊ,62,82
+You Got Served: Beat the WorldåÊ,5,11
+Fifty Dead Men WalkingåÊ,76,38
+Jungle ShuffleåÊ,8,2
+Adam ResurrectedåÊ,75,31
+Of Horses and MenåÊ,66,7
+It's a Wonderful AfterlifeåÊ,31,16
+The Devil's TombåÊ,32,60
+PartitionåÊ,17,27
+Good IntentionsåÊ,4,3
+"The Good, the Bad, the WeirdåÊ",152,74
+Nurse 3DåÊ,129,75
+GunlessåÊ,15,27
+AdventurelandåÊ,248,220
+The Lost CityåÊ,52,165
+Next FridayåÊ,55,84
+American HeiståÊ,30,42
+You Only Live TwiceåÊ,130,267
+PlasticåÊ,29,12
+AmouråÊ,447,190
+Poltergeist IIIåÊ,66,114
+Re-KillåÊ,18,26
+"It's a Mad, Mad, Mad, Mad WorldåÊ",61,344
+VolveråÊ,232,228
+Heavy MetalåÊ,62,147
+Gentlemen BroncosåÊ,106,54
+Richard IIIåÊ,56,88
+Into the Grizzly MazeåÊ,48,38
+KitesåÊ,41,106
+MelancholiaåÊ,439,551
+Red DogåÊ,54,80
+Jab Tak Hai JaanåÊ,50,286
+AlienåÊ,392,1110
+The Texas Chain Saw MassacreåÊ,277,826
+The RunawaysåÊ,259,129
+Fiddler on the RoofåÊ,66,150
+ThunderballåÊ,129,275
+DetentionåÊ,115,76
+Loose CannonsåÊ,81,29
+Set It OffåÊ,29,70
+The Best ManåÊ,32,79
+Child's PlayåÊ,142,281
+SickoåÊ,263,429
+The Purge: AnarchyåÊ,285,244
+Down to YouåÊ,64,173
+Harold & Kumar Go to White CastleåÊ,150,316
+The ContenderåÊ,136,370
+Boiler RoomåÊ,132,246
+Trading PlacesåÊ,71,159
+Black ChristmasåÊ,186,278
+Breakin' All the RulesåÊ,39,26
+Henry VåÊ,46,108
+The SavagesåÊ,201,127
+Chasing PapiåÊ,32,41
+The Way of the GunåÊ,117,327
+Igby Goes DownåÊ,136,238
+PCUåÊ,15,52
+The Ultimate GiftåÊ,46,81
+The Bold and the BeautifulåÊ            ,1,54
+The Ice PiratesåÊ,41,56
+GracieåÊ,65,27
+Trust the ManåÊ,100,63
+Hamlet 2åÊ,129,76
+Velvet GoldmineåÊ,103,314
+The WailingåÊ,77,24
+Glee: The 3D Concert MovieåÊ,67,21
+The Legend of SuriyothaiåÊ,31,47
+Two Evil EyesåÊ,76,45
+BarbecueåÊ,17,1
+All or NothingåÊ,81,94
+Princess KaiulaniåÊ,26,14
+Opal DreamåÊ,24,6
+HeiståÊ,44,57
+Flame and CitronåÊ,80,44
+UndiscoveredåÊ,41,45
+Red Riding: In the Year of Our Lord 1974åÊ,91,44
+The Girl on the TrainåÊ,66,14
+Veronika Decides to DieåÊ,19,42
+Crocodile DundeeåÊ,35,93
+"Ultramarines: A Warhammer 40,000 MovieåÊ",19,64
+The I InsideåÊ,33,57
+Beneath Hill 60åÊ,17,39
+PolisseåÊ,163,33
+AwakeåÊ,133,196
+Star Wars: The Clone WarsåÊ            ,47,73
+Skin TradeåÊ,66,38
+The Lost BoysåÊ,147,339
+Crazy HeartåÊ,273,226
+The RoseåÊ,32,52
+Baggage ClaimåÊ,52,41
+BarbarellaåÊ,107,186
+ShipwreckedåÊ,6,14
+ElectionåÊ,175,441
+The NamesakeåÊ,167,117
+The DUFFåÊ,132,116
+GlitteråÊ,66,308
+The Haunting in Connecticut 2: Ghosts of GeorgiaåÊ,79,57
+SilmidoåÊ,15,17
+Bright StaråÊ,222,110
+My Name Is KhanåÊ,210,235
+FootlooseåÊ,60,113
+All Is LoståÊ,346,312
+LimboåÊ,46,140
+Namastey LondonåÊ,15,47
+The Wind That Shakes the BarleyåÊ,169,222
+Yeh Jawaani Hai DeewaniåÊ,25,102
+The Karate KidåÊ,81,235
+Quo VadisåÊ,54,90
+Repo! The Genetic OperaåÊ,147,259
+Valley of the Wolves: IraqåÊ,16,159
+Pulp FictionåÊ,215,2195
+The Muppet MovieåÊ,63,92
+NightcrawleråÊ,534,552
+Club DreadåÊ,66,201
+The Sound of MusicåÊ,119,406
+SplashåÊ,43,99
+Little Miss SunshineåÊ,270,889
+Stand by MeåÊ,99,584
+28 Days Later...åÊ,224,1441
+You Got ServedåÊ,58,247
+Escape from AlcatrazåÊ,53,142
+Brown SugaråÊ,37,60
+A Thin Line Between Love and HateåÊ,11,14
+50/50åÊ,327,378
+ShutteråÊ,135,148
+CreepshowåÊ,127,211
+That Awkward MomentåÊ,164,100
+Modern ProblemsåÊ,14,48
+KicksåÊ,6,6
+Much Ado About NothingåÊ,41,165
+On Her Majesty's Secret ServiceåÊ,143,452
+The PlayeråÊ            ,9,25
+New NightmareåÊ,109,271
+Drive Me CrazyåÊ,59,147
+Akeelah and the BeeåÊ,95,172
+Half BakedåÊ,40,164
+New in TownåÊ,121,78
+SyrianaåÊ,358,625
+American PsychoåÊ,288,1061
+The Good GirlåÊ,107,298
+Bon Cop Bad CopåÊ,28,90
+The Boondock Saints II: All Saints DayåÊ,91,188
+The City of Your Final DestinationåÊ,55,25
+Enough SaidåÊ,231,142
+Easy AåÊ,262,264
+The InkwellåÊ,7,11
+Shadow of the VampireåÊ,196,339
+PromåÊ,83,32
+The PallbeareråÊ,18,55
+Held UpåÊ,11,34
+Woman on TopåÊ,72,86
+Howards EndåÊ,51,86
+PreacheråÊ            ,18,85
+AnomalisaåÊ,328,140
+Another YearåÊ,248,141
+8 WomenåÊ,128,162
+Showdown in Little TokyoåÊ,45,102
+Clay PigeonsåÊ,49,109
+It's Kind of a Funny StoryåÊ,163,150
+Made in DagenhamåÊ,163,73
+When Did You Last See Your Father?åÊ,90,34
+PrefontaineåÊ,23,37
+The Wicked LadyåÊ,17,15
+The Secret of KellsåÊ,118,71
+Begin AgainåÊ,283,182
+Down in the ValleyåÊ,74,110
+Brooklyn RulesåÊ,41,48
+RestlessåÊ,17,12
+The Singing DetectiveåÊ,66,79
+The Land GirlsåÊ,36,27
+FidoåÊ,140,98
+The Wendell Baker StoryåÊ,32,27
+Wild TargetåÊ,68,86
+PathologyåÊ,79,107
+Wuthering HeightsåÊ            ,9,33
+10th & WolfåÊ,26,34
+Dear WendyåÊ,100,58
+AloftåÊ,56,11
+AkiraåÊ,150,430
+The Death and Life of Bobby ZåÊ,30,31
+The Rocket: The Legend of Rocket RichardåÊ,20,31
+SwelteråÊ,21,24
+My Lucky StaråÊ,11,2
+Imagine Me & YouåÊ,85,149
+Mr. ChurchåÊ,5,5
+Swimming PoolåÊ,160,288
+Green Street 3: Never Back DownåÊ,25,13
+The Blood of HeroesåÊ,21,43
+Code of HonoråÊ,15,14
+Driving Miss DaisyåÊ,61,134
+Soul FoodåÊ,34,30
+Rumble in the BronxåÊ,62,81
+Far from MenåÊ,102,19
+Thank You for SmokingåÊ,239,323
+Hostel: Part IIåÊ,252,384
+An EducationåÊ,278,237
+ShopgirlåÊ,124,268
+The Hotel New HampshireåÊ,9,61
+NarcåÊ,127,214
+Men with BroomsåÊ,9,83
+Witless ProtectionåÊ,35,20
+The Work and the GloryåÊ,6,33
+ExtractåÊ,192,106
+Masked and AnonymousåÊ,51,95
+Alias BettyåÊ,38,26
+Code 46åÊ,133,150
+Outside BetåÊ,4,3
+CrashåÊ,287,1624
+Albert NobbsåÊ,222,98
+Black NovemberåÊ,6,4
+Ta Ra Rum PumåÊ,16,37
+PersepolisåÊ,242,158
+The HoleåÊ,147,69
+The WaveåÊ,93,96
+The Neon DemonåÊ,253,73
+Harry BrownåÊ,224,224
+Spider-Man 3åÊ,392,1902
+The Omega CodeåÊ,39,206
+JunoåÊ,387,881
+Pound of FleshåÊ,36,29
+Diamonds Are ForeveråÊ,120,276
+The GodfatheråÊ,208,2238
+FlashdanceåÊ,51,128
+500 Days of SummeråÊ,331,494
+The PianoåÊ,83,241
+Magic MikeåÊ,324,281
+Darkness FallsåÊ,140,369
+Live and Let DieåÊ,136,251
+My Dog SkipåÊ,79,149
+"Definitely, MaybeåÊ",160,168
+Jumping the BroomåÊ,52,59
+The Great GatsbyåÊ,490,753
+"Good Night, and Good Luck.åÊ",351,526
+CapoteåÊ,271,416
+DesperadoåÊ,93,202
+The ClaimåÊ,71,92
+FargoåÊ            ,54,173
+Logan's RunåÊ,112,242
+The Man with the Golden GunåÊ,118,258
+Action JacksonåÊ,35,65
+The DescentåÊ,342,1100
+Michael Jordan to the MaxåÊ,14,13
+Devil's DueåÊ,137,120
+Flirting with DisasteråÊ,50,105
+The Devil's RejectsåÊ,261,687
+Buffy the Vampire SlayeråÊ            ,96,665
+DopeåÊ,180,89
+In Too DeepåÊ,28,29
+SkyfallåÊ,750,1498
+House of 1000 CorpsesåÊ,202,922
+Alien ZoneåÊ,8,21
+A Serious ManåÊ,341,324
+Get LowåÊ,160,97
+WarlockåÊ,31,79
+Beyond the LightsåÊ,71,37
+A Single ManåÊ,281,247
+The Last Temptation of ChriståÊ,114,308
+Outside ProvidenceåÊ,72,100
+Bride & PrejudiceåÊ,119,276
+Rabbit-Proof FenceåÊ,74,249
+Who's Your Caddy?åÊ,25,46
+Split SecondåÊ,39,75
+NikitaåÊ            ,27,83
+The Other Side of HeavenåÊ,27,85
+Dark AngelåÊ            ,11,160
+Veer-ZaaraåÊ,29,119
+RedbeltåÊ,158,119
+CyrusåÊ,223,126
+A Dog of FlandersåÊ,25,20
+Auto FocusåÊ,97,147
+Factory GirlåÊ,117,106
+We Need to Talk About KevinåÊ,389,301
+The Christmas CandleåÊ,9,34
+The Mighty MacsåÊ,34,12
+Losin' ItåÊ,7,16
+Mother and ChildåÊ,161,65
+March or DieåÊ,6,26
+Les visiteursåÊ,16,78
+SomewhereåÊ,301,198
+I Hope They Serve Beer in HellåÊ,52,72
+Chairman of the BoardåÊ,12,62
+HesheråÊ,134,99
+Dom HemingwayåÊ,151,66
+GerryåÊ,103,290
+The Heart of MeåÊ,39,25
+FreeheldåÊ,133,25
+The Extra ManåÊ,104,29
+Hard to Be a GodåÊ,121,28
+Ca$håÊ,27,38
+Wah-WahåÊ,49,50
+The Boondock SaintsåÊ,100,876
+Z StormåÊ,12,1
+TwixtåÊ,112,70
+Snow QueenåÊ,10,9
+Alpha and Omega 4: The Legend of the Saw Toothed CaveåÊ,2,6
+Pale RideråÊ,38,138
+Stargate: The Ark of TruthåÊ,18,42
+Dazed and ConfusedåÊ,152,408
+High School Musical 2åÊ,44,162
+Two Lovers and a BearåÊ,6,6
+Criminal ActivitiesåÊ,46,38
+Aimee & JaguaråÊ,63,51
+The ChumscrubberåÊ,74,129
+ShadeåÊ,25,65
+House at the End of the StreetåÊ,224,160
+IncendiesåÊ,226,156
+"Remember Me, My LoveåÊ",36,21
+Perrier's BountyåÊ,54,31
+Elite SquadåÊ,142,107
+AnnabelleåÊ,271,291
+Bran Nue DaeåÊ,33,31
+Boyz n the HoodåÊ,64,183
+La BambaåÊ,18,63
+The Four SeasonsåÊ,6,33
+Dressed to KillåÊ,121,201
+The Adventures of Huck FinnåÊ,14,54
+GoåÊ,137,418
+Friends with MoneyåÊ,111,166
+The Andromeda StrainåÊ,57,171
+BatsåÊ,97,160
+Nowhere in AfricaåÊ,73,84
+ShameåÊ,486,375
+Layer CakeåÊ,149,263
+The Work and the Glory II: American ZionåÊ,4,21
+The EaståÊ,200,119
+A Home at the End of the WorldåÊ,84,135
+AberdeenåÊ,28,35
+The MessengeråÊ,217,92
+TrackeråÊ,12,18
+ControlåÊ,183,143
+The TerminatoråÊ,204,692
+Good Bye Lenin!åÊ,153,225
+The Damned UnitedåÊ,145,75
+The Return of the Living DeadåÊ,203,300
+GomorrahåÊ            ,10,25
+MallratsåÊ,93,434
+GreaseåÊ,124,350
+PlatoonåÊ,120,505
+Fahrenheit 9/11åÊ,288,1416
+Butch Cassidy and the Sundance KidåÊ,130,309
+Mary PoppinsåÊ,145,259
+Ordinary PeopleåÊ,62,283
+Around the World in 80 DaysåÊ,188,191
+West Side StoryåÊ,120,316
+CaddyshackåÊ,71,250
+The BrothersåÊ,52,43
+The WoodåÊ,18,50
+The Usual SuspectsåÊ,162,1182
+A Nightmare on Elm Street 5: The Dream ChildåÊ,88,227
+Van Wilder: Party LiaisonåÊ,96,258
+The WrestleråÊ,391,547
+Duel in the SunåÊ,32,87
+Best in ShowåÊ,119,340
+Escape from New YorkåÊ,201,284
+School DazeåÊ,22,38
+Daddy Day CampåÊ,52,32
+Mr. Nice GuyåÊ,63,70
+A Mighty WindåÊ,97,272
+Mystic PizzaåÊ,34,73
+War & PeaceåÊ            ,10,44
+Sliding DoorsåÊ,88,278
+Tales from the HoodåÊ,25,52
+The Last King of ScotlandåÊ,252,351
+Halloween 5åÊ,137,287
+BernieåÊ,231,136
+Dolphins and Whales 3D: Tribes of the OceanåÊ,9,5
+PollockåÊ,115,148
+200 CigarettesåÊ,67,182
+The WordsåÊ,216,130
+Casa de mi PadreåÊ,133,70
+City IslandåÊ,149,101
+The GuardåÊ,261,131
+CollegeåÊ,42,78
+The Virgin SuicidesåÊ,152,520
+Little VoiceåÊ,64,160
+Miss MarchåÊ,76,73
+Wish I Was HereåÊ,149,93
+Simply IrresistibleåÊ,35,190
+Veronica MarsåÊ            ,47,315
+Hedwig and the Angry InchåÊ,108,231
+Only the StrongåÊ,17,50
+Goddess of LoveåÊ,12,5
+Shattered GlassåÊ,129,190
+NovocaineåÊ,84,105
+The Business of StrangersåÊ,61,78
+The Wild BunchåÊ,147,287
+The WacknessåÊ,147,75
+The Great Train RobberyåÊ,23,50
+Morvern CallaråÊ,75,111
+Beastmaster 2: Through the Portal of TimeåÊ,17,16
+The 5th QuarteråÊ,16,29
+The Flower of EvilåÊ,60,36
+The GreateståÊ,63,50
+Snow Flower and the Secret FanåÊ,56,22
+Come Early MorningåÊ,36,29
+Lucky BreakåÊ,47,34
+JuliaåÊ,38,44
+"Surfer, DudeåÊ",26,37
+Lake of FireåÊ,47,29
+11:14åÊ,68,133
+Men of WaråÊ,19,38
+Don McKayåÊ,39,17
+DeadfallåÊ,162,86
+A Shine of RainbowsåÊ,37,19
+The Hit ListåÊ,26,39
+EmmaåÊ            ,10,50
+VideodromeåÊ,179,228
+L'auberge espagnoleåÊ,88,149
+Song OneåÊ,43,21
+Murder by NumbersåÊ,136,302
+Winter in WartimeåÊ,111,37
+Freaky DeakyåÊ,13,11
+The TrainåÊ,64,124
+Trade of InnocentsåÊ,6,8
+The ProtectoråÊ,112,214
+Stiff Upper LipsåÊ,12,21
+The InbetweenersåÊ            ,15,42
+Bend It Like BeckhamåÊ,161,438
+Sunshine StateåÊ,68,81
+CrossoveråÊ,25,36
+Khiladi 786åÊ,23,31
+[Rec] 2åÊ,222,148
+Standing OvationåÊ,9,6
+The StingåÊ,119,252
+Chariots of FireåÊ,90,213
+Diary of a Mad Black WomanåÊ,62,202
+ShineåÊ,71,104
+Don JonåÊ,364,314
+High Plains DrifteråÊ,72,169
+Ghost WorldåÊ,122,488
+IrisåÊ,100,144
+GalaxinaåÊ,24,44
+The ChorusåÊ,112,110
+Mambo ItalianoåÊ,67,67
+WonderlandåÊ,91,153
+Do the Right ThingåÊ,103,418
+Harvard ManåÊ,27,69
+Le HavreåÊ,205,41
+IrreversibleåÊ,192,664
+R100åÊ,72,12
+Rang De BasantiåÊ,33,321
+AnimalsåÊ,22,8
+Salvation BoulevardåÊ,48,31
+The TenåÊ,65,117
+A Room for Romeo BrassåÊ,29,47
+HeadhuntersåÊ,284,121
+GrabbersåÊ,187,70
+Saint RalphåÊ,47,52
+Miss JulieåÊ,88,14
+Somewhere in TimeåÊ,41,249
+Dum Maaro DumåÊ,24,27
+Insidious: Chapter 2åÊ,318,269
+Saw IIåÊ,250,864
+10 Cloverfield LaneåÊ,411,440
+Jackass: The MovieåÊ,106,327
+Lights OutåÊ,159,95
+Paranormal Activity 3åÊ,251,314
+OuijaåÊ,183,159
+A Nightmare on Elm Street 3: Dream WarriorsåÊ,131,311
+The GiftåÊ,297,279
+Instructions Not IncludedåÊ,41,81
+Paranormal Activity 4åÊ,248,247
+The RobeåÊ,42,69
+The Return of the Pink PantheråÊ,33,73
+Freddy's Dead: The Final NightmareåÊ,91,252
+MonsteråÊ,185,533
+"20,000 Leagues Under the SeaåÊ",69,108
+Paranormal Activity: The Marked OnesåÊ,220,155
+The Elephant ManåÊ,117,356
+Dallas Buyers ClubåÊ,471,340
+The Lazarus EffectåÊ,152,126
+MementoåÊ,274,2067
+OculusåÊ,336,339
+Clerks IIåÊ,174,472
+Billy ElliotåÊ,151,433
+The Way Way BackåÊ,276,216
+House Party 2åÊ,12,11
+The Man from Snowy RiveråÊ,18,56
+Doug's 1st MovieåÊ,28,18
+The ApostleåÊ,95,157
+Mommie DeareståÊ,74,161
+Our Idiot BrotheråÊ,179,115
+RaceåÊ,125,49
+The Players ClubåÊ,22,26
+OåÊ,92,153
+"As Above, So BelowåÊ",196,211
+AddictedåÊ,9,33
+Eve's BayouåÊ,31,209
+Still AliceåÊ,309,195
+The EgyptianåÊ,15,67
+NighthawksåÊ,36,107
+Friday the 13th Part VIII: Jason Takes ManhattanåÊ,129,291
+My Big Fat Greek WeddingåÊ,168,756
+Spring BreakersåÊ,444,561
+Halloween: The Curse of Michael MyersåÊ,123,335
+Y Tu MamÌÁ TambiÌ©nåÊ,173,385
+Shaun of the DeadåÊ,246,859
+The Haunting of Molly HartleyåÊ,74,113
+Lone StaråÊ,68,173
+Halloween 4: The Return of Michael MyersåÊ,144,374
+April Fool's DayåÊ,96,125
+DineråÊ,42,87
+Lone Wolf McQuadeåÊ,29,65
+Apollo 18åÊ,228,323
+Sunshine CleaningåÊ,195,134
+No EscapeåÊ,203,214
+The BeastmasteråÊ,44,87
+Solomon and ShebaåÊ,14,33
+Fifty Shades of BlackåÊ,59,53
+Not Easily BrokenåÊ,45,21
+A Farewell to ArmsåÊ,42,46
+The Perfect MatchåÊ,12,9
+Digimon: The MovieåÊ,29,65
+Saved!åÊ,121,324
+The Barbarian InvasionsåÊ,135,166
+Robin and MarianåÊ,27,90
+The ForsakenåÊ,56,131
+Force 10 from NavaroneåÊ,22,80
+UHFåÊ,59,198
+Grandma's BoyåÊ,61,202
+Slums of Beverly HillsåÊ,60,79
+Once Upon a Time in the WeståÊ,164,565
+MadeåÊ,81,165
+MoonåÊ,415,485
+Keeping Up with the SteinsåÊ,43,41
+Sea Rex 3D: Journey to a Prehistoric WorldåÊ,7,4
+The Sweet HereafteråÊ,120,196
+Of Gods and MenåÊ,195,89
+Bottle ShockåÊ,109,89
+Jekyll and Hyde... Together AgainåÊ,21,32
+Heavenly CreaturesåÊ,93,265
+90 Minutes in HeavenåÊ,12,29
+Everything Must GoåÊ,155,86
+Zero EffectåÊ,81,151
+The MachiniståÊ,204,458
+Light SleeperåÊ,19,39
+Kill the MessengeråÊ,163,99
+Rabbit HoleåÊ,248,144
+Party MonsteråÊ,39,158
+Green RoomåÊ,322,125
+The Oh in OhioåÊ,50,56
+Atlas Shrugged: Who Is John Galt?åÊ,12,56
+Bottle RocketåÊ,83,184
+Albino AlligatoråÊ,37,69
+"Gandhi, My FatheråÊ",16,25
+Standard Operating ProcedureåÊ,121,22
+Out of the BlueåÊ,24,27
+Tucker and Dale vs EvilåÊ,324,200
+"Lovely, StillåÊ",27,15
+TycoonåÊ,9,23
+Desert BlueåÊ,31,28
+DecoysåÊ,35,66
+The VisitåÊ,371,455
+RedactedåÊ,133,108
+FascinationåÊ,13,44
+Saving GraceåÊ            ,9,47
+Area 51åÊ,56,55
+Sleep TightåÊ,191,48
+The CottageåÊ,80,82
+Dead Like Me: Life After DeathåÊ,19,80
+Farce of the PenguinsåÊ,19,47
+Flying ByåÊ,,2
+PsychåÊ            ,38,127
+RudderlessåÊ,44,60
+Henry & MeåÊ,3,1
+Christmas EveåÊ,6,15
+We Have Your HusbandåÊ,,3
+Dying of the LightåÊ,64,47
+Born of WaråÊ,8,3
+Capricorn OneåÊ,64,153
+Should've Been RomeoåÊ,2,2
+Running ForeveråÊ,,
+Yoga HosersåÊ,35,4
+Navy Seals vs. ZombiesåÊ,21,14
+I Served the King of EnglandåÊ,99,27
+Soul KitchenåÊ,115,26
+Sling BladeåÊ,104,309
+The AwakeningåÊ,195,112
+HostelåÊ,303,1516
+Tristram Shandy: A Cock and Bull StoryåÊ,122,123
+Take ShelteråÊ,359,219
+Lady in WhiteåÊ,130,69
+Driving LessonsåÊ,64,70
+Let's Kill Ward's WifeåÊ,13,11
+The Texas Chainsaw Massacre 2åÊ,159,258
+Pat Garrett & Billy the KidåÊ,54,106
+Only God ForgivesåÊ,440,475
+Camping sauvageåÊ,7,6
+Without MenåÊ,4,12
+BarfiåÊ,1,1
+Dear FrankieåÊ,96,182
+All HatåÊ,8,8
+The Names of LoveåÊ,87,21
+Treading WateråÊ,10,3
+Savage GraceåÊ,121,65
+Out of the BlueåÊ,43,22
+Police AcademyåÊ,45,133
+The Blue LagoonåÊ,36,140
+Four Weddings and a FuneralåÊ,84,197
+Fast Times at Ridgemont HighåÊ,118,228
+Moby DickåÊ,42,115
+25th HouråÊ,202,454
+Secrets and LiesåÊ            ,5,27
+BoundåÊ,120,208
+Requiem for a DreamåÊ,234,1916
+State FairåÊ,17,55
+TangoåÊ,35,40
+SalvadoråÊ,48,89
+Moms' Night OutåÊ,49,125
+Donnie DarkoåÊ,283,2110
+Saving Private PerezåÊ,16,14
+CharacteråÊ,54,68
+SpunåÊ,92,199
+Life During WartimeåÊ,159,37
+Lady VengeanceåÊ,202,131
+Mozart's SisteråÊ,50,17
+Mean MachineåÊ,54,84
+ExiledåÊ,98,26
+BlackthornåÊ,92,40
+Lilya 4-EveråÊ,112,206
+After.LifeåÊ,138,137
+FuglyåÊ,9,7
+One Flew Over the Cuckoo's NeståÊ,149,760
+R.L. Stine's Monsterville: The Cabinet of SoulsåÊ,5,4
+Silent MovieåÊ,39,61
+AirliftåÊ,39,178
+Anne of Green GablesåÊ            ,2,74
+Falcon RisingåÊ,29,32
+The SweeneyåÊ,111,99
+Sexy BeaståÊ,149,346
+Easy MoneyåÊ,90,25
+Whale RideråÊ,149,346
+PaaåÊ,12,49
+CargoåÊ,64,62
+PanåÊ,256,186
+High School MusicalåÊ,57,726
+Animal KingdomåÊ            ,8,23
+Love and Death on Long IslandåÊ,50,48
+Night WatchåÊ,232,310
+The Crying GameåÊ,63,148
+Porky'såÊ,75,152
+Survival of the DeadåÊ,274,159
+Night of the Living DeadåÊ,284,580
+Lost in TranslationåÊ,265,1848
+Annie HallåÊ,154,491
+The Greatest Show on EarthåÊ,44,107
+Exodus: Gods and KingsåÊ,314,657
+Monster's BallåÊ,153,522
+MaggieåÊ,256,200
+Leaving Las VegasåÊ,123,286
+Hansel & Gretel Get BakedåÊ,46,11
+The Return of the Living DeadåÊ,203,300
+The Front PageåÊ,34,50
+The Boy Next DooråÊ,149,131
+TrapezeåÊ,20,35
+Saving GraceåÊ            ,9,47
+The Kids Are All RightåÊ,323,291
+They LiveåÊ,172,333
+The Great EscapeåÊ,111,301
+What the #$*! Do We (K)now!?åÊ,74,486
+The Last Exorcism Part IIåÊ,161,68
+BoyhoodåÊ,548,836
+ScoopåÊ,177,248
+Planet of the ApesåÊ,230,1368
+The WashåÊ,27,38
+3 StrikesåÊ,22,10
+The CooleråÊ,157,215
+The MisfitsåÊ,70,121
+The Night ListeneråÊ,125,156
+The Jerky BoysåÊ,10,37
+My Soul to TakeåÊ,160,136
+The OrphanageåÊ,300,308
+A Haunted House 2åÊ,69,48
+The Rules of AttractionåÊ,143,425
+TopazåÊ,50,89
+Let's Go to PrisonåÊ,46,58
+Four RoomsåÊ,51,177
+SecretaryåÊ,163,390
+The Real CancunåÊ,52,62
+Talk RadioåÊ,40,78
+Waiting for GuffmanåÊ,50,202
+Love StinksåÊ,45,85
+You Kill MeåÊ,121,76
+ThumbsuckeråÊ,114,91
+Red StateåÊ,270,287
+MirrormaskåÊ,116,151
+SamsaraåÊ,115,69
+The BarbariansåÊ,15,35
+The Art of Getting ByåÊ,122,71
+ZipperåÊ,35,20
+Poolhall JunkiesåÊ,41,113
+The Loss of Sexual InnocenceåÊ,31,70
+Holy MotorsåÊ,332,110
+JoeåÊ,232,118
+Shooting FishåÊ,43,53
+PrisonåÊ,68,38
+Psycho Beach PartyåÊ,51,93
+The Big TeaseåÊ,33,31
+"Buen DÌ_a, RamÌ_nåÊ",26,7
+TruståÊ,109,137
+An Everlasting PieceåÊ,34,26
+Among GiantsåÊ,31,26
+AdoreåÊ,141,87
+The Velocity of GaryåÊ,19,40
+Mondays in the SunåÊ,64,38
+Stake LandåÊ,215,141
+Sonny with a ChanceåÊ            ,5,47
+The Last Time I Committed SuicideåÊ,12,28
+Futuro BeachåÊ,70,10
+Another Happy DayåÊ,46,42
+A Lonely Place to DieåÊ,135,97
+NothingåÊ,38,50
+The Geographer Drank His Globe AwayåÊ,8,3
+1776åÊ,34,129
+InescapableåÊ,36,20
+Hell's AngelsåÊ,35,53
+Purple VioletsåÊ,6,19
+The VeilåÊ,39,29
+The Loved OnesåÊ,182,104
+No VacancyåÊ,14,21
+How to Fall in LoveåÊ,3,4
+The Perfect WaveåÊ,3,15
+Ben-HuråÊ,1,1
+A Man for All SeasonsåÊ,62,167
+NetworkåÊ,161,317
+Gone with the WindåÊ,157,706
+Desert DanceråÊ,31,10
+Major DundeeåÊ,53,67
+Down for LifeåÊ,1,6
+Annie Get Your GunåÊ,21,90
+Four LionsåÊ,246,148
+House of SandåÊ,42,35
+DefendoråÊ,78,90
+The PirateåÊ,41,54
+The Good HeartåÊ,61,14
+The History BoysåÊ,112,172
+UnknownåÊ,349,332
+M*A*S*HåÊ            ,55,147
+Midnight CowboyåÊ,88,334
+The Full MontyåÊ,122,174
+Airplane!åÊ,134,427
+Chain of CommandåÊ,11,14
+FridayåÊ,20,157
+Menace II SocietyåÊ,28,96
+EmpireåÊ            ,22,92
+Creepshow 2åÊ,95,118
+The Ballad of Cable HogueåÊ,31,62
+In Cold BloodåÊ,79,128
+The Nun's StoryåÊ,25,83
+HarperåÊ,22,74
+FrenzyåÊ,110,199
+The WitchåÊ,425,452
+I Got the Hook UpåÊ,19,38
+She's the OneåÊ,43,98
+Gods and MonstersåÊ,127,229
+The Secret in Their EyesåÊ,262,231
+Day of the DeadåÊ,184,419
+TrainåÊ,33,52
+Evil Dead IIåÊ,252,537
+Pootie TangåÊ,31,131
+SharknadoåÊ,139,236
+La otra conquistaåÊ,39,494
+TrollhunteråÊ,337,199
+Ira & AbbyåÊ,30,24
+The WatchåÊ,265,207
+Winter PassingåÊ,50,53
+D.E.B.S.åÊ,50,135
+The Masked SaintåÊ,9,15
+The BetrayedåÊ,15,11
+TaxmanåÊ,5,20
+The SecretåÊ            ,1,4
+2:13åÊ,4,12
+"Batman: The Dark Knight Returns, Part 2åÊ",44,55
+Time to ChooseåÊ,6,2
+In the Name of the King: The Last JobåÊ,17,10
+Wicked BloodåÊ,7,10
+Dawn PatrolåÊ,9,13
+Lords of LondonåÊ,3,18
+High AnxietyåÊ,55,102
+March of the PenguinsåÊ,169,331
+Margin CallåÊ,290,225
+AuguståÊ,10,13
+ChokeåÊ,159,72
+WhiplashåÊ,535,731
+City of GodåÊ,214,749
+Human TrafficåÊ,47,160
+Day OneåÊ,17,13
+The Dead GirlåÊ,85,73
+The HuntåÊ,349,249
+A Christmas StoryåÊ,109,458
+BellaåÊ,60,174
+Class of 1984åÊ,101,75
+The Opposite SexåÊ,1,3
+Dreaming of Joseph LeesåÊ,16,18
+The ClassåÊ,212,86
+Rosemary's BabyåÊ,215,447
+The Man Who Shot Liberty ValanceåÊ,107,214
+AdamåÊ,122,70
+Maria Full of GraceåÊ,155,172
+BeginnersåÊ,261,142
+FeaståÊ,130,252
+Animal HouseåÊ,94,257
+GoldfingeråÊ,164,418
+AntiviralåÊ,188,47
+It's a Wonderful LifeåÊ,206,706
+TrainspottingåÊ,134,514
+The Original Kings of ComedyåÊ,53,83
+Paranormal Activity 2åÊ,264,359
+Waking Ned DevineåÊ,94,213
+Bowling for ColumbineåÊ,215,888
+Coming HomeåÊ,85,20
+A Nightmare on Elm Street 2: Freddy's RevengeåÊ,138,327
+A Room with a ViewåÊ,55,94
+The PurgeåÊ,361,578
+SinisteråÊ,411,524
+Martin Lawrence Live: RunteldatåÊ,24,35
+Cat on a Hot Tin RoofåÊ,70,141
+Beneath the Planet of the ApesåÊ,78,150
+Air BudåÊ,35,34
+PokÌ©mon 3: The MovieåÊ,39,55
+Jason Lives: Friday the 13th Part VIåÊ,158,307
+The Bridge on the River KwaiåÊ,122,273
+Spaced InvadersåÊ,16,54
+Family PlotåÊ,67,111
+The ApartmentåÊ,183,241
+Jason Goes to Hell: The Final FridayåÊ,112,317
+Torn CurtainåÊ,64,137
+Dave Chappelle's Block PartyåÊ,114,72
+Slow WeståÊ,246,88
+Krush GrooveåÊ,7,16
+Next Day AiråÊ,49,20
+Elmer GantryåÊ,42,81
+Judgment at NurembergåÊ,73,176
+Trippin'åÊ,16,8
+Robot ChickenåÊ            ,38,75
+Red RiveråÊ,91,162
+Phat GirlzåÊ,37,101
+Before MidnightåÊ,405,270
+Teen Wolf TooåÊ,29,65
+Phantasm IIåÊ,81,100
+Woman Thou Art LoosedåÊ,17,23
+Real Women Have CurvesåÊ,75,109
+Deadline GallipoliåÊ            ,,1
+WateråÊ,91,147
+East Is EaståÊ,82,161
+WhippedåÊ,48,81
+Kama Sutra: A Tale of LoveåÊ,33,92
+Please GiveåÊ,133,53
+Willy Wonka & the Chocolate FactoryåÊ,104,349
+Warlock: The ArmageddonåÊ,22,49
+8 Heads in a Duffel BagåÊ,30,49
+Days of HeavenåÊ,112,181
+Thirteen Conversations About One ThingåÊ,79,115
+JawbreakeråÊ,49,183
+BasquiatåÊ,42,78
+Frances HaåÊ,345,139
+TsotsiåÊ,152,177
+HappinessåÊ,148,499
+DysFunktional FamilyåÊ,23,14
+TuskåÊ,254,261
+OldboyåÊ,305,809
+Letters to GodåÊ,19,65
+Hobo with a ShotgunåÊ,272,230
+CompadresåÊ,5,8
+FreewayåÊ,65,196
+Love's Abiding JoyåÊ,5,18
+Fish TankåÊ,248,112
+Damsels in DistressåÊ,152,54
+CreatureåÊ            ,10,33
+BacheloretteåÊ,156,129
+BrainDeadåÊ            ,7,28
+Brave New GirlåÊ,1,27
+Tim and Eric's Billion Dollar MovieåÊ,82,71
+The GambleråÊ,175,145
+The GrandåÊ            ,4,20
+Summer StormåÊ,40,56
+Fort McCoyåÊ,8,8
+Chain LetteråÊ,63,48
+Just LookingåÊ,20,25
+The DivideåÊ,174,226
+The EclipseåÊ,90,31
+DemonicåÊ,58,39
+My Big Fat Independent MovieåÊ,14,24
+Alice in WonderlandåÊ,451,736
+The DeportedåÊ,,1
+Tanner HallåÊ,21,14
+Open RoadåÊ,9,9
+They Came TogetheråÊ,98,85
+30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon TattooåÊ,29,13
+Never Back Down 2: The BeatdownåÊ,23,30
+Point BlankåÊ,87,128
+Four Single FathersåÊ,2,1
+Enter the Dangerous MindåÊ,17,9
+Something WickedåÊ,7,15
+AWOL-72åÊ,6,8
+IguanaåÊ,9,9
+CinderellaåÊ,343,323
+Chicago OvercoatåÊ,11,14
+Barry MundayåÊ,34,20
+Central StationåÊ,71,257
+Pocketful of MiraclesåÊ,21,40
+Close RangeåÊ,28,31
+Boynton Beach ClubåÊ,35,27
+AmnesiacåÊ,30,15
+FreakonomicsåÊ,73,23
+The OmenåÊ,154,310
+High TensionåÊ,251,539
+Griff the InvisibleåÊ,57,32
+UnnaturalåÊ,14,17
+Hustle & FlowåÊ,159,206
+Some Like It HotåÊ,181,350
+Friday the 13th Part VII: The New BloodåÊ,110,270
+The Wizard of OzåÊ,213,533
+Young FrankensteinåÊ,129,315
+Diary of the DeadåÊ,280,332
+Lage Raho Munna BhaiåÊ,15,106
+Ulee's GoldåÊ,61,57
+The Black StallionåÊ,33,90
+Sardaar JiåÊ,1,8
+Journey to SaturnåÊ,2,6
+Donovan's ReefåÊ,27,65
+The DressåÊ,19,5
+A Guy Named JoeåÊ,9,27
+Blazing SaddlesåÊ,121,363
+Friday the 13th: The Final ChapteråÊ,166,326
+IdaåÊ,269,123
+MauriceåÊ,29,69
+Beer LeagueåÊ,20,53
+The Astronaut's WifeåÊ,107,260
+Riding GiantsåÊ,74,37
+TimecrimesåÊ,173,124
+Silver MedalliståÊ,5,4
+Timber FallsåÊ,66,47
+Singin' in the RainåÊ,169,568
+"Fat, Sick & Nearly DeadåÊ",13,25
+A Haunted HouseåÊ,129,107
+2016: Obama's AmericaåÊ,30,199
+Halloween IIåÊ,220,491
+That Thing You Do!åÊ,75,212
+Halloween III: Season of the WitchåÊ,162,532
+Escape from the Planet of the ApesåÊ,74,92
+HudåÊ,65,120
+Kevin Hart: Let Me ExplainåÊ,26,30
+My Own Private IdahoåÊ,63,153
+Garden StateåÊ,205,978
+Before SunriseåÊ,121,395
+Sur le seuilåÊ,9,5
+Jesus' SonåÊ,74,87
+Saving FaceåÊ,54,84
+Brick LaneåÊ,80,29
+Robot & FrankåÊ,252,84
+My Life Without MeåÊ,72,134
+The Spectacular NowåÊ,220,178
+Marilyn Hotchkiss' Ballroom Dancing and Charm SchoolåÊ,1,2
+ReligulousåÊ,197,345
+FuelåÊ,14,34
+Valley of the Heart's DelightåÊ,3,3
+Dodgeball: A True Underdog StoryåÊ,191,392
+Eye of the DolphinåÊ,18,18
+8: The Mormon PropositionåÊ,28,30
+The Other End of the LineåÊ,22,26
+AnatomyåÊ,62,110
+Sleep DealeråÊ,47,40
+SuperåÊ,238,203
+Christmas MailåÊ,2,7
+StungåÊ,95,23
+AntibirthåÊ,10,2
+Get on the BusåÊ,28,35
+Thr3eåÊ,25,90
+IdiocracyåÊ,121,434
+The Rise of the KraysåÊ,10,26
+This Is EnglandåÊ,172,192
+Alien UprisingåÊ,20,82
+Bathing BeautyåÊ,8,28
+Go for It!åÊ,8,10
+"Dancer, Texas Pop. 81åÊ",15,63
+Show BoatåÊ,14,46
+Redemption RoadåÊ,12,9
+The CallingåÊ,48,28
+The Brave Little ToasteråÊ,17,62
+FantasiaåÊ,99,230
+The French ConnectionåÊ,138,280
+8 DaysåÊ,,3
+Friday the 13th Part IIIåÊ,235,372
+Friday the 13th: A New BeginningåÊ,160,342
+The Last Sin EateråÊ,18,29
+Do You Believe?åÊ,11,63
+Impact PointåÊ,11,9
+The Valley of DecisionåÊ,7,29
+EdenåÊ,5,4
+Chicken Tikka MasalaåÊ,10,14
+Always WoodstockåÊ,5,6
+Jack Brooks: Monster SlayeråÊ,95,46
+The Best Years of Our LivesåÊ,97,235
+BullyåÊ,76,336
+EllingåÊ,67,95
+Mi AmericaåÊ,4,1
+[Rec]åÊ,252,374
+Lies in Plain SightåÊ,,4
+SharkskinåÊ,1,1
+ContainmentåÊ,33,21
+The TimberåÊ,19,17
+From Russia with LoveåÊ,167,358
+The Toxic Avenger Part IIåÊ,49,40
+In the Heat of the NightåÊ            ,1,24
+SleeperåÊ,66,128
+It FollowsåÊ,533,631
+Everything You Always Wanted to Know About Sex * But Were Afraid to AskåÊ,50,78
+To Kill a MockingbirdåÊ,127,471
+Mad Max 2: The Road WarrioråÊ,177,294
+The Legend of Drunken MasteråÊ,77,146
+LolitaåÊ,103,207
+Boys Don't CryåÊ,123,434
+Silent HouseåÊ,218,154
+The Lives of OthersåÊ,215,407
+CourageousåÊ,34,175
+The HustleråÊ,100,167
+Boom TownåÊ,12,34
+The Triplets of BellevilleåÊ,167,312
+Smoke SignalsåÊ,56,132
+American SplendoråÊ,180,226
+Before SunsetåÊ,211,492
+Amores PerrosåÊ,157,361
+ThirteenåÊ,126,545
+Gentleman's AgreementåÊ,61,113
+Winter's BoneåÊ,365,297
+Touching the VoidåÊ,121,156
+Alexander's Ragtime BandåÊ,10,29
+Me and You and Everyone We KnowåÊ,151,243
+Inside JobåÊ,171,129
+We Are Your FriendsåÊ,158,60
+Ghost Dog: The Way of the SamuraiåÊ,167,346
+Harsh TimesåÊ,118,222
+CaptiveåÊ,39,22
+Full FrontalåÊ,108,172
+WitchboardåÊ,65,74
+Strangers with CandyåÊ            ,8,62
+HamletåÊ,85,224
+ShortbusåÊ,160,206
+Waltz with BashiråÊ,231,156
+"The Book of Mormon Movie, Volume 1: The JourneyåÊ",7,30
+No End in SightåÊ,79,55
+The Diary of a Teenage GirlåÊ,168,72
+Get RealåÊ            ,1,26
+In the Shadow of the MoonåÊ,107,44
+Meek's CutoffåÊ,200,98
+Inside Deep ThroatåÊ,123,64
+Dinner RushåÊ,39,73
+ClockwatchersåÊ,41,111
+The Virginity HitåÊ,46,13
+SubwayåÊ,30,45
+House of DåÊ,46,86
+TeethåÊ,221,161
+Six-String SamuraiåÊ,51,102
+Hum To Mohabbat KaregaåÊ,1,1
+It's All Gone Pete TongåÊ,58,67
+Saint John of Las VegasåÊ,45,11
+24 7: Twenty Four SevenåÊ,44,21
+StonewallåÊ,74,30
+EurekaåÊ            ,20,136
+Roadside RomeoåÊ,6,17
+This Thing of OursåÊ,5,18
+The Lost Medallion: The Adventures of Billy StoneåÊ,10,16
+The Last Five YearsåÊ,81,40
+The Missing PersonåÊ,66,23
+Return of the Living Dead IIIåÊ,46,130
+LondonåÊ,34,90
+SherrybabyåÊ,78,78
+Stealing HarvardåÊ,52,92
+CircleåÊ,29,59
+Eden LakeåÊ,161,357
+PlushåÊ,18,24
+Vampire KillersåÊ,107,91
+Gangster's Paradise: JerusalemaåÊ,30,23
+Freeze FrameåÊ,24,41
+Grave EncountersåÊ,116,235
+StitchesåÊ,98,53
+Nine DeadåÊ,25,64
+"To Be Frank, Sinatra at 100åÊ",,
+BananasåÊ,40,105
+SupercapitaliståÊ,20,9
+RockawayåÊ,8,6
+WingsåÊ            ,19,56
+The Lady from ShanghaiåÊ,90,175
+No Man's Land: The Rise of ReekeråÊ,21,31
+HighwayåÊ,12,67
+Small ApartmentsåÊ,33,26
+Coffee TownåÊ,9,19
+The Ghastly Love of Johnny XåÊ,94,19
+All Is BrightåÊ,41,23
+The Torture Chamber of Dr. SadismåÊ,38,36
+Straight A'såÊ,12,20
+A Funny Thing Happened on the Way to the ForumåÊ,25,72
+Slacker UprisingåÊ,27,15
+The Legend of Hell's Gate: An American ConspiracyåÊ,2,14
+The Walking DeceasedåÊ,23,25
+The Curse of Downers GroveåÊ,32,22
+Shark LakeåÊ,18,17
+River's EdgeåÊ,45,111
+NorthforkåÊ,60,122
+The Marine 4: Moving TargetåÊ,23,15
+BuriedåÊ,363,447
+SubmarineåÊ,249,100
+The SquareåÊ,68,42
+One to AnotheråÊ,14,15
+CarrieåÊ,359,371
+ABCD (Any Body Can Dance)åÊ,15,38
+A Nightmare on Elm StreetåÊ,256,668
+Man on WireåÊ,194,134
+AbandonedåÊ,,6
+Brotherly LoveåÊ,10,19
+The Last ExorcismåÊ,311,300
+Nowhere BoyåÊ,205,75
+A Streetcar Named DesireåÊ,94,233
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the BombåÊ,192,839
+El crimen del padre AmaroåÊ,85,110
+Beasts of the Southern WildåÊ,663,269
+Battle for the Planet of the ApesåÊ,62,91
+SongcatcheråÊ,39,78
+Higher GroundåÊ,68,34
+VaaluåÊ,3,6
+The Greatest Movie Ever SoldåÊ,130,45
+Ed and His Dead MotheråÊ,13,17
+Travelers and MagiciansåÊ,44,28
+Hang 'Em HighåÊ,26,109
+Deadline - U.S.A.åÊ,27,28
+SublimeåÊ,53,103
+A Beginner's Guide to SnuffåÊ,,
+Independence DaysasteråÊ,10,12
+Dysfunctional FriendsåÊ,4,8
+Run Lola RunåÊ,181,709
+MayåÊ,114,277
+Against the WildåÊ,11,9
+Living Dark: The Story of Ted the CaveråÊ,1,1
+Under the Same MoonåÊ,75,58
+Conquest of the Planet of the ApesåÊ,80,95
+In the BedroomåÊ,179,510
+I Spit on Your GraveåÊ,225,209
+"Happy, TexasåÊ",77,122
+My Summer of LoveåÊ,124,103
+The LunchboxåÊ,195,162
+YesåÊ,76,48
+You Can't Take It with YouåÊ,51,133
+From Here to EternityåÊ,101,150
+She Wore a Yellow RibbonåÊ,55,90
+Grace UnpluggedåÊ,15,21
+FoolishåÊ,16,13
+N-SecureåÊ,5,15
+CaramelåÊ,109,66
+Out of the DarkåÊ,40,18
+The BubbleåÊ,51,23
+The ConversationåÊ,149,313
+Dil Jo Bhi Kahey...åÊ,4,4
+Mississippi MermaidåÊ,35,26
+I Love Your WorkåÊ,22,40
+Cabin FeveråÊ,68,40
+Dawn of the DeadåÊ,287,1057
+WaitressåÊ,173,204
+BloodsportåÊ,61,210
+Mr. Smith Goes to WashingtonåÊ,96,245
+KidsåÊ,71,408
+The Squid and the WhaleåÊ,110,232
+Kissing Jessica SteinåÊ,110,190
+"A Woman, a Gun and a Noodle ShopåÊ",101,20
+Kickboxer: VengeanceåÊ,2,1
+SpellboundåÊ,97,161
+ExoticaåÊ,53,83
+Buffalo '66åÊ,106,318
+InsidiousåÊ,445,752
+Repo ManåÊ,131,148
+Nine QueensåÊ,94,125
+The GatekeepersåÊ,105,33
+The Ballad of Jack and RoseåÊ,75,68
+The To Do ListåÊ,97,79
+Killing ZoeåÊ,37,93
+The BelieveråÊ,84,159
+Snow AngelsåÊ,88,57
+UnsulliedåÊ,6,3
+Session 9åÊ,127,481
+I Want Someone to Eat Cheese WithåÊ,32,28
+Mooz-LumåÊ,8,14
+HatchetåÊ,229,235
+Modern TimesåÊ,120,211
+Stolen SummeråÊ,31,55
+My Name Is BruceåÊ,100,88
+The SalonåÊ,14,5
+Road HardåÊ,14,11
+Forty Shades of BlueåÊ,39,26
+AmigoåÊ,35,8
+PontypoolåÊ,178,142
+TruckeråÊ,46,22
+Me You and Five BucksåÊ,,
+The Lords of SalemåÊ,234,166
+HouseboundåÊ,166,83
+Wal-Mart: The High Cost of Low PriceåÊ,56,70
+Fetching CodyåÊ,16,10
+Once Upon a Time in QueensåÊ,9,7
+Closer to the MoonåÊ,18,13
+Mutant WorldåÊ,4,10
+Growing Up SmithåÊ,,1
+CheckmateåÊ,6,18
+Jack ReacheråÊ,387,448
+#HorroråÊ,35,42
+Wind WalkersåÊ,27,2
+Snow White and the Seven DwarfsåÊ,145,204
+The Holy GirlåÊ,78,37
+ShalakoåÊ,10,41
+Incident at Loch NessåÊ,60,63
+The Dog LoveråÊ,9,8
+Girl HouseåÊ,63,33
+The Blue RoomåÊ,92,16
+House at the End of the DriveåÊ,4,6
+Batman: The MovieåÊ,53,155
+"Lock, Stock and Two Smoking BarrelsåÊ",116,523
+The Ballad of Gregorio CortezåÊ,,2
+The Streets of San FranciscoåÊ            ,13,13
+The CelebrationåÊ,98,258
+Trees LoungeåÊ,43,65
+Journey from the FallåÊ,15,19
+The BasketåÊ,14,38
+Eddie: The Sleepwalking CannibalåÊ,56,10
+Mercury RisingåÊ,79,127
+Space: Above and BeyondåÊ            ,8,79
+Queen of the MountainsåÊ,16,24
+Def-Con 4åÊ,18,46
+The Hebrew HammeråÊ,35,53
+Neal 'N' NikkiåÊ,5,24
+The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About ItåÊ,16,42
+Forget Me NotåÊ,24,38
+RebeccaåÊ,144,276
+Friday the 13th Part 2åÊ,242,394
+The Lost WeekendåÊ,97,136
+C.H.U.D.åÊ,77,88
+Filly BrownåÊ,16,11
+The Lion of JudahåÊ,7,3
+NiagaraåÊ,74,116
+How Green Was My ValleyåÊ,74,124
+The Girlfriend ExperienceåÊ            ,19,17
+Da Sweet Blood of JesusåÊ,46,9
+"Sex, Lies, and VideotapeåÊ",58,95
+SawåÊ,287,1509
+Super TroopersåÊ,100,333
+The AlgerianåÊ,5,1
+The Amazing CatfishåÊ,50,2
+The Day the Earth Stood StillåÊ,276,698
+Monsoon WeddingåÊ,137,214
+You Can Count on MeåÊ,122,231
+The Trouble with HarryåÊ,73,150
+Lucky Number SlevinåÊ,202,507
+But I'm a CheerleaderåÊ,99,186
+Home RunåÊ,10,32
+Reservoir DogsåÊ,173,931
+The Blue BirdåÊ,7,25
+"The Good, the Bad and the UglyåÊ",181,780
+The Second MotheråÊ,111,26
+Blue Like JazzåÊ,38,89
+Down and Out with the DollsåÊ,12,4
+"Pink Ribbons, Inc.åÊ",23,10
+Certifiably JonathanåÊ,17,2
+QåÊ,9,16
+The Knife of Don JuanåÊ,1,1
+Grand Theft ParsonsåÊ,51,38
+Extreme MovieåÊ,14,35
+The Charge of the Light BrigadeåÊ,24,52
+Below ZeroåÊ,18,11
+CrowsneståÊ,22,51
+AirborneåÊ,9,70
+Cotton Comes to HarlemåÊ,30,27
+The Wicked WithinåÊ,9,7
+Bleeding HeartsåÊ,7,2
+Waiting...åÊ,91,236
+Dead Man's ShoesåÊ,99,207
+Wolf CreekåÊ            ,2,6
+From a Whisper to a ScreamåÊ,57,37
+Sex with StrangersåÊ,12,8
+Dracula: Pages from a Virgin's DiaryåÊ,58,32
+Faith Like PotatoesåÊ,5,36
+Beyond the Black RainbowåÊ,97,82
+The Raid: RedemptionåÊ,481,316
+The Dead UndeadåÊ,17,15
+The Vatican ExorcismsåÊ,9,10
+CasablancaåÊ,242,1123
+Lake MungoåÊ,95,85
+Rocket Singh: Salesman of the YearåÊ,14,35
+Silent RunningåÊ,87,199
+RockyåÊ,141,542
+The SleepwalkeråÊ,16,2
+The FogåÊ,212,335
+Tom JonesåÊ,30,56
+UnfriendedåÊ,270,309
+Taxi DriveråÊ,211,881
+The HowlingåÊ,161,195
+Dr. NoåÊ,184,389
+Chernobyl DiariesåÊ,270,271
+HellraiseråÊ,203,335
+God's Not Dead 2åÊ,29,102
+Cry_WolfåÊ,137,220
+Godzilla 2000åÊ,107,140
+Blue ValentineåÊ,377,283
+TransamericaåÊ,169,230
+The Devil InsideåÊ,225,290
+Beyond the Valley of the DollsåÊ,101,137
+Love Me TenderåÊ,39,36
+An Inconvenient TruthåÊ,372,504
+Sands of Iwo JimaåÊ,40,69
+Shine a LightåÊ,129,67
+The Green InfernoåÊ,285,164
+DepartureåÊ,29,5
+The SessionsåÊ,337,126
+"Food, Inc.åÊ",120,183
+October BabyåÊ,40,82
+Next Stop WonderlandåÊ,38,86
+JunoåÊ,387,881
+The Skeleton TwinsåÊ,185,79
+Martha Marcy May MarleneåÊ,348,186
+Obvious ChildåÊ,155,73
+Frozen RiveråÊ,181,93
+20 Feet from StardomåÊ,149,80
+Two Girls and a GuyåÊ,54,102
+Walking and TalkingåÊ,18,32
+The Full MontyåÊ,122,174
+Who Killed the Electric Car?åÊ,87,155
+The Broken Hearts Club: A Romantic ComedyåÊ,51,120
+Bubba Ho-TepåÊ,260,366
+GoosebumpsåÊ,218,154
+SlamåÊ,16,51
+Brigham CityåÊ,12,63
+FizaåÊ,1,19
+History of the World: Part IåÊ,48,131
+OrgazmoåÊ,59,168
+All the Real GirlsåÊ,88,126
+Dream with the FishesåÊ,28,29
+Blue CaråÊ,44,68
+LuminariasåÊ,13,32
+Palo AltoåÊ,117,61
+AjamiåÊ,100,32
+Wristcutters: A Love StoryåÊ,117,88
+I OriginsåÊ,140,160
+The Battle of Shaker HeightsåÊ,29,49
+The Lovely BonesåÊ,308,593
+The Act of KillingåÊ,248,107
+Taxi to the Dark SideåÊ,84,40
+Once in a Lifetime: The Extraordinary Story of the New York CosmosåÊ,40,13
+Guiana 1838åÊ,,2
+Lisa Picard Is FamousåÊ,13,16
+Antarctica: A Year on IceåÊ,31,16
+A Lego BrickumentaryåÊ,43,11
+HardflipåÊ,2,5
+Chocolate: Deep Dark SecretsåÊ,4,30
+The House of the DevilåÊ,238,193
+The Perfect HoståÊ,112,73
+Safe MenåÊ,33,52
+Speedway JunkyåÊ,8,43
+The Last Big ThingåÊ,95,17
+The SpecialsåÊ,29,54
+16 to LifeåÊ,3,6
+Alone with HeråÊ,71,31
+Creative ControlåÊ,36,7
+SpecialåÊ,56,37
+SparkleråÊ,8,13
+The Helix... LoadedåÊ,3,9
+In Her Line of FireåÊ,8,12
+The Jimmy ShowåÊ,9,21
+HeliåÊ,87,15
+Karachi se LahoreåÊ,6,15
+Loving AnnabelleåÊ,14,75
+HitsåÊ,20,8
+Jimmy and JudyåÊ,23,26
+Frat PartyåÊ,6,28
+The Party's OveråÊ,12,7
+ProudåÊ,2,22
+The Poker HouseåÊ,12,24
+ChildlessåÊ,,
+ZMD: Zombies of Mass DestructionåÊ,64,39
+Snow White: A Deadly SummeråÊ,7,14
+Hidden AwayåÊ,9,7
+My Last Day Without YouåÊ,21,12
+Steppin: The MovieåÊ,,1
+Doc Holliday's RevengeåÊ,1,6
+Black RockåÊ,95,47
+Truth or DieåÊ,40,41
+The PetåÊ,6,24
+Bang Bang BabyåÊ,16,16
+Fear ClinicåÊ,39,19
+Zombie HunteråÊ,150,30
+A Fine StepåÊ,1,1
+TranceåÊ,393,212
+CharlyåÊ,32,55
+Banshee ChapteråÊ,78,56
+JesseåÊ            ,,14
+Ask Me AnythingåÊ,8,64
+And Then Came LoveåÊ,6,4
+Food ChainsåÊ,9,3
+On the WaterfrontåÊ,134,281
+L!fe HappensåÊ,18,15
+"4 Months, 3 Weeks and 2 DaysåÊ",233,172
+The Horror Network Vol. 1åÊ,10,3
+Hard CandyåÊ,231,651
+The QuietåÊ,65,90
+CircumstanceåÊ,76,43
+Fruitvale StationåÊ,327,168
+The Brass TeapotåÊ,62,39
+BambiåÊ,116,136
+The HammeråÊ,73,23
+SnitchåÊ,238,122
+Latter DaysåÊ,35,252
+ElzaåÊ,2,2
+1982åÊ,6,3
+"For a Good Time, Call...åÊ",115,34
+Celeste & Jesse ForeveråÊ,193,61
+Time ChangeråÊ,16,158
+London to BrightonåÊ,68,72
+American HeroåÊ,16,23
+Windsor DriveåÊ,7,6
+A SeparationåÊ,354,264
+Crying with LaughteråÊ,16,6
+Welcome to the DollhouseåÊ,74,174
+Ruby in ParadiseåÊ,11,28
+Raising Victor VargasåÊ,59,135
+Pandora's BoxåÊ,71,84
+Harrison MontgomeryåÊ,5,1
+Live-In MaidåÊ,25,11
+DeterrenceåÊ,29,79
+The Mudge BoyåÊ,17,30
+The Young UnknownsåÊ,13,3
+Not CoolåÊ,6,72
+Dead SnowåÊ,224,200
+Saints and SoldiersåÊ,33,157
+VesselåÊ,1,3
+American GraffitiåÊ,100,238
+Iraq for Sale: The War ProfiteersåÊ,21,24
+Aqua Teen Hunger Force Colon Movie Film for TheatersåÊ,82,73
+Safety Not GuaranteedåÊ,271,260
+Kevin Hart: Laugh at My PainåÊ,5,8
+Kill ListåÊ,255,209
+The InnkeepersåÊ,292,247
+The UnbornåÊ,178,230
+The ConformiståÊ,120,101
+Interview with the AssassinåÊ,31,31
+Donkey PunchåÊ,114,74
+All the Boys Love Mandy LaneåÊ,233,129
+BledåÊ,8,30
+High NoonåÊ,153,333
+Hoop DreamsåÊ,53,74
+RizeåÊ,49,46
+DestinyåÊ,4,11
+L.I.E.åÊ,64,109
+The Sisterhood of NightåÊ,23,17
+B-GirlåÊ,8,10
+King KongåÊ,446,2618
+House of WaxåÊ,228,576
+Half NelsonåÊ,208,189
+Naturally NativeåÊ,2,6
+Hav PlentyåÊ,25,36
+AdulterersåÊ,8,1
+Escape from TomorrowåÊ,143,79
+StarsuckersåÊ,21,8
+The Hadza: Last of the FirståÊ,1,1
+AfteråÊ,34,27
+TreacheryåÊ,5,5
+WalteråÊ,10,19
+Top HatåÊ,66,98
+The Blair Witch ProjectåÊ,360,3400
+WoodstockåÊ,53,63
+The Kentucky Fried MovieåÊ,82,109
+Mercy StreetsåÊ,15,16
+Arnolds ParkåÊ,,4
+Broken VesselsåÊ,18,19
+Water & PoweråÊ,,
+They Will Have to Kill Us FirståÊ,22,2
+Crop Circles: Quest for TruthåÊ,15,13
+Light from the DarkroomåÊ,,1
+IrreplaceableåÊ,18,1
+The Maid's RoomåÊ,8,9
+A Hard Day's NightåÊ,105,219
+The Harvest/La CosechaåÊ,3,2
+Love LettersåÊ,4,9
+Julija in alfa RomeoåÊ,2,2
+FireproofåÊ,50,215
+Faith ConnectionsåÊ,19,3
+BenjiåÊ,5,36
+Open WateråÊ,235,916
+High RoadåÊ,8,3
+Kingdom of the SpidersåÊ,95,84
+Mad Hot BallroomåÊ,84,65
+The Station AgentåÊ,154,286
+To Save a LifeåÊ,20,55
+WordplayåÊ,88,43
+Beyond the MatåÊ,70,80
+The Singles WardåÊ,5,53
+OsamaåÊ,105,77
+Sholem Aleichem: Laughing in the DarknessåÊ,29,5
+GrooveåÊ,46,74
+The R.M.åÊ,3,34
+Twin Falls IdahoåÊ,54,87
+Mean CreekåÊ,126,154
+Hurricane StreetsåÊ,17,21
+Never AgainåÊ,25,34
+Civil BrandåÊ,11,24
+Lonesome JimåÊ,81,53
+Drinking BuddiesåÊ,155,106
+Deceptive Practice: The Mysteries and Mentors of Ricky JayåÊ,39,7
+Seven SamuraiåÊ,153,596
+The Other Dream TeamåÊ,26,9
+Johnny SuedeåÊ,10,24
+Finishing the Game: The Search for a New Bruce LeeåÊ,35,12
+RubberåÊ,230,170
+HomeåÊ,165,214
+Kiss the BrideåÊ,9,10
+The Slaughter RuleåÊ,17,32
+MonstersåÊ,344,451
+The CaliforniansåÊ,2,11
+The Living WakeåÊ,28,10
+Detention of the DeadåÊ,29,20
+Crazy StoneåÊ,11,9
+Scott Walker: 30 Century ManåÊ,48,11
+Everything Put TogetheråÊ,24,10
+Good KillåÊ,166,68
+Insomnia ManicaåÊ,,3
+The Outrageous Sophie TuckeråÊ,9,3
+Now Is GoodåÊ,48,54
+Girls Gone DeadåÊ,64,28
+America Is Still the PlaceåÊ,,
+SubconsciousåÊ,1,16
+CrossroadsåÊ,111,578
+Enter NowhereåÊ,26,45
+The King of NajayoåÊ,1,1
+Fight to the FinishåÊ,3,2
+Alleluia! The Devil's CarnivalåÊ,10,20
+The Sound and the ShadowåÊ,1,1
+Rodeo GirlåÊ,1,4
+Born to Fly: Elizabeth Streb vs. GravityåÊ,10,10
+The Little Ponderosa ZooåÊ,1,1
+Oz the Great and PowerfulåÊ,525,511
+The Toxic AvengeråÊ,96,147
+Straight Out of BrooklynåÊ,8,11
+Bloody SundayåÊ,92,120
+Diamond RuffåÊ,1,5
+Conversations with Other WomenåÊ,365,54
+Poultrygeist: Night of the Chicken DeadåÊ,88,58
+Mutual FriendsåÊ,3,3
+42nd StreetåÊ,65,97
+Rise of the Entrepreneur: The Search for a Better WayåÊ,,10
+MetropolitanåÊ,71,52
+As It Is in HeavenåÊ,34,94
+RoadsideåÊ,15,6
+Napoleon DynamiteåÊ,220,1473
+Blue RuinåÊ,279,135
+Paranormal ActivityåÊ,409,1189
+Dogtown and Z-BoysåÊ,86,88
+Monty Python and the Holy GrailåÊ,131,660
+QuinceaÌ±eraåÊ,69,48
+Gory Gory HallelujahåÊ,8,18
+HeroesåÊ            ,75,379
+TarnationåÊ,72,114
+I Want Your MoneyåÊ,4,31
+Love in the Time of MonstersåÊ,9,5
+The BeyondåÊ,203,253
+Home MoviesåÊ            ,11,82
+What Happens in VegasåÊ,148,151
+The Dark HoursåÊ,80,52
+My Beautiful LaundretteåÊ,46,64
+FabledåÊ,8,10
+Show MeåÊ,10,5
+Cries & WhispersåÊ,76,197
+Intolerance: Love's Struggle Throughout the AgesåÊ,69,88
+TrekkiesåÊ,43,75
+The Broadway MelodyåÊ,36,71
+The Evil DeadåÊ,304,740
+ManiacåÊ,279,131
+Censored VoicesåÊ,23,3
+MurderballåÊ,110,70
+American Ninja 2: The ConfrontationåÊ,40,46
+51 Birch StreetåÊ,45,16
+RevolutionåÊ            ,23,323
+Rotor DR1åÊ,4,8
+HalloweenåÊ,318,1191
+12 Angry MenåÊ,177,888
+My Dog TulipåÊ,51,15
+It Happened One NightåÊ,124,235
+DogtoothåÊ,211,170
+Tupac: ResurrectionåÊ,26,32
+TumbleweedsåÊ,64,73
+The ProphecyåÊ,56,194
+When the Cat's AwayåÊ,29,25
+Pieces of AprilåÊ,131,177
+The Big SwapåÊ,4,7
+Old JoyåÊ,88,57
+Wendy and LucyåÊ,189,112
+3 BackyardsåÊ,20,23
+Pierrot le FouåÊ,96,74
+Sisters in LawåÊ,27,8
+Ayurveda: Art of BeingåÊ,15,12
+Nothing But a ManåÊ,24,26
+"First Love, Last RitesåÊ",16,16
+Fighting Tommy RileyåÊ,13,23
+Royal KillåÊ,8,18
+Across the UniverseåÊ,156,524
+The Looking GlassåÊ,4,1
+Death Race 2000åÊ,164,147
+Locker 13åÊ,10,5
+Midnight CabaretåÊ,1,4
+Anderson's CrossåÊ,8,7
+BizarreåÊ,9,1
+Graduation DayåÊ,78,58
+Some Guy Who Kills PeopleåÊ,131,58
+ComplianceåÊ,286,175
+Chasing AmyåÊ,147,500
+Lovely & AmazingåÊ,71,85
+Death CallsåÊ,,
+Better Luck TomorrowåÊ,51,138
+The Incredibly True Adventure of Two Girls in LoveåÊ,23,36
+Chuck & BuckåÊ,59,136
+American DesiåÊ,9,40
+Amidst the Devil's WingsåÊ,,
+CubeåÊ,99,696
+Love and Other CatastrophesåÊ,21,21
+I Married a Strange Person!åÊ,19,21
+NovemberåÊ,43,64
+Like CrazyåÊ,206,150
+Teeth and BloodåÊ,,2
+Sugar TownåÊ,29,22
+The MotelåÊ,27,11
+The CanyonsåÊ,162,87
+Happy ValleyåÊ            ,11,59
+On the OutsåÊ,26,15
+Shotgun StoriesåÊ,85,32
+ExamåÊ,77,120
+The Sticky Fingers of TimeåÊ,8,7
+Sunday School MusicalåÊ,5,18
+RuståÊ,3,8
+InkåÊ,66,215
+The Christmas BunnyåÊ,4,10
+Jesus PeopleåÊ,,
+ButterflyåÊ,15,18
+UnDividedåÊ,1,1
+The FrozenåÊ,12,28
+The Love LetteråÊ,,56
+Horse CampåÊ,1,1
+Give Me ShelteråÊ,6,2
+The Big ParadeåÊ,48,45
+Little Big TopåÊ,2,1
+Along the RoadsideåÊ,17,2
+BronsonåÊ,225,145
+Western ReligionåÊ,5,4
+BurnåÊ,22,6
+UrbaniaåÊ,38,73
+The StewardessesåÊ,21,5
+"The Beast from 20,000 FathomsåÊ",67,88
+"20,000 Leagues Under the SeaåÊ",69,108
+Mad MaxåÊ,208,303
+SwingersåÊ,77,252
+A Fistful of DollarsåÊ,122,235
+She Done Him WrongåÊ,35,59
+Short Cut to Nirvana: Kumbh MelaåÊ,15,13
+The Grace CardåÊ,25,26
+Middle of NowhereåÊ,37,10
+3åÊ,76,18
+The Business of FancydancingåÊ,12,14
+Call + ResponseåÊ,7,2
+Side EffectsåÊ,450,274
+MalevolenceåÊ,60,112
+Shooting the WarwicksåÊ,4,1
+Super HybridåÊ,42,22
+BagheadåÊ,93,40
+SolitudeåÊ,1,1
+The Case of the Grinning CatåÊ,16,4
+OrdetåÊ,54,49
+Good DickåÊ,38,51
+The Man from EarthåÊ,66,638
+The Trials of Darryl HuntåÊ,11,10
+An American Girl HolidayåÊ,6,32
+Yesterday Was a LieåÊ,25,10
+Theresa Is a MotheråÊ,13,1
+H.åÊ,18,1
+Archaeology of a WomanåÊ,3,3
+Children of HeavenåÊ,46,130
+WeekendåÊ,143,68
+She's Gotta Have ItåÊ,26,26
+Butterfly GirlåÊ,,1
+The World Is MineåÊ,5,1
+Another EarthåÊ,242,228
+The CallingåÊ,48,28
+Sweet Sweetback's Baadasssss SongåÊ,38,50
+Perfect CowboyåÊ,,
+TadpoleåÊ,91,101
+OnceåÊ,232,329
+The Woman ChaseråÊ,18,22
+The Horse BoyåÊ,29,9
+When the Lights Went OutåÊ,44,27
+Heroes of DirtåÊ,2,1
+The Texas Chain Saw MassacreåÊ,277,826
+A Charlie Brown ChristmasåÊ,43,126
+Antarctic Edge: 70å¡ SouthåÊ,5,2
+ArousedåÊ,16,9
+Top SpinåÊ,18,2
+Roger & MeåÊ,40,133
+Cat PeopleåÊ,130,106
+An American in HollywoodåÊ,3,3
+Sound of My VoiceåÊ,136,69
+The Brain That SingsåÊ,,
+The Blood of My BrotheråÊ,12,7
+Your Sister's SisteråÊ,171,62
+Romantic SchemeråÊ,,
+A Dog's BreakfaståÊ,8,46
+A Dog's BreakfaståÊ,8,46
+Night of the Living DeadåÊ,284,580
+Une Femme MariÌ©eåÊ,36,10
+The Birth of a NationåÊ,21,8
+The Work and the StoryåÊ,1,5
+Facing the GiantsåÊ,31,382
+The GallowsåÊ,159,150
+EraserheadåÊ,152,535
+Over the Hill to the PoorhouseåÊ,1,1
+Hollywood ShuffleåÊ,21,32
+The MightyåÊ,57,113
+PenitentiaryåÊ,23,10
+The Lost Skeleton of CadavraåÊ,88,118
+"Dude, Where's My Dog?!åÊ",2,4
+Cheap ThrillsåÊ,193,52
+Indie Game: The MovieåÊ,50,23
+ClosureåÊ,61,44
+Open SecretåÊ,1,9
+Echo Dr.åÊ,5,1
+The Night VisitoråÊ,14,19
+The Past is a Grotesque AnimalåÊ,5,1
+The Last House on the LeftåÊ,241,279
+"Peace, Propaganda & the Promised LandåÊ",16,13
+PiåÊ,138,586
+"I Love You, Don't Touch Me!åÊ",5,15
+20 DatesåÊ,32,83
+Queen CrabåÊ,18,18
+Super Size MeåÊ,193,404
+The FPåÊ,66,22
+Happy ChristmasåÊ,65,23
+The Brain That Wouldn't DieåÊ,95,152
+Tiger OrangeåÊ,13,8
+Supporting CharactersåÊ,15,4
+AbsentiaåÊ,125,136
+The Brothers McMullenåÊ,36,36
+The DirtiesåÊ,73,40
+GabrielaåÊ,1,9
+Tiny FurnitureåÊ,113,35
+HayrideåÊ,13,5
+The Naked ApeåÊ,,3
+CountingåÊ,12,1
+The Call of CthulhuåÊ,60,99
+Bending SteelåÊ,10,10
+The SignalåÊ,161,180
+The Image RevolutionåÊ,7,2
+This Is Martin BonneråÊ,34,7
+A True StoryåÊ,,4
+George WashingtonåÊ,75,76
+Smiling Fish & Goat on FireåÊ,21,26
+Dawn of the Crescent MoonåÊ,3,2
+Raymond Did ItåÊ,2,6
+The Last WaltzåÊ,71,113
+"Run, Hide, DieåÊ",7,5
+The Exploding GirlåÊ,61,10
+The Legend of God's GunåÊ,3,9
+Mutual AppreciationåÊ,52,23
+Her Cry: La Llorona InvestigationåÊ,,2
+Down TerraceåÊ,53,22
+ClerksåÊ,136,615
+Pink NarcissusåÊ,8,16
+Funny Ha HaåÊ,43,61
+In the Company of MenåÊ,80,197
+SabotageåÊ,233,212
+ManitoåÊ,28,21
+RampageåÊ,58,129
+SlackeråÊ,61,80
+Dutch KillsåÊ,,2
+Dry SpellåÊ,1,3
+FlywheelåÊ,5,49
+ExeteråÊ,43,33
+The RidgesåÊ,,8
+The Puffy ChairåÊ,51,71
+Stories of Our LivesåÊ,6,1
+Breaking UpwardsåÊ,22,8
+All Superheroes Must DieåÊ,42,35
+Pink FlamingosåÊ,73,183
+CleanåÊ,81,39
+The CircleåÊ,64,26
+Tin Can ManåÊ,12,1
+The CureåÊ,78,50
+On the DownlowåÊ,,3
+Sanctuary; Quite a ConundrumåÊ,13,8
+BangåÊ,10,14
+PrimeråÊ,143,371
+CaviteåÊ,35,35
+El MariachiåÊ,56,130
+The Mongol KingåÊ,,1
+NewlywedsåÊ,14,14
+Signed Sealed DeliveredåÊ,1,6
+The FollowingåÊ            ,43,359
+A Plague So PleasantåÊ,13,3
+Shanghai CallingåÊ,14,9
+My Date with DrewåÊ,43,84
