@@ -32,7 +32,7 @@
 
 </head>
 
-<body onload="zoomableScatterPlotForRatingsBySocialMedia()">
+<body onload="zoomableScatterPlotForRatingsBySocialMedia();countyDropdownload(); selectedMovieReviewsDonut('Avatar');selectedMovieSocialMediaLikesDonut('Avatar');">
 <!--<style>-->
 
 <!--.axis path,-->
@@ -82,7 +82,7 @@
                         <a href="tables.html"><i class="fa fa-fw fa-table"></i> Correlation</a>
                     </li>
                     <li>
-                        <a href="forms.html"><i class="fa fa-fw fa-edit"></i> Movie Data</a>
+                        <a href="forms.html"><i class="fa fa-fw fa-edit"></i> Documentation</a>
                     </li>
 
                 </ul>
@@ -97,14 +97,20 @@
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
-                        <h1 class="page-header">
-                            MovieTime <small>Dashboard Overview</small>
-                        </h1>
-                        <!--<ol class="breadcrumb">-->
-                            <!--<li class="active">-->
-                                <!--<i class="fa fa-dashboard"></i> Dashboard-->
-                            <!--</li>-->
-                        <!--</ol>-->
+                        <div class="panel panel-yellow">
+                            <div class="panel-heading">
+                        <h4>Which movie to watch tonight? This decision is always made considering two factors, critics reviews and human instinct. Today with this
+                            visualization we study the effect of other factors on the movie ratings. Can the factors such as budget, gross income, FB likes, Actors, Director and cast likes
+                            help in determining the quality of the movie. With the help of MovieTime you would be able to analyze the effect of the above factors on the IMDB ratings of the movie and dive
+                            into the cast and review details of a particular movie. So let's start!!
+                        </h4>
+                            </div>
+                        </div>
+                        <ol class="breadcrumb">
+                            <li class="active">
+                                <i class="fa fa-dashboard"></i> Ratings By Social Media
+                            </li>
+                        </ol>
                     </div>
                 </div>
                 <!-- /.row -->
@@ -206,9 +212,10 @@
                     <div class="col-lg-12">
                         <div class="panel panel-yellow">
                             <div class="panel-heading">
-                                <h3 class="panel-title"><i class="fa fa-bar-chart-o fa-fw"></i> Scatter Plot Matrix for Social Media likes and IMDB rating</h3>
+                                <h3 class="panel-title"><i class="fa fa-bar-chart-o fa-fw"></i> Zoomable Scatter Plot for Social Media likes and IMDB rating</h3>
                             </div>
                             <div class="panel-body">
+                                <div><input type="button" name="xAxis" value="Cast FB Likes"></div>
                                 <div id="morris-area-chart"></div>
                             </div>
                         </div>
@@ -217,39 +224,33 @@
                 <!-- /.row -->
 
                 <div class="row">
-                    <div class="col-lg-4">
-                        <div class="panel panel-default">
+                    <div class="col-lg-7">
+                        <div class="panel panel-yellow">
                             <div class="panel-heading">
-                                <h3 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i>  </h3>
+                                <h3 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i> Castwise social media likes for selected movie </h3>
                             </div>
-                            <div class="panel-body">
+                            <div class="panel-body" style="height: 450px;">
+                                <div><select id="movieSelectionWidget" class=dropdown" style="width: 75px" ></select>
+                                    <input type="button" name="xAxis1" value="Show" onclick= "onDropdownSelect()"></div>
                                 <div id="morris-donut-chart"></div>
-
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="panel panel-default">
+                    <div class="col-lg-5">
+                        <div class="panel panel-yellow">
                             <div class="panel-heading">
-                                <h3 class="panel-title"><i class="fa fa-clock-o fa-fw"></i> Tasks Panel</h3>
+                                <h3 class="panel-title"><i class="fa fa-long-arrow-right fa-fw"></i> User and Critics reviews for selected movie</h3>
                             </div>
-                            <div class="panel-body">
-                                <div id="morris-bar-chart"></div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h3 class="panel-title"><i class="fa fa-money fa-fw"></i> Transactions Panel</h3>
-                            </div>
-                            <div class="panel-body">
+                            <div class="panel-body" style="height: 450px;">
+                                <div><select id="movieSelectionWidget1" class=dropdown" style="width: 75px"></select>
+                                    <input type="button" name="xAxis2" value="Show" onclick= "onDropdownSelect1()"></div>
+                                <div id="morris-donut-chart1"></div>
 
                             </div>
                         </div>
                     </div>
                 </div>
+
                 <!-- /.row -->
 
             </div>
